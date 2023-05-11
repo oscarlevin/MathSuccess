@@ -1,6 +1,6 @@
 {
   "name": "PreTeXt-Lite",
-  "image": "mcr.microsoft.com/devcontainers/python:3",
+  "image": "oscarlevin/pretext:minimal",
   "features": {
     "ghcr.io/devcontainers/features/node:1": {},
     "ghcr.io/rocker-org/devcontainer-features/pandoc:1": {}
@@ -20,7 +20,7 @@
   // },
   "onCreateCommand": "pip install pretext",
   // Use 'postCreateCommand' to run commands after the container is created.
-  "postCreateCommand": "sudo bash ./.devcontainer/postCreateCommand.sh",
+//   "postCreateCommand": "sudo bash ./.devcontainer/postCreateCommand.sh",
 
   // Configure tool-specific properties.
   "customizations": {
@@ -35,7 +35,7 @@
           "other": "off"
         },
         "editor.snippetSuggestions": "top",
-        "xml.validation.enabled": false
+        "xml.validation.enabled": true
       },
       "extensions": ["ms-vscode.live-server", "oscarlevin.pretext-tools"]
     }
