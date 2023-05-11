@@ -58,8 +58,13 @@
         <p>Hello</p>
       </section>
 
-    </chapter>
 
+    </chapter>
+    <chapter xml:id="ch-technical-tools">
+      <title>Technical Tools</title>
+      
+      <xi:include href="using-latex.ptx" />
+    </chapter>
     <backmatter xml:id="backmatter">
       <title>Backmatter</title>
 
