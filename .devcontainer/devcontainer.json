@@ -1,10 +1,10 @@
 {
   "name": "PreTeXt-Lite",
   "image": "oscarlevin/codespace-test",
-  "features": {
-    "ghcr.io/devcontainers/features/node:1": {},
-    "ghcr.io/rocker-org/devcontainer-features/pandoc:1": {}
-  },
+//   "features": {
+//     "ghcr.io/devcontainers/features/node:1": {},
+//     "ghcr.io/rocker-org/devcontainer-features/pandoc:1": {}
+//   },
   // "forwardPorts": [
   // 	27377,
   // 	27378
