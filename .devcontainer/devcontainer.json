@@ -1,6 +1,6 @@
 {
   "name": "PreTeXt-Lite",
-  "image": "oscarlevin/pretext:minimal",
+  "image": "oscarlevin/codespace-test",
   "features": {
     "ghcr.io/devcontainers/features/node:1": {},
     "ghcr.io/rocker-org/devcontainer-features/pandoc:1": {}
