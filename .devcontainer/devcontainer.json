@@ -1,6 +1,6 @@
 {
   "name": "PreTeXt-Lite",
-  "image": "ghcr.io/oscarlevin/pretext",
+  "image": "oscarlevin/pretext:basic",
 //   "features": {
 //     "ghcr.io/devcontainers/features/node:1": {},
 //     "ghcr.io/rocker-org/devcontainer-features/pandoc:1": {}
