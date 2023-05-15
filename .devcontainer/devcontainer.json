@@ -1,6 +1,6 @@
 {
   "name": "PreTeXt-Lite",
-  "image": "oscarlevin/codespace-test",
+  "image": "ghcr.io/oscarlevin/pretext",
 //   "features": {
 //     "ghcr.io/devcontainers/features/node:1": {},
 //     "ghcr.io/rocker-org/devcontainer-features/pandoc:1": {}
@@ -18,7 +18,7 @@
   // 		"protocol": "https"
   // 	}
   // },
-  "onCreateCommand": "pip install pretext",
+//   "onCreateCommand": "pip install pretext",
   // Use 'postCreateCommand' to run commands after the container is created.
 //   "postCreateCommand": "sudo bash ./.devcontainer/postCreateCommand.sh",
 
