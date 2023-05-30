@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-intro-to-college" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Introduction to College</title>
+
+  <introduction>
+    <p>
+      This chapter introduces what you might expect in college, specifically how it is different from high school.
+    </p>
+  </introduction>
+
+  <xi:include href="sec-hidden-curriculum.ptx" />
+  <!-- <xi:include href="sec-college-jobs.ptx" /> -->
+
+</chapter>

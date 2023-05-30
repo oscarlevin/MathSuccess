@@ -50,6 +50,9 @@
       </colophon>
     </frontmatter>
 
+    <xi:include href="ch-intro-to-college.ptx" />
+    
+    
     <chapter xml:id="chapter-title">
       <title>Chapter title</title>
 
