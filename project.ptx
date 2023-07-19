@@ -25,6 +25,13 @@
       <publication>publication/publication.ptx</publication>
       <output-dir>output/print-latex</output-dir>
     </target>
+    <target name="convert">
+      <format>custom</format>
+      <source>OpenStax/modules/m00001/index.cnxml</source>
+      <publication>publication/publication.ptx</publication>
+      <output-dir>output/convert</output-dir>
+      <xsl>xsl/cnxml-pretext.xsl</xsl>
+    </target>
     <target name="subset">
       <!-- Usage: to build starting at XMLID, -->
       <!-- pretext build subset -x XMLID      -->

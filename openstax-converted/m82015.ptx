@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<introduction xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:cnx="http://cnx.rice.edu/cnxml" xmlns:col="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:m="http://www.w3.org/1998/Math/MathML" xml:id="m82015">
+  <introduction>
+    <figure xml:id="ch03fig01">
+      <caption>Our devices can be helpful tools for managing time, but they can also lead to distraction.</caption>
+      <image width="100%" source="../m82015/../../media/CS_Figure_03_01_001_Splash.jpg">
+        <description>A close-up view of a person using smartphone outdoors.</description>
+      </image>
+    </figure>
+  </introduction>
+  <subsection xml:id="m82015-fs-idm511127664">
+    <title>Student Survey</title>
+    <p>How do you feel about your time management abilities? Take this quick survey to figure it out, ranking questions on a scale of 1–4, 1 meaning “least like me” and 4 meaning “most like me.” These questions will help you determine how the chapter concepts relate to you right now. As you are introduced to new concepts and practices, it can be informative to reflect on how your understanding changes over time. We’ll revisit these questions at the end of the chapter to see whether your feelings have changed.</p>
+    <p>
+      <ol xml:id="m82015-fs-idm327475104">
+        <li>
+          <p>I regularly procrastinate completing tasks that don't interest me or seem challenging.</p>
+        </li>
+        <li>
+          <p>I use specific time management strategies to complete tasks.</p>
+        </li>
+        <li>
+          <p>I find it difficult to prioritize tasks because I am not sure what is really important.</p>
+        </li>
+        <li>
+          <p>I am pleased with my ability to manage my time.</p>
+        </li>
+      </ol>
+    </p>
+    <p>You can also take the <url href="https://openstax.org/l/collegesurvey03">Chapter 3 survey</url> anonymously online.</p>
+  </subsection>
+  <subsection xml:id="m82015-fs-idm313893136">
+    <title>About This Chapter</title>
+    <p>In this chapter you will learn about two of the most valuable tools used for academic success: prioritizing and time management. By the time you complete this chapter, you should be able to do the following:</p>
+    <p>
+      <ul xml:id="m82015-fs-idm334110592">
+        <li>
+          <p>Articulate the ways in which time management differs from high school to college.</p>
+        </li>
+        <li>
+          <p>Outline reasons and effects of procrastination, and provide strategies to overcome it.</p>
+        </li>
+        <li>
+          <p>Describe ways to evaluate your own time management skills.</p>
+        </li>
+        <li>
+          <p>Discuss the importance and the process of prioritization.</p>
+        </li>
+        <li>
+          <p>Articulate the importance of goal setting and motivation.</p>
+        </li>
+        <li>
+          <p>Detail strategies and specific tactics for managing your time.</p>
+        </li>
+      </ul>
+    </p>
+  </subsection>
+</introduction>

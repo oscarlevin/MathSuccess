@@ -1,0 +1,58 @@
+<document xmlns="http://cnx.rice.edu/cnxml" class="introduction">
+  <title>Introduction</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>Introduction</md:title>
+    <md:content-id>m00006</md:content-id>
+    <md:uuid>8de21c59-9c76-46df-8e84-12ef0d4d8ec2</md:uuid>
+  </metadata>
+  <content class="introduction">
+    <figure id="ch02fig01" class="splash">
+    <media id="ch02media01" alt="A person sits in a wooded area holding a mobile phone and a water bottle."><image mime-type="image/jpg" src="../../media/CS_Figure_02_00_001_Splash.jpg"/></media>
+    <caption>Our devices can be helpful tools for managing time, but they can also lead to distraction. (Credit: Nenad Stojkovic / Flickr Attribution 2.0 Generic (CC-BY 2.0))</caption></figure>
+    <note class="student-story" id="note-00002">
+      <para id="para-00007">JT decides to pick up an extra shift at work to help pay for his books and put a little more spending money in his pocket. His classes have started off well, but he notices that the expectations have increased and he is having trouble keeping up with school work and job.</para>
+
+      <para id="para-00008">After one late shift, JT drives home to complete assignments that are due by midnight. When he sits down at the computer and books, he looks over the work and realizes that he doesn't have time to read the chapter and come up with answers to questions about the reading. Instead, he skims the work and writes a few short answers, so he can submit it on time.</para>
+ 
+      <para id="para-00009">The next day after class, the professor stops him before he leaves. She says she has noticed that JT has not done well on the last few assignments and asks if he needs some help.</para>
+
+      <para id="para-00010">JT shares that he has picked up an extra shift and sometimes works late, which makes him too tired to complete work some evenings. He promises to use his time more wisely—or stay up later to complete all the work—and let his professor know if he runs into trouble.</para>
+
+      <para id="para-00011">Even though JT assures the professor he can handle it, he worries that the semester will only get harder and that he won’t be able to turn down shifts when he really needs the money to pay for all the expenses of college.</para>
+
+      <para id="para-00012">What Do You Think?</para>
+      <list id="list-00003">
+        <item>If you were JT, what would you do in this situation?</item>
+        <item>What would you do if you needed to work more hours to help pay for course resources?</item>
+        <item>How would you handle managing your time and your assignments?</item>
+        <item>How do you feel about balancing college classes with other obligations or interests? Why do you feel this way?</item>
+      </list>
+    </note>
+    <section id="sect-00001">
+    <title>Student Survey</title>
+    <para id="para-00001">How do you feel about your time management abilities? Take this quick survey to figure it out, ranking questions on a scale of 1—4, 1 meaning “least like me” and 4 meaning “most like me.” These questions will help you determine how the chapter concepts relate to you right now. As you are introduced to new concepts and practices, it can be informative to reflect on how your understanding changes over time.</para>
+    <list list-type="enumerated" number-style="arabic" class="no-style" id="list-00001">
+    <item>I regularly procrastinate completing tasks that don't interest me or seem challenging.</item>
+    <item>I use specific time management strategies to complete tasks.</item>
+    <item>I find it difficult to prioritize tasks because I am not sure what is really important.</item>
+    <item>I am pleased with my ability to manage my time.</item>
+    </list>
+    <para id="para-00002">You can also take the <link url="https://openstax.org/l/collegeconcisesurvey02">Chapter 3 survey</link> anonymously online.</para>
+    <note class="student-profile" id="note-00001">
+    <para id="para-00003">“Before I started college, I had heard that the amount of work would be overwhelming, and that it would be much harder than high school. That was true, but after being in college for a couple of weeks, I felt that people made it seem scarier than it actually was. I had some homework assignments here, some essays, some hard classes, but it wasn't that bad...until midterms and finals came knocking. I had so much to study and so little time. The pressure was unimaginable. And since there was so much material to learn, I kept procrastinating. The nights before the exams were a disaster.</para>
+    <para id="para-00004">After the semester, I realized that I needed to do something differently. Instead of crashing before midterms and finals, I would study throughout the semester. I would review notes after class, do a few practice problems in the book even if homework wasn't assigned, and try to ask professors questions during their office hours if I was confused. This continual effort helped me do better on exams because I built up my understanding and was able to get a good night’s sleep before the big test. I still studied hard, but the material was in reach and understanding it became a reasonable goal, not an impossibility. I also felt more confident going into the exams, because I knew that I had a deeper knowledge — I could recall things more easily. Most importantly, I now had peace of mind throughout the day and during the tests themselves, since I knew that I was better prepared.”</para>
+    <para id="para-00005"><emphasis effect="bold">—Nachum Sash</emphasis>, Actuarial Science Major, City University of New York</para>
+    </note>
+    </section>
+    <section id="sect-00002">
+    <title>About This Chapter</title>
+    <para id="para-00006">In this chapter you will learn about two of the most valuable tools used for academic success: prioritizing and time management. By the time you complete this chapter, you should be able to do the following:</para>
+    <list list-type="bulleted" id="list-00002">
+    <item>Outline the reasons and effects of procrastination and provide strategies to overcome it.</item>
+    <item>Describe ways to evaluate your own time management skills.</item>
+    <item>Discuss the importance and the process of prioritization.</item>
+    <item>Detail strategies and specific tactics for managing your time.</item>
+    </list>
+    </section>
+    </content>
+</document>

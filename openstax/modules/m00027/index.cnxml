@@ -1,0 +1,64 @@
+<document xmlns="http://cnx.rice.edu/cnxml" class="introduction">
+  <title>Introduction</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>Introduction</md:title>
+    <md:content-id>m00027</md:content-id>
+    <md:uuid>e681a317-5324-45f5-95ad-5de673791509</md:uuid>
+  </metadata>
+  <content class="introduction">
+    <figure id="ch06fig01" class="splash">
+    <media id="ch06media01" alt="A person in a wheelchair racer is followed by three hikers as they cross over a wooden pathway in a forest."><image mime-type="image/jpg" src="../../media/CS_Figure_06_00_001_Splash.jpg"/></media>
+    <caption>Spending time in nature is just one way to relieve stress, reconnect, and refocus. (Credit: GlacierNPS / Flickr Public Domain (CC-0))</caption>
+    </figure>
+    <note class="student-story" id="note-00001">
+      <para id="para-00003">When JT entered college, he tried to have it “all.” He needs to work full time to cover all of his college and living expenses, but he knows he also wants a “college experience,” so he has gotten involved in a few organizations. Now, he is struggling with balancing all of the obligations. JT is stressed out and gets angry at the slightest inconvenience.</para>
+
+      <para id="para-00004">JT notices that his irritability and frustration have gotten worse now that he is a few weeks from the end of the semester. The job is fine—and his supervisor is supportive of his pursuit of a degree—but, based on the number of assignments, JT’s professors seem to think he has nothing else to do but study. One class has so much homework that JT has little time for any other class and his grades are starting to slip.</para>
+
+      <para id="para-00005">JT wants to remain involved in the organizations because he enjoys the people, but he is starting to doubt that he can achieve all his goals and not be stressed all the time. JT also wants to continue pursuing a computer science major, but the workload in the classes and the fact he is working full time each week (and sometimes more) leaves him no time to sleep or take care of himself.</para>
+
+      <para id="para-00006">JT is not sure what to do, but he knows he cannot keep up the pace of work, classes, and organizations each semester—or something, most likely his mental and physical health—will pay the price.</para>
+
+      <para id="para-00007">What Do You Think?</para>
+      <list id="list-00001">
+        <item>If you were JT, what would you have thought when you started experiencing stress from too much to do?</item>
+        <item>How would you have managed your stress in this situation?</item>
+        <item>What changes would you have made to improve your health?</item>
+        <item>How do you feel about managing your mental and physical health? Why do you feel this way?</item>
+      </list>
+    </note>
+    <section id="fs-idm184912624">
+    <title>Student Survey</title>
+    <para id="fs-idm387359360">How do you feel about your overall health and well-being? These questions will help you determine how the chapter concepts relate to you right now. As we are introduced to new concepts and practices, it can be informative to reflect on how your understanding changes over time. Take this quick survey to figure it out, ranking questions on a scale of 1—4, 1 meaning “least like me” and 4 meaning “most like me.”</para>
+    <list id="fs-idm381010368" list-type="enumerated" number-style="arabic" class="no-style">
+      <item>I can manage my emotions most of the time.</item>
+      <item>I can reduce stress when it is negatively affecting me.</item>
+      <item>I feel comfortable seeking out help when needed.</item>
+      <item>I get enough sleep.</item>
+    </list>
+    <para id="fs-idm399107648">You can also take the <link url="https://openstax.org/l/collegeconcisesurvey06">Chapter 7 survey</link> anonymously online.</para>
+    </section>
+    <note id="fs-idm403254224" class="student-profile">
+    <para id="fs-idm399191504">“My freshman year of college, I started at a pretty big university. I had what some call “social anxiety” and even cried before getting out of the car on my first day. That year was a struggle for me, and I constantly had to fight with myself to step out of my comfort zone in order to succeed. I knew that if I made positive changes to my life then I would easily succeed in school. I joined a group of students who were a support system for me during my first year of college. Together we studied together and even worked out together. It helped me be more involved on my campus and less worried. Being connected with other students has taught me a lot of ways to cope with common problems many students face.</para>
+    <para id="fs-idm386781088">My first advice would be first and foremost, always make sure you are being kind to yourself. It’s not advisable to work 40 hours a week and also try to be a full time student. You need to set up a realistic home and school life so that way you are balanced with your assignments and other responsibilities. You need to give your body and your brain time to rest so you can absorb as much as you want to without restrictions. I found it useful to start working out to make sure that I’m dedicating the time I should be to myself and not working myself until exhaustion. Little things like exercise, yoga and meditation can do amazing things for your body as well as your mind. If you take care of your body, your body will take care of you.”</para>
+    <para id="fs-idm390091232"><emphasis effect="bold">–Felicia Santiago</emphasis>, Delgado Community College</para>
+    </note>
+    <section id="fs-idm406455232"><title>About This Chapter</title>
+    <para id="fs-idm405085344">This chapter explores the many ways your health and well-being may be impacted by the choices you make. The goal of this material is to help you do the following:</para>
+    <list id="fs-idm406964384" list-type="bulleted">
+    <item>Understand how your mindset influences your emotions.</item>
+    <item>Identify strategies to manage your moods.</item>
+    <item>Describe differences between stress versus anxiety and sadness versus depression.</item>
+    <item>Understand the mind and body connection.</item>
+    <item>Identify ways to maintain and enhance your emotional health.</item>
+    <item>Understand mental health risks and warning signs.</item>
+    <item>Outline steps you can take to ask for help.</item>
+    <item>Describe actions you can take to improve your physical health.</item>
+    </list>
+    <para id="fs-idm393534832">As a first-year college student you will make many choices without parental oversight, including the way you take care of your body and mind. Some choices put you on a path to health, and other choices can lead you down a path toward illness. There is a strong connection between success in college and your ability to stay healthy.</para>
+    <para id="fs-idm399164432">Health is more than a strong body that doesn’t get sick. Health also includes your overall sense of well-being (mental and emotional, for example) and healthy coping strategies to manage life stressors. Good health is about making positive choices in all of these areas and avoiding destructive choices. It’s about learning to be smart, to set boundaries, to watch out for your safety, and to take care of the one body that will carry you through life. While health and wellness are often interchanged, it is important to differentiate the two concepts. <term class="no-emphasis" id="term-00001">Health</term> is a state of physical, mental, and social well-being, while <term class="no-emphasis" id="term-00002">wellness</term> is a process through which people become aware of and make choices toward a healthy and fulfilling life.</para>
+    <para id="para-00001">In this chapter you will learn the skills you need to live a healthy lifestyle for both your mind and body. The first step is to focus on who you are and how you can create your best self. This includes how to promote self-efficacy (i.e., your belief in yourself) and create strategies that you can use to improve your resiliency (i.e., your ability to recover from challenges and adapt to change) during your transition into college. Next we will discuss the mind and body connection and how we need to consider managing both as a top priority every day.</para>
+    <para id="para-00002">We will address identifying your feelings and mood and build a vocabulary that helps you communicate with others. Then we will move into the topic of stress versus anxiety and how to manage both. At this point, prepared with identifying and managing your emotions with strategies you can use on your own, we will discuss when and how to seek help including the steps you must take to establish your own support system. Once you have a support system, we will then discuss the importance of managing your problems in a way that holds you accountable for your actions and behaviors yet provides a framework for others to help you effectively. We will then discuss the role of social media on your overall health and well-being and provide suggestions for creating boundaries with the use of social media. Lastly, we will help you to gain a better understanding of how to maintain physical health through good nutrition, maintaining physical activity, and sleep.</para>
+    </section>
+    </content>
+</document>

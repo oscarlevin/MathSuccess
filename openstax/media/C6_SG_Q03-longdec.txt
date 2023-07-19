@@ -1,0 +1,1 @@
+The vertical axis of the horizontal bar graph represents different levels of anxiety while the horizontal axis ranges from 0 to 50 percent, in increments of 10 percent. The data plotted on the graph is as follows. A great deal, 43 percent; A lot, 9 percent; A moderate amount, 26 percent; A little, 17 percent; None at all, 4 percent. All values are approximated.

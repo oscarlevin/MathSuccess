@@ -1,0 +1,1 @@
+The vertical axis of the graph represents four levels of confidence in students. The horizontal axis of the graph represents percentage ranging from 0 to 40, in increments of 10. The data plotted in the graph is as follows: Not confident, 4 percent; Somewhat confident, 37 percent; Confident, 32 percent; Extremely confident, 24 percent. All values are approximated.

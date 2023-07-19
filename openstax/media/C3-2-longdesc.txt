@@ -1,0 +1,9 @@
+The work calendar has the following tasks scheduled for the week:
+
+Date, 29 (Sunday): May pick up Teal&#8217;s lunch shift from 12 to 5 p m.
+Date, 30 (Monday): Group project meeting from 9:30 to 10:30 p m; Finite Math from 11:30 a m to 12:50 p m; Python demo with Lisa from 2:30 to 3:30 p m; 204 Arabic from 3:45 to 5 p m; Muay Thai or Kickbox combo from 5:30 to 7:30 p m.
+Date, 1 (Tuesday): History 143, Standish Hall from 10:00 to 11:20 a m; Social Psychology from 1 to 2 p m; Special arts council from 4:30 to 5:30 p m; Roberto&#8217;s shift from 6 to 10:30 p m.
+Date, 2 (Wednesday): Finite Math from 11:30 a m to 12:50 p m; 204 Arabic from 3:45 to 5 p m; Kickboxing from 5:30 to 6:30 p m
+Date, 3 (Thursday): History 143, Standish Hall from 10 to 11:20 a m; Social Psychology from 1 to 2 p m; D N, Internship training from 3 to 8 p m
+Date, 4 (Friday): Pancake breakfast prep from 9 to 10:30 a m; Social Psychology from 1 to 2 p m; Roberto&#8217;s shift from 4:30 to 10:30 p m.
+Date, 5 (Saturday): Annual superkids pancake breakfast from 7:45 to 11:45 a m.

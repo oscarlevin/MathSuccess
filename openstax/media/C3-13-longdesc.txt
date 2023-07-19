@@ -1,0 +1,7 @@
+The Pomodoro technique involves five steps as follows:
+1. Decide on the task to be done. (Text &#34;Decide&#34; is in bold)
+2. Set the timer to 25 minutes. (Text &#34;25 minutes&#34; is in bold)
+3. Work on the task until the timer rings. (Text &#34;Work&#34; is in bold)
+4. Take a short 5 minute break. (Text &#34;break&#34; is in bold)
+5. Take a 15 to 30 minute break. (Text &#34;break&#34; is in bold)
+The steps from 1 through 4 are together labeled as &#34;Repeat 4 times.&#34; A scale illustrated at the bottom ranges from 10 to 30, in increments of 5.

@@ -1,0 +1,9 @@
+The different tasks categorized in the Eisenhower Matrix are grouped under four headings: &#8220;Urgent&#8221; and &#8220;Not urgent&#8221; as the column heads, and &#8220;Important&#8221; and &#8220;Not Important&#8221; as the row heads. The different categories of tasks with examples are as follows:
+
+The tasks that are are categorized as &#34;Urgent and Important&#34; are as follows: &#34;Paper due tomorrow&#34; and &#34;Apply for internship by deadline.&#34; 
+
+The tasks that are are categorized as &#34;Not Urgent but Important&#34; are as follows: &#34;Exam next week&#34; and &#34;Flu shot.&#34;
+
+The tasks that are categorized as &#34;Urgent but Not Important&#34; are as follows: &#34;Amazon sale&#34; and &#34;Laundry.&#34;
+
+The tasks that are categorized as &#34;Not Urgent and Not Important&#34; are as follows: &#34;Check social&#34; and &#34;T V show.&#34;

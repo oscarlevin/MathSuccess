@@ -1,0 +1,146 @@
+<col:collection xmlns:col="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns="http://cnx.rice.edu/collxml">
+  <col:metadata>
+    <md:title>College Success</md:title>
+    <md:slug>college-success</md:slug>
+    <md:language>en</md:language>
+    <md:uuid>e8668a14-9a7d-4d74-b58c-3681f8351224</md:uuid>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/"/>
+  </col:metadata>
+  <col:content>
+    <col:module document="m79844"/>
+    <col:subcollection>
+      <md:title>Exploring College</md:title>
+      <col:content>
+        <col:module document="m82018"/>
+        <col:module document="m79845"/>
+        <col:module document="m79846"/>
+        <col:module document="m79847"/>
+        <col:module document="m79849"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>The Truth About Learning Styles</md:title>
+      <col:content>
+        <col:module document="m82087"/>
+        <col:module document="m79853"/>
+        <col:module document="m79854"/>
+        <col:module document="m79855"/>
+        <col:module document="m82008"/>
+        <col:module document="m82009"/>
+        <col:module document="m84323"/>
+        <col:module document="m82010"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Managing Your Time and Priorities</md:title>
+      <col:content>
+        <col:module document="m82015"/>
+        <col:module document="m79860"/>
+        <col:module document="m79857"/>
+        <col:module document="m80072"/>
+        <col:module document="m79856"/>
+        <col:module document="m79858"/>
+        <col:module document="m79859"/>
+        <col:module document="m79861"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Planning Your Academic Pathways</md:title>
+      <col:content>
+        <col:module document="m82081"/>
+        <col:module document="m79862"/>
+        <col:module document="m79863"/>
+        <col:module document="m79864"/>
+        <col:module document="m79865"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Reading and Note-Taking</md:title>
+      <col:content>
+        <col:module document="m82014"/>
+        <col:module document="m79867"/>
+        <col:module document="m79868"/>
+        <col:module document="m79869"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Studying, Memory, and Test Taking</md:title>
+      <col:content>
+        <col:module document="m82017"/>
+        <col:module document="m79871"/>
+        <col:module document="m79872"/>
+        <col:module document="m79873"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Thinking</md:title>
+      <col:content>
+        <col:module document="m82098"/>
+        <col:module document="m79874"/>
+        <col:module document="m79875"/>
+        <col:module document="m79876"/>
+        <col:module document="m82019"/>
+        <col:module document="m82020"/>
+        <col:module document="m82021"/>
+        <col:module document="m82022"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Communicating</md:title>
+      <col:content>
+        <col:module document="m82075"/>
+        <col:module document="m79877"/>
+        <col:module document="m79878"/>
+        <col:module document="m79879"/>
+        <col:module document="m84281"/>
+        <col:module document="m84282"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Understanding Civility and Cultural Competence</md:title>
+      <col:content>
+        <col:module document="m82076"/>
+        <col:module document="m79881"/>
+        <col:module document="m79882"/>
+        <col:module document="m79884"/>
+        <col:module document="m79886"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Understanding Financial Literacy</md:title>
+      <col:content>
+        <col:module document="m82092"/>
+        <col:module document="m79890"/>
+        <col:module document="m79891"/>
+        <col:module document="m79893"/>
+        <col:module document="m79894"/>
+        <col:module document="m84285"/>
+        <col:module document="m84287"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Engaging in a Healthy Lifestyle</md:title>
+      <col:content>
+        <col:module document="m82096"/>
+        <col:module document="m79895"/>
+        <col:module document="m79896"/>
+        <col:module document="m79897"/>
+        <col:module document="m79898"/>
+        <col:module document="m79899"/>
+        <col:module document="m79900"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Planning for Your Future</md:title>
+      <col:content>
+        <col:module document="m82099"/>
+        <col:module document="m79901"/>
+        <col:module document="m79902"/>
+        <col:module document="m79903"/>
+      </col:content>
+    </col:subcollection>
+    <col:module document="m84312"/>
+    <col:module document="m84309"/>
+    <col:module document="m84300"/>
+  </col:content>
+</col:collection>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:cnx="http://cnx.rice.edu/cnxml" xmlns:col="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:m="http://www.w3.org/1998/Math/MathML" xml:id="m00013">
+  <title>The Learning Process</title>
+  <introduction>
+    <table xml:id="m00013-table-00001">
+      <caption>[[CAPTION]]</caption>
+      <tabular>
+        <row>
+          <cell>Estimated completion time: 12 minutes.</cell>
+        </row>
+      </tabular>
+    </table>
+    <p>
+      <em>Questions to Consider:</em>
+    </p>
+    <p>
+      <ul xml:id="m00013-list-00001">
+        <li>
+          <p>What are the steps to learning something new?</p>
+        </li>
+        <li>
+          <p>How is the brain affected by learning?</p>
+        </li>
+        <li>
+          <p>What kinds of learning are expected in college?</p>
+        </li>
+      </ul>
+    </p>
+    <p>Have you ever thought about how we learn something new? Think back on a skill you have learned. Did you start with an interest in the topic or skill? Then, did you start practicing the skill or deepening your understanding of the topic? Perhaps you received feedback using the skill or sharing your knowledge and then you worked on refining that skill or understanding. If you participated in that process, then you did what Rita Smilkstein (2011) calls “The Natural Learning Process.”Smilkstein, R. (2011). We’re born to learn: Using the brain’s natural learning process to create today’s curriculum. Thousand Oaks, CA: Corwin Press. Here are the steps that she says we go through any time we learn:</p>
+    <p>(1) motivation;</p>
+    <p>(2) beginning practice;</p>
+    <p>(3) advanced practice to build a foundation upon which control, creativity, and critical and abstract thinking can be applied;</p>
+    <p>(4) skillfulness;</p>
+    <p>(5) refinement; and</p>
+    <p>(6) mastery.</p>
+    <p>Another way to look at learning is through the biological lens. When we go through <term>the learning process</term> outlined above, our brains actually change. This is called <em>neuroplasticity</em>, or the brain’s ability to form or reorganize neural pathways in reaction to the learning process. This means that when you learn something new, and especially if you practice it and fail at getting it right the first time, your brain is changing. When you get better at a skill such as throwing a curve ball or learning how to solve for X, your brain is actually reorganizing itself so that you can perform those tasks more quickly.</p>
+    <p>So what does this have to do with reading and note-taking? Your learning process has to begin somewhere before you can claim mastery of a concept. Too many students try to move quickly through reading or take only partial notes because they think that just by scanning a text or listening to a lecture and jotting down a few key ideas, they have adequately learned something. True, your brain is changing during those initial processes, but it will take much more practice (also known as studying) to help you recall that information at a later date. Moreover, your goal in college classes is not just to remember the information for a test, but it is to build on that foundational knowledge to learn different levels of thinking, which we will talk about in the next section.</p>
+  </introduction>
+  <subsection xml:id="m00013-sect-00001">
+    <title>Bloom’s Taxonomy</title>
+    <p>One aspect of learning in college is that different professors and different courses expect different types of learning from you. Figuring out how you need to learn the material and how you will be tested on it is part of learning the (sometimes) hidden curriculum.</p>
+    <p>If you want some insight into the types of learning you will do in college, you will want to get to know the work of Dr. Benjamin Bloom, an educational psychologist best known for his classification of different levels of learning, and the concept called Bloom's TaxonomyBloom, B.S. (1980). All our children learning. NY: McGraw-Hill.. See <xref ref="m00013-fig-00001"/> for a list of the levels as well as verbs that demonstrate what you would do at each level. The bottom two levels, Remember and Understand, are called "lower levels” of Bloom's because they often take less effort than the others, and they are seen as foundational to the learning process.</p>
+    <p>The remaining levels are considered "higher levels” of Bloom's because they often require you not only understand the information, but also do something with it: apply it to a new situation, analyze its components, evaluate its strengths and weaknesses, or create something new from your knowledge. Not all of your learning in college and the workplace will be at the higher levels of Bloom’s Taxonomy, but as you gain more knowledge and develop more sophisticated academic and workplace skills, you will move beyond merely remembering information.</p>
+    <p>Let’s break down the different levels so you have a better understanding of them. The first and lowest level is “Remember.” At this level, you are attempting to recall information, such as definitions of terms or steps in a process. You don’t have to really understand (that will come next) the concepts at this level. For example, you may be able to memorize the steps of the Krebs Cycle by naming them in order, but that doesn’t mean you truly understand the processes involved and the effects of each step.</p>
+    <p>The second level is “Understand.” This is the stage in which you can explain or describe a concept in your own words. Usually, if you have restated a term, concept, or process in your own words, you have a basic understanding of it. Again, these are lower levels of Bloom’s Taxonomy and are the fundamental first steps if you want to move higher up on the taxonomy. The next level is “Apply,” which indicates that you know the concept well enough to use it in a new context. Math classes often ask you to remember and understand the steps of a formula and the reason you would use it, but then ask that you use that formula in a new problem.</p>
+    <p>The levels in which you “Analyze” and “Evaluate” require that you be able to examine the concepts in depth and be able to, for example, compare and contrast a concept with another concept (Analyze) or choose the best concept among others (Evaluate). The final level is “Create,” which, according to Bloom, is the pinnacle of learning: If you can create (or recreate) something new based on what you have learned, you have demonstrated understanding of a concept, idea, or skill.</p>
+    <p>We will revisit Bloom’s Taxonomy in the chapter on studying, but it is worth introducing in relation to reading and note-taking because students who read texts and take notes on their readings or the professor’s lectures are often capturing information to remember it later. This is a good first step to <term>the learning process</term>, but as you will see later, that is not the only or final step to learning.</p>
+    <figure xml:id="fig-00001">
+      <caption>Bloom’s Taxonomy provides both instructors and students with a method to classify learning objectives and skills into different levels of complexity.</caption>
+      <image width="100%" source="../m00013/../../media/CS_Figure_03_01_002.png">
+        <description>A shape is divided into six portions. Toward the bottom are “Lower Order Thinking Skills,” and toward the top are Higher Order Thinking Skills. From bottom to top, the portions are Remembering, Understanding, Applying, Analyzing, Evaluating, and Creating.</description>
+      </image>
+    </figure>
+  </subsection>
+  <conclusion>
+    <p>Original OpenStax book is available for free at <c/>, and is distributed with a  license.</p>
+    <p/>
+  </conclusion>
+</section>

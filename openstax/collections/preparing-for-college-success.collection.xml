@@ -1,0 +1,105 @@
+<col:collection xmlns:col="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns="http://cnx.rice.edu/collxml">
+  <col:metadata>
+    <md:title>Preparing for College Success</md:title>
+    <md:slug>preparing-for-college-success</md:slug>
+    <md:language>en</md:language>
+    <md:uuid>503d9717-0d3a-409f-893e-d25740d237dc</md:uuid>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/"/>
+  </col:metadata>
+  <col:content>
+    <col:module document="m00045"/>
+    <col:subcollection>
+      <md:title>Getting into College</md:title>
+      <col:content>
+        <col:module document="m00050"/>
+        <col:module document="m00046"/>
+        <col:module document="m00047"/>
+        <col:module document="m00048"/>
+        <col:module document="m00049"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Transitioning to College</md:title>
+      <col:content>
+        <col:module document="m00001"/>
+        <col:module document="m00002"/>
+        <col:module document="m00003"/>
+        <col:module document="m00004"/>
+        <col:module document="m00005"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Managing Your Time and Priorities</md:title>
+      <col:content>
+        <col:module document="m00006"/>
+        <col:module document="m00007"/>
+        <col:module document="m00008"/>
+        <col:module document="m00009"/>
+        <col:module document="m00010"/>
+        <col:module document="m00011"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Reading and Note-Taking</md:title>
+      <col:content>
+        <col:module document="m00012"/>
+        <col:module document="m00013"/>
+        <col:module document="m00014"/>
+        <col:module document="m00015"/>
+        <col:module document="m00016"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Studying, Memory, and Test Taking</md:title>
+      <col:content>
+        <col:module document="m00017"/>
+        <col:module document="m00018"/>
+        <col:module document="m00019"/>
+        <col:module document="m00020"/>
+        <col:module document="m00021"/>
+        <col:module document="m00022"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Building Relationships</md:title>
+      <col:content>
+        <col:module document="m00023"/>
+        <col:module document="m00024"/>
+        <col:module document="m00025"/>
+        <col:module document="m00026"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Maintaining Your Mental Health and Managing Stress</md:title>
+      <col:content>
+        <col:module document="m00027"/>
+        <col:module document="m00028"/>
+        <col:module document="m00029"/>
+        <col:module document="m00030"/>
+        <col:module document="m00031"/>
+        <col:module document="m00032"/>
+        <col:module document="m00033"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Understanding Financial Literacy</md:title>
+      <col:content>
+        <col:module document="m00034"/>
+        <col:module document="m00035"/>
+        <col:module document="m00036"/>
+        <col:module document="m00037"/>
+        <col:module document="m00038"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Planning Your Future</md:title>
+      <col:content>
+        <col:module document="m00039"/>
+        <col:module document="m00040"/>
+        <col:module document="m00041"/>
+        <col:module document="m00042"/>
+        <col:module document="m00043"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>

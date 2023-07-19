@@ -1,0 +1,70 @@
+<document xmlns="http://cnx.rice.edu/cnxml" class="introduction">
+  <title>Introduction</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>Introduction</md:title>
+    <md:content-id>m00001</md:content-id>
+    <md:uuid>c7360c97-3b23-441b-9b50-cc8c9cf9aec1</md:uuid>
+  </metadata>
+  <content class="introduction">
+    <figure id="ch01fig01" class="splash">
+    <media id="ch01media01" alt="Two college graduates in caps and gowns smile with satisfaction as each holds a single white rose."><image mime-type="image/jpg" src="../../media/CS_Figure_01_00_001_Splash.jpg"/></media>
+    <caption>When you choose to go to college, you are making a key decision about your future. (Credit: Germanna CC / Flickr Attribution 2.0 Generic (CC-BY 2.0))</caption></figure>
+    <note class="student-story" id="note-00002">
+      <para id="para-00010">Ana is excited to start college a few hours from her home. Even though she knows only a few people from her high school who have enrolled, she realizes quickly that she is starting over with new friends, a new routine, and a whole new experience that is nothing like high school.</para>
+      <para id="para-00011">During the first few weeks, she has trouble finding her classes and getting to them on time because they are across campus from each other. She feels underprepared in some of her classes. The professor speaks quickly and covers lots of information in a short amount of time. Even though she’s always done well in school, the amount of information and the speed at which it comes at her, makes her doubt herself.</para>
+      <para id="para-00012">She also notices that she has a harder time getting to know people. Her classmates rarely chat before or after class and everyone in her residence hall is busy with activities and seem to have found friends.</para>
+      <para id="para-00013">Ana calls home and tells her family about her feelings. While they encourage her to stick it out, they also offer to let her come back home and drop out if she needs to. Ana doesn’t want to do that because she really likes her freedom and being on her own, but she is worried that things won’t get better.</para>
+      <para id="para-00014">What Do You Think?</para>
+        <list id="list-00003">
+          <item>If you were Ana, what would you do in this situation?</item>
+          <item>What would you do to meet people and make friends if you were shy when everyone else seems connected?</item>
+          <item>How would you manage the feelings of being overwhelmed in classes?</item>
+          <item>How do you feel about being on your own in college? Why do you feel this way?</item>
+        </list>
+      </note>
+    <section id="sect-00001">
+    <title>Student Survey</title>
+    <para id="para-00001">How do you feel about your ability to meet the expectations of college? These questions will help you determine how the chapter concepts relate to you right now. As we are introduced to new concepts and practices, it can be informative to reflect on how your understanding changes over time. Take this quick survey to figure it out, ranking questions on a scale of 1—4, 1 meaning “least like me” and 4 meaning “most like me.”</para>
+    <para id="para-00002">Don’t be concerned with the results. If your score is low, you will most likely gain even more from this book.</para>
+    <list list-type="enumerated" number-style="arabic" class="no-style" id="list-00001">
+    <item>I am fully aware of the expectations of college and how to meet them.</item>
+    <item>I know why I am in college and have clear goals that I want to achieve.</item>
+    <item>Most of the time, I take responsibility for my learning new and challenging concepts.</item>
+    <item>I feel comfortable working with faculty, advisors, and classmates to accomplish my goals.</item>
+    </list>
+    <para id="para-00003">You can also take the <link url="https://openstax.org/l/collegeconcisesurvey01">Chapter 2 survey</link> anonymously online.</para>
+    </section>
+    <note class="student-profile" id="note-00001">
+    <para id="para-00004">As students transition to college, responsibility is an inherent component of self-advocacy. As someone accepted on full funding to a 4-year university, but whose life’s circumstances disallowed attending college until years later, I used to dream of a stress-free college life. The reality is, college can be a meaningful place, but it can also be challenging and unpredictable. The key is to <emphasis effect="italics">be your own best advocate</emphasis>, because no one else is obliged to advocate on your behalf.</para>
+    <para id="para-00005">“When I began my community college studies, I knew what I wanted to do. Cybersecurity was my passion, but I had no understanding of how credits transfer over to a 4-year university. This came to haunt me later, after I navigated the complex processes of transferring between two different colleges. Not everyone involved volunteers information. It is up to you, the student, to be the squeaky wheel so you can get the grease. Visit office hours, make appointments, and schedule meetings with stakeholders so that you are not just buried under the sheaf of papers on someone’s desk.”</para>
+    <para id="para-00006"><emphasis effect="bold">—Mohammed Khalid</emphasis>, University of Maryland</para>
+    </note>
+    <section id="sect-00002">
+    <title>About This Chapter</title>
+    <para id="para-00007">In this chapter, you will learn about what you can do to get ready for college. By the time you complete this chapter, you should be able to do the following:</para>
+    <list list-type="bulleted" id="list-00002">
+    <item>Recognize the purpose and value of college.</item>
+    <item>Describe the transitional experience of the first year of college.</item>
+    <item>Discuss how to handle college culture and expectations.</item>
+    <item>List the benefits of adopting a learning mindset.</item>
+    </list>
+    <table id="ch01tab01" class="unnumbered">
+    
+    <tgroup cols="2">
+    <colspec colnum="1" colname="c1"/>
+    <colspec colnum="2" colname="c2"/>
+    <thead>
+    <row><entry align="center"><emphasis effect="bold">Reginald</emphasis></entry><entry align="center"><emphasis effect="bold">Madison</emphasis></entry></row>
+    </thead>
+    <tbody>
+    <row>
+    <entry valign="top"><para id="para-00008a">Reginald has, after much thought and with a high level of family support, decided to enroll in college. It has been a dream in the making, as he was unable to attend immediately after high school graduation. Instead, he worked several years in his family’s business, got married, had a son, and then decided that he didn’t want to spend the rest of his life regretting that he didn’t get a chance to follow his dreams of becoming a teacher. Because it has been almost a decade since he sat in a classroom, he is worried about how he will fit in as an adult learner returning to college. Will his classmates think he is too old? Will his professors think he is not ready for the challenges of college work? Will his family get tired of his long nights at the library and his new priorities? There is so much Reginald is unsure of, yet he knows it’s a step in the right direction.</para></entry>
+    <entry valign="top"><para id="para-00008b">It has been only three months since Madison graduated from high school. She graduated in the top 10 percent of her class, and she earned college credit while in high school. She feels academically prepared, and she has a good sense of what degree she wants to earn. Since Madison was 5 years old, she’s wanted to be an engineer because she loved building things in the backyard with her father’s tools. He always encouraged her to follow her dreams, and her whole family has been supportive of her hobbies and interests. However, Madison is concerned that her choice of major will keep her from dance, creative writing, and other passions. Furthermore, Madison is heading to a distant college with no other people she knows. Will she be able to find new friends quickly? Will her engineering classes crush her or motivate her to complete college? Will she be able to explore other interests? Madison has a lot on her mind, but she aims to face these challenges head-on.</para></entry></row>
+    </tbody>
+    </tgroup>
+    </table>
+    <para id="para-00008">While Reginald and Madison have had different experiences before and certainly have different motivations for enrolling in college, they have quite a bit in common. They are both committed to this new chapter in their lives, and they are both connected to their families in ways that can influence their commitment to this pursuit. What they don’t know just yet—because they haven’t started their classes—is that they will have even more in common as they move through each term, focus on a major, and plan for life after graduation. And they have a lot in common with you as well because you are in a similar position—starting the next chapter of the rest of your life.</para>
+    <para id="para-00009">In this chapter, you will first learn more about identifying the reason you are in college. This is an important first step because knowing your <emphasis effect="italics">why</emphasis> will keep you motivated. Next, the chapter will cover the transitions that you may experience as a new college student. Then, the chapter will focus on how you can acclimate to the culture and meet the expectations—all of which will make the transition to a full-fledged college student easier. Adopting a learning mindset is covered next and will provide you with research-based information that can help you develop the beliefs and habits that will result in success. Finally, the chapter will provide you with strategies for overcoming the challenges that you may face by providing information about how to find and access resources.</para>
+    </section>
+    </content>
+</document>

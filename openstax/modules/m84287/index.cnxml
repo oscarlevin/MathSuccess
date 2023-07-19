@@ -1,0 +1,160 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Defending against Attack: Securing Your Identity and Accounts</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m84287</md:content-id>
+  <md:title>Defending against Attack: Securing Your Identity and Accounts</md:title>
+  <md:abstract/>
+  <md:uuid>5b994d8d-fb7a-4eb5-b74e-06d8c7486cb8</md:uuid>
+</metadata>
+
+<content>
+
+<table id="fs-idm248694176" class="unstyled unnumbered">
+ <tgroup cols="1">
+ <tbody>
+  <row>
+     <entry align="right">Estimated completion time: 24 minutes.</entry>
+  </row>
+</tbody>
+ </tgroup>
+</table>
+<para id="fs-idm258383360"><emphasis effect="bold">Questions to Consider:</emphasis></para>
+<list id="fs-idm208254992" list-type="bulleted">
+<item>How should you manage passwords and online security?</item>
+<item>What’s the best way to deal with identity theft?</item>
+<item>How can you get help and avoid scams?</item>
+</list>
+<para id="fs-idm238128160"><term class="no-emphasis" id="term-00001">Identity theft</term> is one of the fastest growing crimes in the United States, and the FBI estimates that more than 10 million new victims are harmed each year.<footnote id="ch10rfin-22">https://archives.fbi.gov/archives/news/stories/2004/october/preventidt_102104</footnote> Among the problems contributing to this rapid increase in identity theft are the significant amount of data stored online and the poor security practices of both individuals and companies. In 2017, Equifax announced that their security had been breached and the data of every adult in the country was likely compromised.<footnote id="ch10rfin-23">https://www.purposefulfinance.org/home/Articles/2017/understanding-the-equifax-security-breach</footnote></para>
+<section id="fs-idm263153072"><title>Passwords and Security</title>
+<para id="fs-idm263068288">The first line of defense to prevent identity theft is to create strong passwords and take other security measures with your online accounts. An important factor in the strength of a password is the length of the password.<footnote id="ch10rfin-24">Information Security Institute. “Password Security:Complexity Versus Length.” 2019. https://resources.infosecinstitute.com/password-security-complexity-vs-length/</footnote> This means a password of 12 characters or more is desirable. Consider using pass phrases, or short sentences, rather than passwords. You should vary your pass phrases for each site so a hacker that gets your password can only use it for a single site. Government agencies and security experts are recommending password management software such as LastPass to help with remembering all of these differing passwords.</para>
+<para id="fs-idm247857472">Another important strategy is to implement two-factor authentication (TFA) on all your online accounts. TFA adds another method of identifying you in addition to your password. Many TFA systems use your cell phone and will text you a code to allow you to log in to your account. A criminal would then need both your password and access to your cell phone to log in. Check the settings on your email, bank website, and other accounts to see how to enable two-factor authentication.</para>
+</section>
+<section id="fs-idm253864672"><title>Preventing and Dealing with Identity Theft</title>
+<para id="fs-idm237813072">Setting strong passwords and enabling two-factor authentication will help keep criminals out of your online banking, email, and other important accounts. Many criminals use lower-tech methods of stealing your identity, however, including tricking or scaring you into giving out information or simply digging through your trash to find account statements.</para>
+<section id="fs-idm213003200"><title>Never Give Info to Someone Who Contacts You</title>
+<para id="fs-idm242513008">Never provide a person with personal information unless you initiated the contact. If someone calls you asking for personal information, tell them you’ll call them back. Then ignore the phone number or website they give you, and instead look up the phone number for the organization on their official website. A legitimate company or government agency will never require you to stay on the line with them to solve the problem.</para>
+</section>
+<section id="fs-idm223406224"><title>Shred Everything</title>
+<para id="fs-idm249215344">You should also purchase an inexpensive cross-cut shredder and get in the habit of shredding all paperwork and mail before you throw it away. A good rule of thumb is that if the paper has your name on it, you should shred it before throwing it out.</para>
+</section>
+<section id="fs-idm256215488"><title>Order Your Credit Report Annually</title>
+<para id="fs-idm244187600">At least once per year, you should get your credit report from the credit reporting agencies through annualcreditreport.com, which is the only website approved by the Federal and State governments. The three major agencies -- Transunion, Equifax, and Experian -- all provide the legally mandated free report through this website. Learn how to read a credit report from one of these agencies.</para>
+<para id="fs-idm237951520">Look for incorrect information or accounts you don’t recognize. If you see accounts you didn’t open on your credit report, file a report with the local police and the local FBI field office. You can also file a complaint with the Federal Trade Commission and Internet Crime Complaint Center.</para>
+<note id="fs-idm235209520" class="analysis-question">
+<para id="fs-idm250065920">Think about your account passwords and your habits related to your identity security. Identify mistakes you have made in the past with your security. What can you start doing today to protect yourself from identity theft or financial fraud?</para>
+</note>
+<note id="fs-idm249198928" class="activity">
+<title>Credit Report Review</title>
+<para id="fs-idm228924448">Using the sample credit reports below, write an analysis of the person’s credit and how they are managing and using debt. Go through the factors that affect credit, and determine how this person is doing with each factor. What in the report is beneficial, and what is harmful? Carefully review each page for accuracy. Pay particular attention to the personal information, negative credit, and any notes about the person or their credit activity.</para>
+<figure id="ch10fig12">
+<media id="ch10media12" alt="A credit report of an individual is shown." longdesc="C10-10-longdesc.txt"><image mime-type="image/png" src="../../media/CS_Figure_10_10_001.png"/></media>
+<caption>A sample credit report. (Credit: Based on information from <link url="https://openstax.org/l/experianreport">Experian</link>.)</caption>
+</figure>
+</note>
+</section>
+</section>
+<section id="fs-idm259915488"><title>Creating Strong Alliances: Getting Help and Avoiding Scams</title>
+<quote id="fs-idm249574880">
+<para id="fs-idm251020880"><emphasis effect="bold">As a college student, you are a prime target for predatory practices designed to make the adviser or company rich at your expense.</emphasis></para>
+</quote>
+<para id="fs-idm233125232">As you’ve read through this chapter, it may have dawned on you that this personal finance stuff is a lot more complicated than it seems. There are people who have devoted their entire educations and careers to mastering single areas of personal finance, such as taxes, investing, and estate planning. When you feel it’s time to get professional help, there are many qualified professionals who can assist you. Not everyone who calls themselves a financial adviser is actually looking out for your best interest, however.</para>
+<para id="fs-idm248315216">The terms <emphasis effect="italics">financial adviser</emphasis>, <emphasis effect="italics">financial planner</emphasis>, <emphasis effect="italics">wealth manager</emphasis>, and many other impressive-sounding job titles are not regulated by the government. Anyone can put these job titles on their business cards. You need to be able to differentiate between a qualified professional and those who are untrained product salespeople, predatory financial businesses, or outright scams.</para>
+<section id="fs-idm258260080"><title>Predatory Practices Aimed at College Students</title>
+<para id="fs-idm261810544">As a college student, you are a prime target for predatory practices designed to make the adviser or company rich at your expense.</para>
+<section id="fs-idm260468224"><title>Annuities and Life Insurance</title>
+<para id="fs-idm255255504">Annuities and life insurance products are often aggressively sold to college students. They are generally inappropriate for college students and even most college graduates because they have high fees and lower returns than many other investment options, and the benefits are rarely needed by young people.<footnote id="ch10rfin-25">North American Securities Administrators Association. Top Investor Threats. ttp://www.nasaa.org/top-investor-threats /</footnote></para>
+</section>
+<section id="fs-idm222737680"><title>Investment Schemes</title>
+<para id="fs-idm255367568">Regulators identify specialized investments, such as promissory notes, real estate, oil and gas, and gold, as a major threat to investors. Investing systems, including stock picking and buying or selling strategies, are also a concern. Academic research has continually disproven these strategies.<footnote id="ch10rfin-26">Kadan, Maduriera, Wang and Zach. “Stock Picking, Industry Picking, and Market Timing in Sell-Side Research.” Singapore Management University. 2012.</footnote></para>
+<para id="fs-idm234634288">If someone is pitching you on their special system or secret strategy, be extremely skeptical. Legitimate investments are regulated by government agencies and are therefore never a secret.</para>
+<table id="ch10tab11">
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row><entry>Scam or Scheme</entry><entry>Characteristics or Promises</entry><entry>Issues and Reasons to Avoid</entry></row>
+</thead>
+<tbody>
+<row><entry><para id="fs-idm239308144">“Cash Value” Life Insurance</para> <para id="fs-idm256346624">Often sold as “7702 Plans”</para></entry><entry>Cash value life insurance and similar programs promise that a certain amount of the insurance premiums are set aside as a fund that can be used for expenditures such as college. </entry><entry>If they are ever paid out, the consumer must pay taxes and may also pay fees up to 50 percent, losing much of the built-up value.</entry></row>
+<row><entry>Investment Schemes</entry><entry>These highly optimistic “sure thing” / “can’t miss” opportunities are specifically geared toward quick rewards or paying for college. They are often specialized investments such as real estate, gold, or oil.</entry><entry>Sellers often rely on students’ lack of resources and experience to prevent them from thoroughly investigating the opportunity or properly evaluating the contract terms. </entry></row>
+<row><entry><para id="fs-idm253137184">Advertising, Sales, or Data Entry Opportunities</para><para id="fs-idm251549216">“I make $40 an hour working from home. . . .”</para></entry><entry>Offers of high pay for what seems like little work are likely too good to be true. “Car wrap” opportunities (driving around with ads on your car), data entry, and online sales opportunities are typical examples.</entry><entry>The advertised salaries are often very difficult to achieve and come with significant conditions. Some “pay first” programs utilize fake checks to mislead students.</entry></row>
+<row><entry>Financial Aid Services or Debt Consolidation</entry><entry>These services offer to find advantageous financial aid packages for a fee.<footnote id="ch10rfin-27">Boswell, Brian. “Don’t Get Suckered By These College Savings Plans.” Forbes.com. 2019.</footnote></entry><entry>The offers usually do not return as beneficial a package as they promise, and most financial aid can be discovered without paying for it. </entry></row>
+<row><entry><para id="fs-idm223152048">Phone Scams</para><para id="fs-idm253492768">“The IRS has detected tax fraud. . . .”</para><para id="fs-idm252247072">“This will be an attempt to avoid an initial appearance before a grand jury for a criminal offense. . . .”</para></entry><entry>Phone scammers use threatening, official-sounding messages to scare recipients. They often demand immediate return calls or request account or identifying information. These scams are not unique to college students.</entry><entry>As official as they sound, these are scams. The perpetrators will use any account information you provide to invade your privacy or steal your money.</entry></row>
+<row><entry>Too-Good-to-Be-True Credit Cards</entry><entry>Credit cards with very low introductory interest rates, a promise of points, or other impressive-sounding benefits may be offered to students on college campuses, especially during events.</entry><entry>Low rates can explode into high rates or incur fees after a brief period or a single late payment. This is not technically fraudulent, but be very careful when reading the terms.</entry></row>
+<row><entry>Freebie or Social Media Survey Scams</entry><entry>Many legitimate companies will offer free products or ask students to complete surveys, but high-risk offerings will ask for personal information or account information. </entry><entry>Free products or compensation may not arrive, and even if they do, they may not offset the risk of giving up account information.</entry></row>
+<row><entry>Fake Universities or Degree Programs (Diploma Mills)</entry><entry>Offers may sound very legitimate and similar to real colleges. They often promise significant financial aid or degrees in just weeks or months.<footnote id="ch10rfin-28">Creel, Wes. “How Cn I Tell if a Degree is Legitiamte or a Scam.” Abound/Finish College.</footnote></entry><entry>A certificate from a school with no accreditation or a poor reputation is a waste of time and money. Be certain that any college or certificate program is formally accredited; review the credentials of current faculty, and determine the job placement of alumni.</entry></row>
+</tbody>
+</tgroup>
+</table>
+</section>
+</section>
+<section id="fs-idm238782192">
+<title>Sources of Good Information and Help</title>
+<para id="fs-idm252993408">With all the high-cost, predatory, and scam financial advice out there, it is important to know where to turn for help.</para>
+<section id="fs-idm234403936"><title>Personal Finance Classes</title>
+<para id="fs-idm232744816">One option is to look for a personal finance class, which will take the concepts found in this chapter and expand on them for an entire semester. Your college may have a financial literacy, personal finance, or money management class available.</para>
+<para id="fs-idm259205824">Be wary of personal finance or investing classes offered through other sources, however, as many include hidden sales agendas and aggressive pitches to buy a company’s financial products. Never make an investment decision, buy a product, or sign a contract at a class, and always seek advice from others on any opportunity.</para>
+</section>
+<section id="fs-idm234322416"><title>Websites and Government Resources</title>
+<para id="fs-idm244056672">There are a ridiculous number of websites available to the public to help with your personal finances. When choosing a website for help, lean toward sites run by a legitimate government agencies or nonprofit organizations.</para>
+<para id="fs-idm259403648">The first place you should look for help with finances is the official website of related government agencies. If you have a question about insurance, look to your state’s insurance commissioner website. If you are having problems with your apartment, contact your city’s housing authority.</para>
+<para id="fs-idm228865536">Government agencies not only have the authoritative word on any legal matter, but are also generally unbiased. The downside to government websites is that they can be hard to understand, with legal wording taken directly from the law. Some government agencies are also prohibited from giving advice to the public, leaving it up to you to apply the information they provide.</para>
+<para id="fs-idm256261920">There are also many nonprofit organizations that have been established to assist the public with finances. Nonprofit organizations may have information that is easier to understand, and they may also be able to offer personal advice.</para>
+<para id="fs-idm259304736"><emphasis effect="bold">Official Government Websites</emphasis></para>
+<list id="fs-idm256227952" list-type="bulleted">
+<item>Personal Finance: Consumer Financial Protection Bureau, consumerfinance.gov</item>
+<item>Taxes: Internal Revenue Service, irs.gov</item>
+<item>Retirement: Social Security Administration, ssa.gov</item>
+<item>Investing: Securities Exchange Commission, sec.gov</item>
+<item>Investing: North American Securities Administrators Association, nasaa.org (state and provincial investment regulators)</item>
+</list>
+<para id="fs-idm253150672"><emphasis effect="bold">Nonprofit Organization Websites</emphasis></para>
+<list id="fs-idm247981648" list-type="bulleted">
+<item>National Endowment for Financial Education, nefe.org</item>
+<item>National Foundation for Credit Counseling, nfcc.org</item>
+<item>Consumer Reports, consumerreports.org (national consumer advocacy organization)</item>
+<item>Purposeful Finance, purposefulfinance.org (a nonprofit organization run by this chapter’s author)</item>
+</list>
+</section>
+<section id="fs-idm257488624"><title>Your College’s Financial Aid Office</title>
+<para id="fs-idm255485280">The financial aid or student aid office of your college may also be a good place to look for financial help, especially surrounding student loans. It is important to realize, however, that a conflict of interest exists between you and the financial aid adviser. Your college’s financial aid office is charged with helping you find the money to go to college, but it isn’t charged with making sure you don’t take on too much student debt. It is possible to get good advice on getting money to pay for college that is also bad advice for your future finances.</para>
+<para id="fs-idm249232848">College financial aid counselors are also generally not trained in other areas of finance and should not be relied on for advice on investing, taxes, noncollege debt, or other financial matters. To get help with these areas, consult a qualified professional who can guide you with fewer conflicts of interest, such as the professionals listed below.</para>
+<note id="fs-idm225771744" class="analysis-question">
+<para id="fs-idm253336384">Talk with your parents or other family members about their experience with finances, including financial advisers, taxes, legal issues, and investing. When could they have used professional advice in their past? Did they have bad experiences with getting advice that wasn’t best for them? How has a lack of <emphasis effect="italics">good</emphasis> advisers harmed your family financially (even if just because they could have had more money)?</para>
+</note>
+</section>
+</section>
+</section>
+<section id="fs-idm260170288" class="summary">
+<title>Chapter Summary</title>
+<para id="fs-idm256032432">There are a lot of benefits to good financial management. Primarily, it generally allows you to do more of what you want with your life. When you have poor financial habits, too much of your money goes into other people’s pockets. But when you have good financial management habits, you can afford to do more because you have worked hard, separated needs from wants, saved and invested, and avoided credit card and debt pitfalls.</para>
+</section>
+<section id="fs-idm237344464" class="career-connection">
+<para id="fs-idm238120912">Search the articles at PurposefulFinance.org and find one you deem interesting.</para>
+<para id="fs-idm238487696">Why do you find it interesting, and how can you apply it to your life? How does the article relate to the concepts in this chapter?</para>
+</section>
+<section id="fs-idm406518288" class="rethinking">
+<para id="fs-idm254511680">Revisit the questions you answered at the beginning of the chapter, and consider one concept or practice you learned in this chapter that might change your answer to one of them.</para>
+<list id="fs-idm256604304" list-type="enumerated">
+<item>I actively and regularly plan and/or monitor my finances.</item>
+<item>I understand the benefits and risks of credit.</item>
+<item>I have a plan to repay my student loans.</item>
+<item>I regularly take steps to protect my identity and assets.</item>
+</list>
+</section>
+<section id="fs-idm249879280" class="where-go">
+<title>Where Do You Go from Here?</title>
+<para id="fs-idm256554928">Financial literacy is a topic that many college students struggle with, but good financial planning habits will benefit you long after your college days are behind you. What would you like to learn more about? Choose a topic from the list below, and create an annotated bibliography that would direct further research.</para>
+<list id="fs-idm222600448" list-type="bulleted">
+<item>Marrying personal finance goals with financial planning</item>
+<item>Creating a saving and spending plan</item>
+<item>Best practices concerning credit cards</item>
+<item>Financing a college education</item>
+</list>
+</section>
+
+ </content>
+
+</document>
