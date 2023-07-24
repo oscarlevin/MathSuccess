@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-doing-math" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Doing Mathematics</title>
+<!-- Should Include: some actual math prob etc. relating to these sectoins or other chapters, 
+  cover some common math errors (see original topics list) -->
+
+  <introduction>
+    <p>
+      
+    </p>
+  </introduction>
+
+  <xi:include href="sec-what-is-math.ptx" />
+  <xi:include href="sec-trans-to-high-level.ptx" />
+  <xi:include href="sec-prob-solve.ptx" />
+  <xi:include href="sec-math-in-community.ptx" />
+ 
+
+
+
+
+  
+</chapter>

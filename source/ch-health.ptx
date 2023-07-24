@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-health" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Taking Care of Mental and Physical Health</title>
+
+  <introduction>
+    <p>
+      
+    </p>
+  </introduction>
+
+  <xi:include href="sec-deal-with-fail.ptx" />
+  <xi:include href="sec-perfectionism.ptx" />
+  <xi:include href="sec-imp-syndrome.ptx" />
+  <xi:include href="sec-gen-health.ptx" />
+  
+  
+
+
+
+
+  
+</chapter>

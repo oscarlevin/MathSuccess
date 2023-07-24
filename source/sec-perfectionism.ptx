@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-perfectionism" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Perfectionism in Mathematics</title>
+
+<!-- Should Include: spending too much time trying to reach perfection vs taking care of self/completing tasks, deciding when
+you are done -->
+
+  <p>
+    This is the first paragraph. <m>\sin(x)</m> is a math expression.
+  </p>
+
+</section>

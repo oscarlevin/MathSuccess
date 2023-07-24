@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-internal-bias" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Internal Biases</title>
+
+<!-- Should include: how biases impact peer interaction, instructor interaction (and course evals), how you view data -->
+
+  <p>
+    This is the first paragraph. <m>\sin(x)</m> is a math expression.
+  </p>
+
+</section>

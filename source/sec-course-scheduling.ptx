@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-course-scheduling" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Course Scheduling</title>
+
+<!-- Should Include: meeting with advisor, checking degree plan, nav ursa, which courses will run when? -->
+
+  <p>
+    This is the first paragraph. <m>\sin(x)</m> is a math expression.
+  </p>
+
+</section>

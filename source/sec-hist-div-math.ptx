@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-hist-div-math" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>History of Mathematics and Diversity</title>
+
+<!-- Should Include: general history, white washed perspective, list of diverse mathematicians/educators -->
+
+  <p>
+    This is the first paragraph. <m>\sin(x)</m> is a math expression.
+  </p>
+
+</section>

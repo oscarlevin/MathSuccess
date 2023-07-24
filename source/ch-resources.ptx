@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-resources" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Resources</title>
+
+  <introduction>
+    <p>
+      
+    </p>
+  </introduction>
+
+  <xi:include href="sec-latex.ptx" />
+  <xi:include href="sec-python.ptx" />
+  <xi:include href="sec-gen-online-math-resource.ptx" />
+  <xi:include href="sec-calculators.ptx" />
+  
+  
+
+
+
+
+  
+</chapter>

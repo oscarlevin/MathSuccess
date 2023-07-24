@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-study-hw-test" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Studying and Test-Taking Strategies</title>
+
+  <introduction>
+    <p>
+      
+    </p>
+  </introduction>
+
+  <xi:include href="sec-explain-work.ptx" />
+  <xi:include href="sec-test-take.ptx" />
+  <xi:include href="sec-student-hours.ptx" />
+  <xi:include href="sec-time-manage.ptx"/>
+  <xi:include href="sec-tutoring.ptx" />
+  <xi:include href="sec-read-feedback.ptx" />
+  
+
+
+
+
+  
+</chapter>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-calculators" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Calculators</title>
+
+<!-- Should Include: various types of physical/online/app calculators, how to input (pemdas etc), graphing, etc. -->
+
+  <p>
+    This is the first paragraph. <m>\sin(x)</m> is a math expression.
+  </p>
+
+</section>

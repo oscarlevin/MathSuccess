@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-math-ethics-div" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Ethics and Diversity in Mathematics</title>
+
+  <introduction>
+    <p>
+      
+    </p>
+  </introduction>
+
+  <xi:include href="sec-who-math-is-for.ptx" />
+  <xi:include href="sec-what-math-is-used-for.ptx" />
+  <xi:include href="sec-hist-div-math.ptx" />
+  <xi:include href="sec-academic-integrity.ptx" />
+  <xi:include href="sec-stat-data-misuse.ptx" />
+  <xi:include href="sec-internal-bias.ptx" />
+  
+
+
+
+
+  
+</chapter>

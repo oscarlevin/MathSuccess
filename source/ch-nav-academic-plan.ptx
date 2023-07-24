@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-nav-academic-plan" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Navigating Academic Planning</title>
+
+  <introduction>
+    <p>
+      
+    </p>
+  </introduction>
+
+  <xi:include href="sec-degree-planning.ptx" />
+  <xi:include href="sec-course-scheduling.ptx" />
+  <xi:include href="sec-self-advocacy.ptx" />
+ 
+
+
+
+
+  
+</chapter>

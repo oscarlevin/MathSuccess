@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-trans-to-high-level" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Transitioning to Higher Level Mathematics</title>
+
+<!-- Should include: proofs, focus on: understanding why -->
+
+  <p>
+    This is the first paragraph. <m>\sin(x)</m> is a math expression.
+  </p>
+
+</section>

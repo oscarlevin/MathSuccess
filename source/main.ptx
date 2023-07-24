@@ -51,7 +51,21 @@
     </frontmatter>
 
     <xi:include href="ch-intro-to-college.ptx" />
+
+    <xi:include href="ch-read-note-class.ptx"/>
+
+    <xi:include href="ch-study-hw-test.ptx"/>
+
+    <xi:include href="ch-doing-math.ptx"/>
+
+    <xi:include href="ch-health.ptx"/>
     
+    <xi:include href="ch-nav-academic-plan.ptx"/>
+
+    <xi:include href="ch-math-ethics-div.ptx"/>
+
+    <xi:include href="ch-resources.ptx"/>
+
     
     <chapter xml:id="chapter-title">
       <title>Chapter title</title>

@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-growth-mind" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Developing a Growth Mindset</title>
+
+
+
+  <p>
+    This is the first paragraph. <m>\sin(x)</m> is a math expression.
+  </p>
+
+  <introduction>
+    <table xml:id="m00005-ch01tab14">
+      <caption>[[CAPTION]]</caption>
+      <tabular>
+        <row>
+          <cell>Estimated completion time: 14 minutes.</cell>
+        </row>
+      </tabular>
+    </table>
+    <p>
+      <em>Questions to Consider:</em>
+    </p>
+    <p>
+      <ul xml:id="m00005-list-00001">
+        <li>
+          <p>What is a growth mindset, and how does it affect my learning?</p>
+        </li>
+        <li>
+          <p>What are performance goals versus learning goals?</p>
+        </li>
+      </ul>
+    </p>
+    <p>In the previous sections in this chapter, you learned about the differences between high school and college and what to expect from your course work, professors, and classmates. There is one more element of the experience that will improve your ability to meet the expectations and new challenges: Your belief in your abilities to learn, grow, and change. No doubt that you have enrolled in college because you want to do those very things, but it is easy to get discouraged and revert to old ways of thinking about your abilities if you are not mindful of what kinds of thoughts you have about yourself. This section covers the concept of a fixed mindset, or the belief that you are born with certain unchangeable talents, and growth mindset, or the belief that with effort you can improve in any area. Understanding the role that your beliefs play in the eventual outcomes of your learning can help you get through those challenges that you may encounter.</p>
+    <figure xml:id="ch01fig08">
+      <caption>Many fields of study and work create intersections of growth and fixed mindset. People may feel great ability to grow and learn in some areas, like art and communication, but feel more limited in others, such as planning and financials. Recognizing these intersections will help you approach new topics and tasks, such as working with new classmates on projects in your chosen field.. (Credit: Lynccoff Games / Flickr Attribution 2.0 Generic (CC-BY 2.0))</caption>
+      <image width="100%" source="../m00005/../../media/CS_Figure_01_04_007.jpg">
+        <description>Five students gather closely around a table to review a document.</description>
+      </image>
+    </figure>
+  </introduction>
+  <subsection xml:id="m00005-sect-00001">
+    <title>Performance vs. Learning Goals</title>
+    <p>Much of our ability to learn is governed by our motivations and goals. Sometimes hidden goals or mindsets can impact the learning process. In truth, we all have goals that we might not be fully aware of, or if we are aware of them, we might not understand how they help or restrict our ability to learn. An illustration of this can be seen in a comparison of a student that has <em>performance</em>-based goals with a student that has <em>learning</em>-based goals.</p>
+    <p>If you are a student with strict performance goals, your primary psychological concern might be to appear intelligent to others. At first, this might not seem to be a bad thing for college, but it can truly limit your ability to move forward in your own learning. Instead, you would tend to play it safe without even realizing it. For example, a student who is strictly performance-goal-oriented will often only say things in a classroom discussion when they think it will make them look knowledgeable to the instructor or their classmates. Likewise, a performance-oriented student might ask a question that they know is beyond the topic being covered (e.g., asking about the economics of Japanese whaling while discussing the book <em>Moby Dick</em> in an American literature course). Rarely will they ask a question in class because they actually do not understand a concept. Instead they will ask questions that make them look intelligent to others or in an effort to “stump the teacher.” When they do finally ask an honest question, it may be because they are more afraid that their lack of understanding will result in a poor performance on an exam rather than simply wanting to learn.</p>
+    <p>If you are a student who is driven by learning goals, your interactions in classroom discussions are usually quite different. You see the opportunity to share ideas and ask questions as a way to gain knowledge quickly. In a classroom discussion you can ask for clarification immediately if you don’t quite understand what is being discussed. If you are a person guided by learning goals, you are less worried about what others think since you are there to learn and you see that as the most important goal.</p>
+    <p>Another example where the difference between the two mindsets is clear can be found in assignments and other coursework. If you are a student who is more concerned about performance, you may avoid work that is challenging. You will take the “easy A” route by relying on what you already know. You will not step out of your comfort zone because your psychological goals are based on approval of your performance instead of being motivated by learning.</p>
+    <p>This is very different from a student with a learning-based psychology. If you are a student who is motivated by learning goals, you may actively seek challenging assignments, and you will put a great deal of effort into using the assignment to expand on what you already know. While getting a good grade is important to you, what is even more important is the learning itself.</p>
+    <p>If you find that you sometimes lean toward performance-based goals, do not feel discouraged. Many of the best students tend to initially focus on performance until they begin to see the ways it can restrict their learning. The key to switching to learning-based goals is often simply a matter of first recognizing the difference and seeing how making a change can positively impact your own learning.</p>
+    <p>What follows in this section is a more in-depth look at the difference between performance- and learning- based goals. This is followed by an exercise that will give you the opportunity to identify, analyze, and determine a positive course of action in a situation where you believe you could improve in this area.</p>
+  </subsection>
+  <subsection xml:id="m00005-sect-00002">
+    <title>Fixed vs. Growth Mindset</title>
+    <p>The research-based model of these two mindsets and their influence on learning was presented in 1988 by Carol Dweck. In Dweck’s work, she determined that a student’s perception about their own learning accompanied by a broader goal of learning had a significant influence on their ability to overcome challenges and grow in knowledge and ability. This has become known as the Fixed vs. Growth Mindset model. In this model, the <em>performance</em>-goal-oriented student is represented by the <em>fixed</em> mindset, while the <em>learning</em>-goal- oriented student is represented by the <em>growth</em> mindset.</p>
+    <p>In the following graphic, based on Dr. Dweck’s research, you can see how many of the components associated with learning are impacted by these two mindsets.</p>
+    <figure xml:id="ch01fig09">
+      <caption>The differences between fixed and growth mindset are clear when aligned to key elements of learning and personality. (Credit: Based on work by Dr. Carol Dweck)</caption>
+      <image width="100%" source="../m00005/../../media/CS_Figure_02_08_001.png">
+        <description>A diagram illustrates the comparison between “Fixed Mindset” and “Growth Mindset” based on six different parameters.</description>
+      </image>
+    </figure>
+  </subsection>
+  <subsection xml:id="m00005-sect-00003">
+    <title>The Growth Mindset and Lessons About Failing</title>
+    <p>Something you may have noticed is that a growth mindset would tend to give a learner grit and persistence. If you had learning as your major goal, you would normally keep trying to attain that goal even if it took you multiple attempts. Not only that, but if you learned a little bit more with each try you would see each attempt as a success, even if you had not achieved complete mastery of whatever it was you were working to learn.</p>
+    <p>With that in mind, it should come as no surprise that Dweck found that those people who believed their abilities could change through learning (growth vs. a fixed mindset) readily accepted learning challenges and persisted despite early failures.</p>
+  </subsection>
+  <subsection xml:id="m00005-sect-00004">
+    <title>Improving Your Ability to Learn</title>
+    <p>As strange as it may seem, research into fixed vs. growth mindset has shown that if you believe you can learn something new, you greatly improve your ability to learn. At first, this may seem like the sort of feel-good advice we often encounter in social media posts or quotes that are intended to inspire or motivate us (e.g., <em>believe in yourself!</em>), but in looking at the differences outlined between a fixed and a growth mindset, you can see how each part of the growth mindset path can increase your probability of success when it comes to learning.</p>
+    <p>[[NOTE]]</p>
+  </subsection>
+  <subsection xml:id="m00005-sect-00006">
+    <title>Friends &amp; Family Matter</title>
+    <p>Ana is the first in her family to go to college and they have been mostly supportive of her decision to go to college. She enjoys texting and calling them almost every day, and they like hearing what she is doing. She especially likes video-chatting with her younger brother. He had a hard time when she left, because he relied on her to help him with his homework.</p>
+    <p>Because she is having a hard time during the first few weeks of class, she has shared with her parents that she doesn’t feel like she fits in and feels like she has made a bad decision. At first her parents encouraged her to stay and join an organization to meet other people. “It will take some time to get used to being away, but it will get better,” they assured her. After some time, Ana began to feel better about being away and started making friends in her classes.</p>
+    <p>When Ana calls to check on her brother at mid-term, her parents tell her that her father has been very sick, and has had to take time off work. Her mother has not been able to care for him and her little brother at the same time as her father needs daily treatments and weekly doctor’s appointments. Between his being off work and the mounting costs of his treatment, the family is concerned about being able to pay for Ana’s college expenses. They ask Ana if she can come home for a few weeks to take her brother to school and help around the house, and want to talk to her about what to do next semester.</p>
+    <subsection xml:id="m00005-sect-00007">
+      <title>Let’s Think About It</title>
+      <p>Ana has several options. Think through the consequences of each one, and choose the best option or create your own option.</p>
+      <p>
+        <ul xml:id="m00005-list-00004">
+          <li>
+            <p>Ana goes home immediately and stays with her family until they no longer need her, even if that means she misses her classes and does not complete any work.</p>
+          </li>
+          <li>
+            <p>Ana meets with her professors and asks if she can stay on top of her work until she gets back, and then she heads home with her books and laptop.</p>
+          </li>
+          <li>
+            <p>Ana explains to her parents that if she leaves during the middle of the semester, she may jeopardize her progress so far, earn bad grades, and lose her scholarship, so she tells them she cannot do that.</p>
+          </li>
+        </ul>
+      </p>
+    </subsection>
+    <subsection xml:id="m00005-sect-00008">
+      <title>Let’s Talk About It</title>
+      <p>Ana’s situation—having to make a choice about whether to continue her studies or focus on a personal matter—is not unusual. You may also experience tension pulling you in different directions. Here are some strategies for communicating what you need to make the best choice based on Ana's dilemma:</p>
+      <p>
+        <ul xml:id="m00005-list-00003">
+          <li>
+            <p>“I know that this is important to our family, and I want to be there to help, but I need to check with my professors about what they will allow me to do. The work I have done so far may be wasted if I just leave without sharing my plans and figuring out a way to stay on top of my work.”</p>
+          </li>
+          <li>
+            <p>“I am worried about dad’s health, and I would like to come home over the weekend to check in with everyone and see what I can do to help find additional support when I have to go back to school.”</p>
+          </li>
+          <li>
+            <p>“What kind of compromise can we make so that you get the support you need and I can stay focused on the work I have to do before the end of the semester?”</p>
+          </li>
+        </ul>
+      </p>
+    </subsection>
+    <p>Whatever choice you would make in this situation, it is always best to communicate clearly your needs, your concerns, and even your uncertainties.</p>
+  </subsection>
+  <subsection xml:id="m00005-sect-00005">
+    <title>Summary and Next Steps to College Success</title>
+    <p>This chapter provides an introduction to the transition to college by first asking “Why are you in college?” Understanding your “why” and what a college degree can do for you is the foundation of making a smooth transition. These experiences are part of being in college, and this chapter provides you with information about what to expect and how to handle the changes you will go through.</p>
+    <p>Now that you have read and reflected on the main ideas of the chapter, consider developing a plan to help you achieve college success by considering what you want to know more about that could help you? Review the list below and commit to working on one or more of the concepts this term and beyond.</p>
+    <p>
+      <ul xml:id="m00005-list-00002">
+        <li>
+          <p>Research the long-term value of your college major or degree. Look at potential careers associated with your major and reflect on what you will learn during college that will help you with your career.</p>
+        </li>
+        <li>
+          <p>Identify the hidden curriculum or unwritten rules at your institution. What do your professors expect but don’t explicitly state? What are your strategies for uncovering the hidden curriculum during your college experience?</p>
+        </li>
+        <li>
+          <p>Create a list of resources to help you in college. Choose one or more to use this term to engage and determine how well the resource helped you with a challenge.</p>
+        </li>
+        <li>
+          <p>Reflect on the occasions in which you have exhibited a fixed mindset. What will you commit to doing that would help you exhibit a growth mindset?</p>
+        </li>
+      </ul>
+    </p>
+  </subsection>
+  <subsection xml:id="m00005-sect-00009">
+    <title>Checking In: Your College Readiness Checklist</title>
+    <subsection xml:id="m00005-sect-00010">
+      <title>Fall</title>
+      <table xml:id="m00005-table-00001">
+        <caption>[[CAPTION]]</caption>
+        <tabular>
+          <row bottom="major">
+            <cell>9<m>^{th}</m> Grade</cell>
+          </row>
+          <row>
+            <cell>
+              <sidebyside width="50%">
+                <image xml:id="m00005-" source="../m00005/../../media/noun-calendar-5667273.png"/>
+              </sidebyside>
+            </cell>
+            <cell><em>Consider signing up for the <url href="https://satsuite.collegeboard.org/psat-8-9">PSAT 8/9</url> in the fall.</em> While taking the PSAT 8/9 isn’t necessary, it gives you experience with standardized testing and an official score report that can guide your future studying.
+            </cell>
+          </row>
+          <row>
+            <cell>
+              <!-- <sidebyside width="50%"> -->
+                <!-- <image xml:id="m00005-" source="../m00005/../../media/noun-pencil-5673251.png"/> -->
+              <!-- </sidebyside> -->
+            </cell>
+            <cell><em>Create a college-friendly email address.</em> Create a new email account using your first and last name and graduation date (e.g., JaneSmith2024@email.com). Then use it exclusively for college-related communications, like test scores, scholarships, and marketing materials from colleges.
+            </cell>
+          </row>
+          <row>
+            <cell>
+              <!-- <sidebyside width="50%"> -->
+                <!-- <image xml:id="m00005-" source="../m00005/../../media/noun-book-5673244.png"/> -->
+              <!-- </sidebyside> -->
+            </cell>
+            <cell><em>Create a college binder.</em> Start saving and documenting things that will be useful for college and scholarship applications, like transcripts, community service hours (including dates and contact information), letters of recommendation, and usernames and passwords.
+            </cell>
+          </row>
+          <row>
+            <cell>
+              <!-- <sidebyside width="50%"> -->
+                <!-- <image xml:id="m00005-" source="../m00005/../../media/noun-graduation-1645699.png"/> -->
+              <!-- </sidebyside> -->
+            </cell>
+            <cell><em>Introduce yourself to your school counselor and your college and career center counselor.</em> You’ll need their help often over the next few years. Check in with them regularly to ensure you’re making college-ready decisions.
+            </cell>
+          </row>
+        </tabular>
+      </table>
+      <table xml:id="m00005-table-00002">
+        <caption>[[CAPTION]]</caption>
+        <tabular>
+          <row bottom="major">
+            <cell>10<m>^{th}</m> Grade</cell>
+          </row>
+          <row>
+            <cell>
+              <!-- <sidebyside width="50%"> -->
+                <!-- <image xml:id="m00005-" source="../m00005/../../media/noun-calendar-5667273.png"/> -->
+              <!-- </sidebyside> -->
+            </cell>
+            <cell><em>Apply for scholarships.</em> Plenty of scholarships are available for high school students of any grade level. Talk to your guidance counselor for suggestions. Start applying to some now!
+              </cell>
+          </row>
+          <row>
+            <cell>
+              <!-- <sidebyside width="50%"> -->
+                <!-- <image xml:id="m00005-" source="../m00005/../../media/noun-pencil-5673251.png"/> -->
+              <!-- </sidebyside> -->
+            </cell>
+            <cell><em>Create a <url href="https://www.act.org/content/act/en/myact-profile.html">MyACT Profile</url> and a <url href="https://cbaccount.collegeboard.org/iamweb/smartRegister">College Board (SAT)</url> account.</em> Even if you’re not ready to take the ACT or SAT yet, creating these accounts will ensure you get reminders about upcoming tests and useful college and career planning strategies.
+              </cell>
+          </row>
+          <row>
+            <cell>
+              <!-- <sidebyside width="50%"> -->
+                <!-- <image xml:id="m00005-" source="../m00005/../../media/noun-book-5673244.png"/> -->
+              <!-- </sidebyside> -->
+            </cell>
+            <cell><em>Take a personality assessment.</em> Learn more about your strengths, opportunities for improvement, preferred learning styles, and strategies for approaching challenges. See if your school offers assessments like the ASVAB (Armed Services Vocational Aptitude Battery) or YouScience, or find a free one online.
+              </cell>
+          </row>
+          <row>
+            <cell>
+              <!-- <sidebyside width="50%"> -->
+                <!-- <image xml:id="m00005-" source="../m00005/../../media/noun-graduation-1645699.png"/> -->
+              <!-- </sidebyside> -->
+            </cell>
+            <cell><em>Get involved in your school and community.</em> Try something new and join some clubs or sports. You never know where you might find a new passion or hobby — or even a lead on a potential major or career.
+              </cell>
+          </row>
+        </tabular>
+      </table>
+      <table xml:id="m00005-table-00003">
+        <caption>[[CAPTION]]</caption>
+        <tabular>
+          <row bottom="major">
+            <cell>11<m>^{th}</m> Grade</cell>
+          </row>
+          <row>
+            <cell>
+              <!-- <sidebyside width="50%"> -->
+                <!-- <image xml:id="m00005-" source="../m00005/../../media/noun-calendar-5667273.png"/> -->
+              <!-- </sidebyside> -->
+            </cell>
+            <cell><em>Add <url href="https://www.act.org/">ACT</url> and <url href="https://satsuite.collegeboard.org/">SAT</url> dates (and registration deadlines) to your calendar.</em> Think about which ones you’ll want to take. Consider opting out of sending your scores to specific colleges when you register; instead, you may want to see your scores before you decide to send them.
+                </cell>
+          </row>
+          <row>
+            <cell>
+              <!-- <sidebyside width="50%"> -->
+                <!-- <image xml:id="m00005-" source="../m00005/../../media/noun-pencil-5673251.png"/> -->
+              <!-- </sidebyside> -->
+            </cell>
+            <cell><em>Set your priorities.</em> Junior year is busy, and it’s easy to get overwhelmed. If you’re feeling stressed, sit down with someone and walk through your obligations, set priorities, and make a plan for getting things done. This is a skill you’ll rely on in college, so practice it now!
+                </cell>
+          </row>
+          <row>
+            <cell>
+              <!-- <sidebyside width="50%"> -->
+                <!-- <image xml:id="m00005-" source="../m00005/../../media/noun-book-5673244.png"/> -->
+              <!-- </sidebyside> -->
+            </cell>
+            <cell><em>Sign up to take the <url href="https://satsuite.collegeboard.org/psat-nmsqt">PSAT/NSMQT</url> in October.</em> This test qualifies juniors for the National Merit Scholarship. If you’re aiming for a high score and potential scholarship opportunities, start (or keep) prepping. 
+                </cell>
+          </row>
+          <row>
+            <cell>
+              <!-- <sidebyside width="50%"> -->
+                <!-- <image xml:id="m00005-" source="../m00005/../../media/noun-graduation-1645699.png"/> -->
+              <!-- </sidebyside> -->
+            </cell>
+            <cell><em>Attend college visits on your high school campus.</em> Meet college reps when they visit your high school and talk with them about what they’re looking for in a student and what they can offer you.
+                </cell>
+          </row>
+        </tabular>
+      </table>
+      <table xml:id="m00005-table-00004">
+        <caption>[[CAPTION]]</caption>
+        <tabular>
+          <row bottom="major">
+            <cell>12<m>^{th}</m> Grade</cell>
+          </row>
+          <row>
+            <cell>
+              <!-- <sidebyside width="50%"> -->
+                <!-- <image xml:id="m00005-" source="../m00005/../../media/noun-calendar-5667273.png"/> -->
+              <!-- </sidebyside> -->
+            </cell>
+            <cell><em>Check your applicant portals regularly.</em> Most colleges will ask for missing items (e.g., test scores, recommendations, transcripts), provide updates on your decision status, and deliver other important updates via their applicant portals.
+                </cell>
+          </row>
+          <row>
+            <cell>
+              <!-- <sidebyside width="50%"> -->
+                <!-- <image xml:id="m00005-" source="../m00005/../../media/noun-pencil-5673251.png"/> -->
+              <!-- </sidebyside> -->
+            </cell>
+            <cell><em>Complete the <url href="https://studentaid.gov/h/apply-for-aid/fafsa">FAFSA</url> and <url href="https://profile.collegeboard.org/profile/profiledirect/index.aspx">CSS Profile</url>, if applicable.</em> The Free Application for Federal Student Aid (FAFSA) lets you apply for federal student aid, including federal grants, work-study funds, and loans. Some schools also use the CSS Profile to award nonfederal institutional aid. Both applications open Oct. 1. 
+                </cell>
+          </row>
+          <row>
+            <cell>
+              <!-- <sidebyside width="50%"> -->
+                <!-- <image xml:id="m00005-" source="../m00005/../../media/noun-book-5673244.png"/> -->
+              <!-- </sidebyside> -->
+            </cell>
+            <cell><em>Keep prepping for (and taking) the ACT or SAT.</em> Improving your score could make you eligible for increased merit scholarships and could boost your chances of acceptance.
+                </cell>
+          </row>
+          <row>
+            <cell>
+              <!-- <sidebyside width="50%"> -->
+                <!-- <image xml:id="m00005-" source="../m00005/../../media/noun-graduation-1645699.png"/> -->
+              <!-- </sidebyside> -->
+            </cell>
+            <cell><em>Ask for feedback on your applications before you submit them.</em> Ask a parent, teacher, counselor, or friend to review your applications, essays, and resume. They may see things you’ve missed or mistakes to be corrected.
+                </cell>
+          </row>
+        </tabular>
+      </table>
+    </subsection>
+  </subsection>
+  <conclusion>
+    <p>Original OpenStax book is available for free at <c/>, and is distributed with a  license.</p>
+    <p/>
+  </conclusion>
+
+</section>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-math-in-community" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Doing Mathematics in Community</title>
+
+<!-- Should Include: math is a social activity, how to be productive, helping each other in useful ways, listening, criticizing,
+ being ok with feeling lost, how to make friends -->
+
+  <p>
+    This is the first paragraph. <m>\sin(x)</m> is a math expression.
+  </p>
+
+</section>

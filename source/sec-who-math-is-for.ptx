@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-who-math-is-for" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Who is Mathematics for?</title>
+
+  <!-- maybe change title based on francis su book -->
+
+
+  <p>
+    This is the first paragraph. <m>\sin(x)</m> is a math expression.
+  </p>
+
+</section>

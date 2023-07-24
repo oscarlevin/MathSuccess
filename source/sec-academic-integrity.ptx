@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-academic-integrity" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Academic Integrity in Mathematics</title>
+
+<!-- Should Include: how academic integrity looks in math, what is plagarism, citing sources, etc. -->
+
+  <p>
+    This is the first paragraph. <m>\sin(x)</m> is a math expression.
+  </p>
+
+</section>

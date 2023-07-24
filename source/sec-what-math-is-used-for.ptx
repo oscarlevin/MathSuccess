@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-what-math-is-used-for" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>What is Mathematics Used for?</title>
+
+<!-- Should Include: real world applications, ethical implications of how math is applied -->
+
+  <p>
+    This is the first paragraph. <m>\sin(x)</m> is a math expression.
+  </p>
+
+</section>

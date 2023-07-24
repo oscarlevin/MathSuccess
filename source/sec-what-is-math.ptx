@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-what-is-math" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>What is Mathematics?</title>
+
+  <!-- Should Include: General overview of where math comes from, what counts as math, math is a subject to be proud of -->
+
+
+  <p>
+    This is the first paragraph. <m>\sin(x)</m> is a math expression.
+  </p>
+
+</section>
