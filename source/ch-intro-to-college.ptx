@@ -164,8 +164,8 @@
 
 
   <xi:include href="sec-hidden-curriculum.ptx" />
-  <xi:include href="sec-college-jobs.ptx" />
   <xi:include href="sec-learning.ptx" />
   <xi:include href="sec-growth-mind.ptx" />
+  <xi:include href="sec-college-jobs.ptx" />
 
 </chapter>
