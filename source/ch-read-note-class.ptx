@@ -9,59 +9,7 @@
     </p>
   </introduction>
 
-  <introduction xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:cnx="http://cnx.rice.edu/cnxml" xmlns:col="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:m="http://www.w3.org/1998/Math/MathML" xml:id="m00012">
-    <introduction>
-      <figure xml:id="fig-00001">
-        <caption>Reading effectively in college may require combining different sources and formats, as well as finding your own way to record and prioritize information. (Credit: Daniel Sancho / Flickr Attribution 2.0 Generic (CC-BY 2.0))</caption>
-        <image width="100%" source="../m00012/../../media/CS_Figure_03_00_001_Splash.jpg">
-          <description>A person reads with a tablet e-book device on top of a printed book. The printed book has underlines and notes in the margin. Underneath the printed book is a notebook.</description>
-        </image>
-      </figure>
-      <p>[[NOTE]]</p>
-    </introduction>
-    <subsection xml:id="m00012-sect-00001">
-      <title>Student Survey</title>
-      <p>How confident are you in reading actively and critically and taking good notes? Take this quick survey to figure it out, ranking questions on a scale of 1—4, 1 meaning “least like me” and 4 meaning “most like me.” These questions will help you determine how the chapter concepts relate to you right now. As you are introduced to new concepts and practices, it can be informative to reflect on how your understanding changes over time.</p>
-      <p>
-        <ol xml:id="m00012-list-00001">
-          <li>
-            <p>I am reading on a college level.</p>
-          </li>
-          <li>
-            <p>I take good notes that help me study for exams.</p>
-          </li>
-          <li>
-            <p>I understand how to manage all the reading I need to do for college.</p>
-          </li>
-          <li>
-            <p>I recognize the need for different note-taking strategies for different college subjects.</p>
-          </li>
-        </ol>
-      </p>
-      <p>You can also take the <url href="https://openstax.org/l/collegeconcisesurvey03">Chapter 4 survey</url> anonymously online.</p>
-    </subsection>
-    <subsection xml:id="m00012-sect-00002">
-      <title>About This Chapter</title>
-      <p>In this chapter we will explore two skills you probably think you already perform well—reading and note-taking. But first we will discuss what learning is and why the processes of reading and taking notes are integral to the learning process. The goal of this chapter, and your continued improvement on these skills, is to make sure you’ve honed them well enough to lead you to success in college. By the time you finish this chapter, you should be able to do the following:</p>
-      <p>
-        <ul xml:id="m00012-list-00002">
-          <li>
-            <p>Describe the learning process and how reading and note-taking are an important part of it.</p>
-          </li>
-          <li>
-            <p>Discuss the way reading differs in college and how to successfully adapt to that change.</p>
-          </li>
-          <li>
-            <p>Demonstrate the usefulness of strong note-taking while reading and during a lecture.</p>
-          </li>
-        </ul>
-      </p>
-      <p>Reading and consuming information are increasingly important today because of the amount of information we encounter. Not only do we need to read critically and carefully, but we also need to read with an eye to distinguishing fact from opinion and identifying solid sources. Reading helps us make sense of the world—from simple reminders to pick up milk to complex treatises on global concerns, we read to comprehend, and in so doing, our brains expand. An interesting study from Emory University in Atlanta, Georgia, used MRI scans to track the brain conductivity while participants were reading. The researchers assert that a biological change to your brain actually happens when you read, and it lingers. If you want to read the study, published in the journal <em>Brain Connectivity,</em> you can find it online at <url href="https://openstax.org/l/brainconnectivity">https://openstax.org/l/brainconnectivity</url>.</p>
-      <p>In academic settings, as we deliberately work to become stronger readers and better notetakers, we are both helping our current situation and enhancing our abilities to be successful in the future. Seems like a win-win. Take advantage of all the study aids you have at hand, including human, electronic, and physical resources, to increase your performance in these crucial skill sets.</p>
-      <p>Why? You need to read. It improves your thinking, your vocabulary, and your ability to make connections between disparate parts, which are all parts of critical thinking. Educational researchers Anne Cunningham and Keith Stanovich discovered after extensive study with college students that “reading volume [how much you read] made a significant contribution to multiple measures of vocabulary, general knowledge, spelling, and verbal fluency.”</p>
-      <p>Research continues to assess and support the fact that one of the most significant learning skills necessary for success in any field is reading. You may have performed this skill for decades already, but learning to do it more effectively and practicing the skill consistently is critical to how well you do in all subjects. If reading <em>isn’t your thing,</em> strive to make that your challenge. Your academic journey, your personal well-being, and your professional endeavors will all benefit from your reading. Put forth the effort and make it your thing. The long-term benefits will far outweigh the sacrifices you make now.</p>
-    </subsection>
-  </introduction>
+ 
 
   <xi:include href="sec-reading.ptx" />
   <xi:include href="sec-syllabus.ptx" />
