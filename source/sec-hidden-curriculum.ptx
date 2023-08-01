@@ -6,14 +6,7 @@
 
 
   <introduction>
-    <table xml:id="m00004-ch01tab06">
-      <caption>[[CAPTION]]</caption>
-      <tabular>
-        <row>
-          <cell>Estimated completion time: 32 minutes.</cell>
-        </row>
-      </tabular>
-    </table>
+    
     <p>
       <em>Questions to Consider:</em>
     </p>
@@ -96,7 +89,7 @@
         </row>
       </tabular>
     </table>
-    <p>[[NOTE]]</p>
+   
     <p>In addition to its own language, higher education has its own way of doing things. For example, you may be familiar with what a high school teacher does, but do you know what a professor does? It certainly seems like they fulfill a very similar role as teachers in high school, but in college, professors’ roles are often much more diverse. In addition to teaching, they may also conduct research, mentor graduate students, write and review research articles, serve on and lead campus committees, serve in regional and national organizations in their disciplines, apply for and administer grants, advise students in their major, and serve as sponsors for student organizations. You can be assured that their days are far from routine. See the table below for just a few differences between high school teachers and college professors.</p>
     <table xml:id="m00004-ch01tab08">
       <caption>[[CAPTION]]</caption>
@@ -110,7 +103,7 @@
         </row>
         <row>
           <cell>Often have degrees or certifications in teaching in addition to degrees in subject matter</cell>
-          <cell>Most likely have not even taken a course in teaching as part of their graduate program</cell>
+          <cell>Some may not have even taken a course in teaching as part of their graduate program</cell>
         </row>
         <row>
           <cell>Responsibilities include maximizing student learning and progress in a wide array of areas</cell>
@@ -118,7 +111,7 @@
         </row>
         <row>
           <cell>Are available before or after school or during class if a student has a question</cell>
-          <cell>Are available during office hours or by appointment if a student needs additional instruction or advice</cell>
+          <cell>Are available during office hours [student hours] or by appointment if a student needs additional instruction or advice</cell>
         </row>
         <row>
           <cell>Communicate regularly and welcome questions from parents and families about a student’s progress</cell>
@@ -126,25 +119,24 @@
         </row>
       </tabular>
     </table>
-    <p>The relationships you build with your professors will be some of the most important ones you create during your college career. You will rely on them to help you find internships, write letters of recommendation, nominate you for honors or awards, and serve as references for jobs. You can develop those relationships by participating in class, visiting during office hours, asking for assistance with coursework, requesting recommendations for courses and majors, and getting to know the professor’s own academic interests. One way to think about the change in how your professors will relate to you is to think about the nature of relationships you have had growing up. In <xref ref="m00004-ch01fig05"/> You and Your Relationships Before College you will see a representation of what your relationships probably looked like. Your family may have been the greatest influencer on you and your development.</p>
-    <p>
-      <em>“The relationships you build with your professors will be some of the most important ones during your college career.”</em>
-    </p>
-    <figure xml:id="ch01fig05">
-      <caption>You and Your Relationships Before College</caption>
-      <image width="100%" source="../m00004/../../media/CS_Figure_01_05_001.png">
-        <description>A diagram illustrates the relationships of “You” before college with “Authority Figures,” “Family,” and “Friends.”</description>
-      </image>
-    </figure>
-    <p>In college, your networks are going to expand in ways that will help you develop other aspects of yourself. As described above, the relationships you will have with your professors will be some of the most important. But they won’t be the only relationships you will be cultivating while in college. Consider <xref ref="m00004-ch01fig06"/>, You and Your Relationships During College, and think about how you will go about expanding your network while you are completing your degree.</p>
-    <figure xml:id="ch01fig06">
-      <caption>You and Your Relationships During College</caption>
-      <image width="100%" source="../m00004/../../media/CS_Figure_01_06_001.png">
-        <description>A diagram illustrates the relationships of “You” during college with “Authority Figures,” “Family,” “Friends,” “Peer Networks,” and “Adult Mentors and Colleagues.”</description>
-      </image>
-    </figure>
-    <p>Your relationships with authority figures, family, and friends may change while you are in college, and at the very least, your relationships will expand to peer networks—not friends, but near-age peers or situational peers (e.g., a first-year college student who is going back to school after being out for 20 years)—and to faculty and staff who may work alongside you, mentor you, or supervise your studies. These relationships are important because they will allow you to expand your network, especially as it relates to your career. As stated earlier, developing relationships with faculty can provide you with more than just the benefits of a mentor. Faculty often review applications for on-campus jobs or university scholarships and awards; they also have connections with graduate programs, companies, and organizations. They may recommend you to colleagues or former classmates for internships and even jobs.</p>
-    <p>Other differences between high school and college are included in <xref ref="m00004-ch01tab09"/>, Differences between High School and College. Because it is not an exhaustive list of the differences, be mindful of other differences you may notice. Also, if your most recent experience has been the world of work or the military, you may find that there are more noticeable differences between those experiences and college.</p>
+    <p> <em>The relationships you build with your professors will be some of the most important ones you create during your college 
+     career</em>. You will rely on them to help you find internships, write letters of recommendation, nominate you for honors or 
+      awards, and serve as references for jobs. You can develop those relationships by participating in class, visiting during 
+      office hours, asking for assistance with coursework, requesting recommendations for courses and majors, and getting to know 
+      the professor’s own academic interests. </p>
+    
+    
+    <p>In college, your networks are going to expand in ways that will help you develop other aspects of yourself. Your 
+      relationships will expand to peer networks—not friends, but near-age peers or situational peers (e.g., a first-year 
+      college student who is going back to school after being out for 20 years)—and to faculty and staff who may work alongside 
+      you, mentor you, or supervise your studies. These relationships are important because they will allow you to expand your 
+      network, especially as it relates to your career. As stated earlier, developing relationships with faculty can provide you 
+      with more than just the benefits of a mentor. Faculty often review applications for on-campus jobs or university 
+      scholarships and awards; they also have connections with graduate programs, companies, and organizations. They may 
+      recommend you to colleagues or former classmates for internships and even jobs.</p>
+    <p>Other differences between high school and college are included below. Because it is not an exhaustive list of the 
+      differences, be mindful of other differences you may notice. Also, if your most recent experience has been the world of 
+      work or the military, you may find that there are more noticeable differences between those experiences and college.</p>
     <table xml:id="m00004-ch01tab09">
       <caption>[[CAPTION]]</caption>
       <tabular>
@@ -241,12 +233,6 @@
     <p><em>Prevailing Opinions</em>. Simply put, you are going to encounter instructors and learning activities that you sometimes agree with and sometimes do not. The key is to learn from them regardless. In either case, take ownership of your learning and even make an effort to learn about other perspectives, even if it is only for your own education on the matter. There is no better time to expose yourself to other opinions and philosophies than in college. In fact, many would say that this is a significant part of the college experience. With the right mindset, it is easy to view everything as a learning opportunity.</p>
     <p><em>Classroom Circumstances.</em> These kinds of circumstances often require a more structured approach to turn the situation to your advantage, but they also usually have the most obvious solutions. In a large class, you might find yourself limited in the ability to participate in classroom discussions because of so many other students. The way around that would be to speak to several classmates and create your own discussion group. You could set up a time to meet, or you could take a different route by using technology such as an online discussion board, a Zoom session, or even a group text. Several of the technologically-based solutions might even be better than an in-class discussion since you do not all have to be present at the same time. The discussion can be something that occurs all week long, giving everyone the time to think through their ideas and responses.</p>
     <p>Again, the main point is to first spot those things in the hidden curriculum that might put your learning at a disadvantage and devise a solution that either reduces the negative impact or even becomes a learning advantage.</p>
-  </subsection>
-  <subsection xml:id="m00004-sect-00004">
-    <title>Learning Is Your Responsibility</title>
-    <p>As you may now realize by reviewing the differences between high school and college, learning in college will be your responsibility. Before you read about the how and why of being responsible for your own learning, complete the Activity below.</p>
-    <p>[[NOTE]]</p>
-    <p>Taking responsibility for your learning will take some time if you are not used to being in the driver’s seat. However, if you have any difficulty making this adjustment, you can and should reach out for help along the way.</p>
   </subsection>
   <subsection xml:id="m00004-sect-00005">
     <title>What to Expect During the First Year</title>
