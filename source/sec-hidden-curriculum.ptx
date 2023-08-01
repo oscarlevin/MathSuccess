@@ -184,7 +184,8 @@
     </table>
   </paragraphs>
   <!-- </subsection> -->
-  <subsection xml:id="m00004-sect-00002">
+  <!-- <subsection xml:id="m00004-sect-00002"> -->
+    <paragraphs>
     <title>Some of What You Will Learn Is “Hidden”</title>
     <p>Many of the college expectations that have been outlined so far may not be considered common knowledge, which is one reason that so many colleges and universities have classes that help students learn what they need to know to succeed. The term <em>hidden curriculum</em>, which was coined by sociologists,P.P. Bilbao, P. I. Lucido, T. C. Iringan and R. B. Javier. (2008). <em>Curriculum Development</em>. describes unspoken, unwritten, or unacknowledged (hence, <em>hidden</em>) rules that students are expected to follow that can affect their learning.</p>
     <p><em>Situation:</em> According to your syllabus, your history professor is lecturing on the chapter that covers the stock market crash of 1929 on Tuesday of next week.</p>
@@ -289,8 +290,10 @@
     <p>After the newness of college wears off, reality will set in. You may find that the courses and assignments do not seem much different than they did in high school (more on that later), but you may be in for a shock when you get your graded tests and papers. Many new college students find that their first grades are lower than they expected. For some students, this may mean they have earned a B when they are used to earning As, but for many students, it means they may experience their first <em>failing or almost-failing grades</em> in college because they have not used active, effective study strategies; instead, they studied how they did in high school, which is often insufficient. This can be a shock if you are not prepared, but it doesn’t have to devastate you if you are willing to use it as a wake-up call to do something different.</p>
     <p>By the middle of the semester, you’ll likely feel much more confident and a little more relaxed. Your grades are improving because you started tutoring and using better study strategies. You are looking ahead, even beyond the first semester, to start planning your courses for the next term. If you are working while in college, you may also find that you have a rhythm down for balancing it all; additionally, your time management skills have likely improved.</p>
     <p>By the last few weeks of the semester, you will be focused on the increasing importance of your assignments and upcoming finals and trying to figure out how to juggle that with the family obligations of the impending holidays. You may feel a little more pressure to prepare for finals, as this time is often viewed as the most stressful period of the semester. All of this additional workload and need to plan for the next semester can seem overwhelming, but if you plan ahead and use what you learn from this chapter and the rest of the course, you will be able to get through it more easily.</p>
-  </subsection>
-  <subsection xml:id="m00004-sect-00006">
+  <!-- </subsection> -->
+  </paragraphs>
+  <!-- <subsection xml:id="m00004-sect-00006"> -->
+    <paragraphs>
     <title>Don’t Do It Alone</title>
     <p>Think about our earlier descriptions of two students, Reginald and Madison. What if they found that the first few weeks were a little harder than they had anticipated? Should they have given up and dropped out? Or should they have talked to someone about their struggles? Here is a secret about college success that not many people know: successful students seek help. They use resources. And they do that as often as necessary to get what they need. Your professors and advisors will expect the same from you, and your college will have all kinds of offices, staff, and programs that are designed to help. This bears calling out again: <em>you need to use those resources</em>. These are called “help-seeking behaviors,” and along with self-advocacy, which is speaking up for your needs, they are essential to your success. As you get more comfortable adjusting to life in college, you will find that asking for help is easier. In fact, you may become really good at it by the time you graduate, just in time for you to ask for help finding a job! Review the table on Issues, Campus Resources, and Potential Outcomes for a few examples of times you may need to ask for help. See if you can identify where on campus you can find the same or a similar resource.</p>
     <table xml:id="m00004-ch01tab13">
@@ -332,8 +335,10 @@
       </tabular>
     </table>
     <p>[[NOTE]]</p>
-  </subsection>
-  <subsection xml:id="m00004-sect-00007">
+  <!-- </subsection> -->
+  </paragraphs>
+  <!-- <subsection xml:id="m00004-sect-00007"> -->
+    <paragraphs>
     <title>Common Challenges in the First Year</title>
     <p>It seems fitting to follow up the expectations for the first year with a list of common challenges that college students encounter along the way to a degree. If you experience any—or even all—of these, the important point here is that you are not alone and that you can overcome them by using your resources. Many college students have felt like this before, and they have survived—even thrived—despite them because they were able to identify a strategy or resource that they could use to help themselves. At some point in your academic career, you may do one or more of the following:</p>
     <p>
@@ -356,7 +361,8 @@
       </ol>
     </p>
     <p>[[NOTE]]</p>
-  </subsection>
+  <!-- </subsection> -->
+    </paragraphs>
   <conclusion>
     <p>Original OpenStax book is available for free at <c/>, and is distributed with a  license.</p>
     <p/>
