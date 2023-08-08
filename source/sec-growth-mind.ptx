@@ -7,14 +7,7 @@
 
 
   <introduction>
-    <table xml:id="m00005-ch01tab14">
-      <caption>[[CAPTION]]</caption>
-      <tabular>
-        <row>
-          <cell>Estimated completion time: 14 minutes.</cell>
-        </row>
-      </tabular>
-    </table>
+   
     <p>
       <em>Questions to Consider:</em>
     </p>
@@ -36,7 +29,8 @@
       </image>
     </figure>
   </introduction>
-  <subsection xml:id="m00005-sect-00001">
+  <!-- <subsection xml:id="m00005-sect-00001"> -->
+    <paragraphs>
     <title>Performance vs. Learning Goals</title>
     <p>Much of our ability to learn is governed by our motivations and goals. Sometimes hidden goals or mindsets can impact the learning process. In truth, we all have goals that we might not be fully aware of, or if we are aware of them, we might not understand how they help or restrict our ability to learn. An illustration of this can be seen in a comparison of a student that has <em>performance</em>-based goals with a student that has <em>learning</em>-based goals.</p>
     <p>If you are a student with strict performance goals, your primary psychological concern might be to appear intelligent to others. At first, this might not seem to be a bad thing for college, but it can truly limit your ability to move forward in your own learning. Instead, you would tend to play it safe without even realizing it. For example, a student who is strictly performance-goal-oriented will often only say things in a classroom discussion when they think it will make them look knowledgeable to the instructor or their classmates. Likewise, a performance-oriented student might ask a question that they know is beyond the topic being covered (e.g., asking about the economics of Japanese whaling while discussing the book <em>Moby Dick</em> in an American literature course). Rarely will they ask a question in class because they actually do not understand a concept. Instead they will ask questions that make them look intelligent to others or in an effort to “stump the teacher.” When they do finally ask an honest question, it may be because they are more afraid that their lack of understanding will result in a poor performance on an exam rather than simply wanting to learn.</p>
@@ -56,23 +50,30 @@
         <description>A diagram illustrates the comparison between “Fixed Mindset” and “Growth Mindset” based on six different parameters.</description>
       </image>
     </figure>
-  </subsection>
-  <subsection xml:id="m00005-sect-00003">
+  </paragraphs>
+  <!-- </subsection> -->
+  <!-- <subsection xml:id="m00005-sect-00003"> -->
+    <paragraphs>
     <title>The Growth Mindset and Lessons About Failing</title>
     <p>Something you may have noticed is that a growth mindset would tend to give a learner grit and persistence. If you had learning as your major goal, you would normally keep trying to attain that goal even if it took you multiple attempts. Not only that, but if you learned a little bit more with each try you would see each attempt as a success, even if you had not achieved complete mastery of whatever it was you were working to learn.</p>
     <p>With that in mind, it should come as no surprise that Dweck found that those people who believed their abilities could change through learning (growth vs. a fixed mindset) readily accepted learning challenges and persisted despite early failures.</p>
-  </subsection>
-  <subsection xml:id="m00005-sect-00004">
+    </paragraphs>
+  <!-- </subsection> -->
+  <!-- <subsection xml:id="m00005-sect-00004"> -->
+    <paragraphs>
     <title>Improving Your Ability to Learn</title>
     <p>As strange as it may seem, research into fixed vs. growth mindset has shown that if you believe you can learn something new, you greatly improve your ability to learn. At first, this may seem like the sort of feel-good advice we often encounter in social media posts or quotes that are intended to inspire or motivate us (e.g., <em>believe in yourself!</em>), but in looking at the differences outlined between a fixed and a growth mindset, you can see how each part of the growth mindset path can increase your probability of success when it comes to learning.</p>
     <p>[[NOTE]]</p>
-  </subsection>
-  <subsection xml:id="m00005-sect-00006">
+    </paragraphs>
+  <!-- </subsection> -->
+  <!-- <subsection xml:id="m00005-sect-00006"> -->
+    <paragraphs>
     <title>Friends &amp; Family Matter</title>
     <p>Ana is the first in her family to go to college and they have been mostly supportive of her decision to go to college. She enjoys texting and calling them almost every day, and they like hearing what she is doing. She especially likes video-chatting with her younger brother. He had a hard time when she left, because he relied on her to help him with his homework.</p>
     <p>Because she is having a hard time during the first few weeks of class, she has shared with her parents that she doesn’t feel like she fits in and feels like she has made a bad decision. At first her parents encouraged her to stay and join an organization to meet other people. “It will take some time to get used to being away, but it will get better,” they assured her. After some time, Ana began to feel better about being away and started making friends in her classes.</p>
     <p>When Ana calls to check on her brother at mid-term, her parents tell her that her father has been very sick, and has had to take time off work. Her mother has not been able to care for him and her little brother at the same time as her father needs daily treatments and weekly doctor’s appointments. Between his being off work and the mounting costs of his treatment, the family is concerned about being able to pay for Ana’s college expenses. They ask Ana if she can come home for a few weeks to take her brother to school and help around the house, and want to talk to her about what to do next semester.</p>
-    <subsection xml:id="m00005-sect-00007">
+    <!-- <subsection xml:id="m00005-sect-00007"> -->
+      <paragraphs>
       <title>Let’s Think About It</title>
       <p>Ana has several options. Think through the consequences of each one, and choose the best option or create your own option.</p>
       <p>
@@ -88,8 +89,10 @@
           </li>
         </ul>
       </p>
-    </subsection>
-    <subsection xml:id="m00005-sect-00008">
+    </paragraphs>
+    <!-- </subsection> -->
+    <!-- <subsection xml:id="m00005-sect-00008"> -->
+      <paragraphs>
       <title>Let’s Talk About It</title>
       <p>Ana’s situation—having to make a choice about whether to continue her studies or focus on a personal matter—is not unusual. You may also experience tension pulling you in different directions. Here are some strategies for communicating what you need to make the best choice based on Ana's dilemma:</p>
       <p>
@@ -105,10 +108,13 @@
           </li>
         </ul>
       </p>
-    </subsection>
+    </paragraphs>
+    <!-- </subsection> -->
     <p>Whatever choice you would make in this situation, it is always best to communicate clearly your needs, your concerns, and even your uncertainties.</p>
-  </subsection>
-  <subsection xml:id="m00005-sect-00005">
+  </paragraphs>
+  <!-- </subsection> -->
+  <!-- <subsection xml:id="m00005-sect-00005"> -->
+    <paragraphs>
     <title>Summary and Next Steps to College Success</title>
     <p>This chapter provides an introduction to the transition to college by first asking “Why are you in college?” Understanding your “why” and what a college degree can do for you is the foundation of making a smooth transition. These experiences are part of being in college, and this chapter provides you with information about what to expect and how to handle the changes you will go through.</p>
     <p>Now that you have read and reflected on the main ideas of the chapter, consider developing a plan to help you achieve college success by considering what you want to know more about that could help you? Review the list below and commit to working on one or more of the concepts this term and beyond.</p>
@@ -128,10 +134,13 @@
         </li>
       </ul>
     </p>
-  </subsection>
-  <subsection xml:id="m00005-sect-00009">
+  </paragraphs>
+  <!-- </subsection> -->
+  <!-- <subsection xml:id="m00005-sect-00009"> -->
+    <paragraphs>
     <title>Checking In: Your College Readiness Checklist</title>
-    <subsection xml:id="m00005-sect-00010">
+    <paragraphs>
+    <!-- <subsection xml:id="m00005-sect-00010"> -->
       <title>Fall</title>
       <table xml:id="m00005-table-00001">
         <caption>[[CAPTION]]</caption>
@@ -309,11 +318,13 @@
           </row>
         </tabular>
       </table>
-    </subsection>
-  </subsection>
-  <conclusion>
-    <p>Original OpenStax book is available for free at <c/>, and is distributed with a  license.</p>
-    <p/>
-  </conclusion>
+    </paragraphs>
+    <!-- </subsection> -->
+  </paragraphs>
+  <!-- </subsection> -->
+  <!-- <conclusion> -->
+    <!-- <p>Original OpenStax book is available for free at <c/>, and is distributed with a  license.</p> -->
+    <!-- <p/> -->
+  <!-- </conclusion> -->
 
 </section>
