@@ -71,12 +71,21 @@
   <p>
     Aligned equations will allow you to have multiple lines of equations where your equal signs are aligned:
   </p>
-  <p><m>
+  <!-- <p><m>
     \verb!\begin{align*}\\!
     \verb!3+2x&=7\\!\\
     \verb!2x&=7-3\\!\\
     \verb!\end{align*}\\!
-  </m>
+  </m> -->
+  </p>
+  <p>
+    Resulting output:
+  </p>
+  <p>
+    <md>
+      <mrow>3+2x \amp =7 </mrow>
+      <mrow>2x \amp =7-3 </mrow>
+    </md>
   </p>
 </paragraphs>
   
