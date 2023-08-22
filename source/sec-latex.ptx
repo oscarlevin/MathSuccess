@@ -54,6 +54,20 @@
   <p>
     Consider the equation <m>3+2x=7</m>
   </p>
+  <p>
+    In order to have the math you want centered, you can use "display math mode" by enclosing the math with double dollar signs. So if you type:
+  </p>
+  <p>
+    Consider the equation <m>\$\$3+2x=7\$\$</m>
+  </p>
+  <p>
+    The output in latex will look like:
+  </p>
+  <p>
+    Consider the equation <md>
+      <mrow>3+2x=7 \amp </mrow>
+    </md>
+  </p>
 </paragraphs>
   
 
