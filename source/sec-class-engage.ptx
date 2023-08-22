@@ -39,10 +39,11 @@
       </image>
     </figure> -->
     <p>Why do professors assign group projects if they are often fraught with challenges? Perhaps it is because group projects are probably the most “real world” experience you will do in college. Very rarely will you be asked to create a report, present to a client, develop a new product or treatment, or fix a problem without working with others and depending on them to do their parts in a timely and professional manner. The more practice you have developing your own skills as a group member and troubleshooting when things don’t go smoothly, the more nimble you will be when you have to collaborate in your job.</p>
-    <p>If you approach working in groups by anticipating the challenges and developing strategies to minimize their negative impact, you will be able to weather the stresses more successfully. <xref ref="table-00002"/> provides some common challenges that you may experience working in a group and reviews the strategies you can use to minimize or eliminate the challenges.</p>
+    <p>If you approach working in groups by anticipating the challenges and developing strategies to minimize their negative impact, you will be able to weather the stresses more successfully. The table below provides some common challenges that you may experience working in a group and reviews the strategies you can use to minimize or eliminate the challenges.</p>
     <table xml:id="m00026-table-00002">
       <caption>[[CAPTION]]</caption>
       <tabular>
+        <col width="50%"/><col width="50%"/>
         <row bottom="major">
           <cell>
             <em>Challenges of Group Work</em>
@@ -52,20 +53,20 @@
           </cell>
         </row>
         <row>
-          <cell>Your grade may be dependent on the quality of others’ work.</cell>
-          <cell>Divide the assignment into parts, assign everyone a role that plays upon their strengths, and communicate expectations on quality.</cell>
+          <cell><p>Your grade may be dependent on the quality of others’ work.</p></cell>
+          <cell><p>Divide the assignment into parts, assign everyone a role that plays upon their strengths, and communicate expectations on quality.</p></cell>
         </row>
         <row>
-          <cell>You have to wait for others to complete their work before you can finish the assignment.</cell>
-          <cell>Create clear due dates for your group and monitor everyone’s progress on the project components.</cell>
+          <cell><p>You have to wait for others to complete their work before you can finish the assignment.</p></cell>
+          <cell><p>Create clear due dates for your group and monitor everyone’s progress on the project components.</p></cell>
         </row>
         <row>
-          <cell>You have to trust that others will fulfill their commitment to do their part of the assignment.</cell>
-          <cell>Create a group Code of Ethics or Shared Expectations document that outlines what each group member agrees to do.</cell>
+          <cell><p>You have to trust that others will fulfill their commitment to do their part of the assignment.</p></cell>
+          <cell><p>Create a group Code of Ethics or Shared Expectations document that outlines what each group member agrees to do.</p></cell>
         </row>
         <row>
-          <cell>Group members don’t show up or do not respond to communication.</cell>
-          <cell>Develop guidelines regarding missed meetings or lack of communication and implement consequences.</cell>
+          <cell><p>Group members don’t show up or do not respond to communication.</p></cell>
+          <cell><p>Develop guidelines regarding missed meetings or lack of communication and implement consequences.</p></cell>
         </row>
       </tabular>
     </table>
