@@ -43,11 +43,13 @@
 
 <paragraphs>
   <title>The Basics</title>
-  Whenever you want to write math, or use symbols, you need to start and end with a dollar sign. So if you type
+  <p>
+  Whenever you want to write math, or use symbols, you need to start and end with a dollar sign. So if you type:
+  </p>
   <p> Consider the equation <m>\$3+2x=7\$</m>
   </p>
   <p>
-    The output in latex will look like
+    The output in latex will look like:
   </p>
   <p>
     Consider the equation <m>3+2x=7</m>
