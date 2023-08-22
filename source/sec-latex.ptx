@@ -49,13 +49,13 @@
   <p> Consider the equation <m>\$3+2x=7\$</m>
   </p>
   <p>
-    The output in latex will look like:
+    A single dollar sign on either end will keep your math in line with the text [shown below]:
   </p>
   <p>
     Consider the equation <m>3+2x=7</m>
   </p>
   <p>
-    In order to have the math you want centered, you can use "display math mode" by enclosing the math with double dollar signs. So if you type:
+    Display math mode will center your lines of math on their own line. To accomplish this, use 2 dollar signs on either end. So your code will look like:
   </p>
   <p>
     Consider the equation <m>\$\$3+2x=7\$\$</m>
@@ -67,6 +67,16 @@
     Consider the equation <md>
       <mrow>3+2x=7 \amp </mrow>
     </md>
+  </p>
+  <p>
+    Aligned equations will allow you to have multiple lines of equations where your equal signs are aligned:
+  </p>
+  <p><m>
+    \begin{align*}
+    3+2x&=7\\
+    2x&=7-3\\
+    \end{align*}
+  </m>
   </p>
 </paragraphs>
   
