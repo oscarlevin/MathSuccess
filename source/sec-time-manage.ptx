@@ -203,12 +203,12 @@
         <title>What Resources Will You Need?</title>
         <p>The first part of this list may appear to be so obvious that it should go without mention, but it is by far one of the most critical and one of the most overlooked. Have you ever planned a trip but forgotten your most comfortable pair of shoes or neglected to book a hotel room? If a missing resource is important, the entire project can come to a complete halt. Even if the missing resource is a minor component, it may still dramatically alter the end result.</p>
         <p>Learning activities are much the same in this way, and it is also important to keep in mind that resources may not be limited to physical objects such as paper or ink. Information can be a critical resource as well. In fact, one of the most often overlooked aspects in planning by new college students is just how much research, reading, and information they will need to complete assignments.</p>
-        <figure xml:id="ch02fig08">
-          <caption>Allowing time to think is an important part of learning. (Credit: Juhan Sonin / Flickr / Attribution 2.0 Generic (CC BY 2.0))</caption>
-          <image width="100%" source="../m00010/../../media/CS_Figure_03_11_001.jpg">
-            <description>A close-up view of a person thinking, while holding a marker pen in her hand.</description>
-          </image>
-        </figure>
+        <!-- <figure xml:id="ch02fig08"> -->
+          <!-- <caption>Allowing time to think is an important part of learning. (Credit: Juhan Sonin / Flickr / Attribution 2.0 Generic (CC BY 2.0))</caption> -->
+          <!-- <image width="100%" source="../m00010/../../media/CS_Figure_03_11_001.jpg"> -->
+            <!-- <description>A close-up view of a person thinking, while holding a marker pen in her hand.</description> -->
+          <!-- </image> -->
+        <!-- </figure> -->
         <p>For example, if you had an assignment in which you were supposed to compare and contrast a novel with a film adapted from that novel, it would be important to have access to both the movie and the book as resources. Your plans for completing the work could quickly fall apart if you learned that on the evening you planned to watch the film, it was no longer available.</p>
       </paragraphs>
       <paragraphs>
@@ -253,16 +253,16 @@
   <paragraphs>
     <title>Daily Top Three</title>
     <p>The idea behind the <em>daily top three</em> approach is that you determine which three things are the most important to finish that day, and these become the tasks that you complete. It is a very simple technique that is effective because each day you are finishing tasks and removing them from your list. Even if you took one day off a week and completed no tasks on that particular day, a <em>daily top three</em> strategy would have you finishing 18 tasks in the course of a single week. That is a good amount of things crossed off your list.</p>
-    <p>[[NOTE]]</p>
+    <!-- <p>[[NOTE]]</p> -->
   </paragraphs>
   <paragraphs>
     <title>Pomodoro Technique</title>
-    <figure xml:id="ch02fig10">
-      <caption>The Pomodoro Technique is named after a type of kitchen timer, but you can use any clock or countdown timer. (Marco Verch /Flickr / Attribution 2.0 Generic (CC BY 2.0))</caption>
-      <image width="100%" source="../m00011/../../media/CS_Figure_03_15_001.jpg">
-        <description>A Pomodoro kitchen timer, resembling a tomato with a scale marked on its body.</description>
-      </image>
-    </figure>
+    <!-- <figure xml:id="ch02fig10"> -->
+      <!-- <caption>The Pomodoro Technique is named after a type of kitchen timer, but you can use any clock or countdown timer. (Marco Verch /Flickr / Attribution 2.0 Generic (CC BY 2.0))</caption> -->
+      <!-- <image width="100%" source="../m00011/../../media/CS_Figure_03_15_001.jpg"> -->
+        <!-- <description>A Pomodoro kitchen timer, resembling a tomato with a scale marked on its body.</description> -->
+      <!-- </image> -->
+    <!-- </figure> -->
     <p>The Pomodoro Technique was developed by Francesco Cirillo. The basic concept is to use a timer to set work intervals that are followed by a short break. The intervals are usually about 25 minutes long and are called <em>pomodoros</em>, which comes from the Italian word for tomato because Cirillo used a tomato-shaped kitchen timer to keep track of the intervals.</p>
     <p>In the original technique there are six steps:</p>
     <p>
@@ -287,12 +287,12 @@
         </li>
       </ol>
     </p>
-    <figure xml:id="ch02fig11">
-      <caption>The Pomodoro Technique contains five defined steps.</caption>
-      <image width="100%" source="../m00011/../../media/CS_Figure_03_16_001.png">
-        <description>The Pomodoro technique is illustrated.</description>
-      </image>
-    </figure>
+    <!-- <figure xml:id="ch02fig11"> -->
+      <!-- <caption>The Pomodoro Technique contains five defined steps.</caption> -->
+      <!-- <image width="100%" source="../m00011/../../media/CS_Figure_03_16_001.png"> -->
+        <!-- <description>The Pomodoro technique is illustrated.</description> -->
+      <!-- </image> -->
+    <!-- </figure> -->
     <p>There are several reasons this technique is deemed effective for many people. One is the benefit that is derived from quick cycles of work and short breaks. This helps reduce mental fatigue and the lack of productivity caused by it. Another is that it tends to encourage practitioners to break tasks down to things that can be completed in about 25 minutes, which is something that is usually manageable from the perspective of time available. It is much easier to squeeze in three 25-minute sessions of work time during the day than it is to set aside a 75- minute block of time.</p>
   </paragraphs>
   <paragraphs>
