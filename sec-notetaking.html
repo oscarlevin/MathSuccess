@@ -1,0 +1,462 @@
+<!DOCTYPE html>
+<!--********************************************-->
+<!--*       Generated from PreTeXt source      *-->
+<!--*                                          *-->
+<!--*         https://pretextbook.org          *-->
+<!--*                                          *-->
+<!--********************************************-->
+<html lang="en-US" dir="ltr">
+<head xmlns:og="http://ogp.me/ns#" xmlns:book="https://ogp.me/ns/book#">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Notetaking</title>
+<meta name="Keywords" content="Authored in PreTeXt">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta property="og:type" content="book">
+<meta property="book:title" content="The Mathematical Success Guide">
+<meta property="book:author" content="Oscar Levin, Editor">
+<meta property="book:author" content="Sarah Sparks, Editor">
+<script>
+var runestoneMathReady = new Promise((resolve) => window.rsMathReady = resolve);
+window.MathJax = {
+  "tex": {
+    "inlineMath": [
+      [
+        "\\(",
+        "\\)"
+      ]
+    ],
+    "tags": "none",
+    "tagSide": "right",
+    "tagIndent": ".8em",
+    "packages": {
+      "[+]": [
+        "base",
+        "extpfeil",
+        "ams",
+        "amscd",
+        "color",
+        "newcommand",
+        "knowl"
+      ]
+    }
+  },
+  "options": {
+    "ignoreHtmlClass": "tex2jax_ignore|ignore-math",
+    "processHtmlClass": "process-math"
+  },
+  "chtml": {
+    "scale": 0.98,
+    "mtextInheritFont": true
+  },
+  "loader": {
+    "load": [
+      "input/asciimath",
+      "[tex]/extpfeil",
+      "[tex]/amscd",
+      "[tex]/color",
+      "[tex]/newcommand",
+      "[pretext]/mathjaxknowl3.js"
+    ],
+    "paths": {
+      "pretext": "https://pretextbook.org/js/lib"
+    }
+  },
+  "startup": {
+    pageReady() {
+      return MathJax.startup.defaultPageReady().then(function () {
+      console.log("in ready function");
+      rsMathReady();
+      }
+    )}
+  }
+};
+</script><script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.3.9/lunr.min.js" integrity="sha512-4xUl/d6D6THrAnXAwGajXkoWaeMNwEKK4iNfq5DotEbLPAfk6FSxSP3ydNxqDgCw1c/0Z1Jg6L8h2j+++9BZmg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script><script src="lunr-pretext-search-index.js" async=""></script><script src="https://pretextbook.org/js/0.3/pretext_search.js"></script><link href="https://pretextbook.org/css/0.7/pretext_search.css" rel="stylesheet" type="text/css">
+<script>js_version = 0.3</script><script src="https://pretextbook.org/js/lib/jquery.min.js"></script><script src="https://pretextbook.org/js/lib/jquery.sticky.js"></script><script src="https://pretextbook.org/js/lib/jquery.espy.min.js"></script><script src="https://pretextbook.org/js/0.3/pretext.js"></script><script>miniversion=0.1</script><script src="https://pretextbook.org/js/0.3/pretext_add_on.js?x=1"></script><script src="https://pretextbook.org/js/0.3/user_preferences.js"></script><script src="https://pretextbook.org/js/lib/knowl.js"></script><!--knowl.js code controls Sage Cells within knowls--><script>sagecellEvalName='Evaluate (Sage)';
+</script><link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+<link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;700&amp;family=Noto+Serif:ital,wght@0,400;0,700;1,400;1,700&amp;family=Tinos:ital,wght@0,400;0,700;1,400;1,700&amp;display=swap" rel="stylesheet">
+<link href="https://fonts.cdnfonts.com/css/dejavu-serif" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Serif:opsz,wdth,wght@8..144,50..150,100..900&amp;display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wdth,wght@75..100,300..800&amp;display=swap" rel="stylesheet">
+<link href="https://pretextbook.org/css/0.7/pretext.css" rel="stylesheet" type="text/css">
+<link href="https://pretextbook.org/css/0.7/pretext_add_on.css" rel="stylesheet" type="text/css">
+<link href="https://pretextbook.org/css/0.7/shell_default.css" rel="stylesheet" type="text/css">
+<link href="https://pretextbook.org/css/0.7/banner_default.css" rel="stylesheet" type="text/css">
+<link href="https://pretextbook.org/css/0.7/navbar_default.css" rel="stylesheet" type="text/css">
+<link href="https://pretextbook.org/css/0.7/toc_default.css" rel="stylesheet" type="text/css">
+<link href="https://pretextbook.org/css/0.7/knowls_default.css" rel="stylesheet" type="text/css">
+<link href="https://pretextbook.org/css/0.7/style_default.css" rel="stylesheet" type="text/css">
+<link href="https://pretextbook.org/css/0.7/colors_blue_red.css" rel="stylesheet" type="text/css">
+<link href="https://pretextbook.org/css/0.7/setcolors.css" rel="stylesheet" type="text/css">
+</head>
+<body class="pretext book ignore-math">
+<a class="assistive" href="#ptx-content">Skip to main content</a><header id="ptx-masthead" class="ptx-masthead"><div class="ptx-banner">
+<a id="logo-link" class="logo-link" href=""></a><div class="title-container">
+<h1 class="heading"><a href="math-success.html"><span class="title">The Mathematical Success Guide</span></a></h1>
+<p class="byline">Oscar Levin, Editor, Sarah Sparks, Editor</p>
+</div>
+<div id="searchresultsplaceholder" class="searchresultsplaceholder" style="display: none">
+<button id="closesearchresults" class="closesearchresults" onclick="document.getElementById('searchresultsplaceholder').style.display = 'none'; return false;">x</button><h2>Search Results: <span id="searchterms" class="searchterms"></span>
+</h2>
+<div id="searchempty" class="searchempty"><span>No results.</span></div>
+<ol id="searchresults" class="searchresults"></ol>
+</div>
+</div></header><nav id="ptx-navbar" class="ptx-navbar navbar"><button class="toc-toggle button" aria-label="Show or hide table of contents"><span class="icon">☰</span><span class="name">Contents</span></button><button id="user-preferences-button" class="user-preferences-button button" title="Modify user preferences"><span id="avatarbutton" class="avatarbutton name">You!</span><div id="preferences_menu_holder" class="preferences_menu_holder hidden"><ol id="preferences_menu" class="preferences_menu" style="font-family: 'Roboto Serif', serif;">
+<li data-env="avatar" tabindex="-1">Choose avatar<div class="wrap_to_submenu"><span class="to_submenu">▻</span></div>
+<ol class="hidden avatar">
+<li data-val="You!" tabindex="-1">
+<span id="theYou!" class="avatarcheck">✔️</span>You!</li>
+<li data-val="😺" tabindex="-1">
+<span id="the😺" class="avatarcheck"></span>😺</li>
+<li data-val="👤" tabindex="-1">
+<span id="the👤" class="avatarcheck"></span>👤</li>
+<li data-val="👽" tabindex="-1">
+<span id="the👽" class="avatarcheck"></span>👽</li>
+<li data-val="🐶" tabindex="-1">
+<span id="the🐶" class="avatarcheck"></span>🐶</li>
+<li data-val="🐼" tabindex="-1">
+<span id="the🐼" class="avatarcheck"></span>🐼</li>
+<li data-val="🌈" tabindex="-1">
+<span id="the🌈" class="avatarcheck"></span>🌈</li>
+</ol>
+</li>
+<li data-env="fontfamily" tabindex="-1">Font family<div class="wrap_to_submenu"><span class="to_submenu">▻</span></div>
+<ol class="hidden fontfamily">
+<li data-val="face" data-change="OS" tabindex="-1" style="font-family: 'Open Sans'">
+<span id="theOS" class="ffcheck">✔️</span><span class="name">Open Sans</span><span class="sample">AaBbCc 123 PreTeXt</span>
+</li>
+<li data-val="face" data-change="RS" tabindex="-1" style="font-family: 'Roboto Serif'">
+<span id="theRS" class="ffcheck"></span><span class="name">Roboto Serif</span><span class="sample">AaBbCc 123 PreTeXt</span>
+</li>
+</ol>
+</li>
+<li data-env="font" tabindex="-1">Adjust font<div class="wrap_to_submenu"><span class="to_submenu">▻</span></div>
+<ol class="hidden fonts">
+<li>Size</li>
+<li><span id="thesize">12</span></li>
+<li data-val="size" data-change="-1" tabindex="-1" style="font-size: 80%">Smaller</li>
+<li data-val="size" data-change="1" tabindex="-1" style="font-size: 110%">Larger</li>
+<li>Width</li>
+<li><span id="thewdth">100</span></li>
+<li data-val="wdth" data-change="-5" tabindex="-1" style="font-variation-settings: 'wdth' 60">narrower</li>
+<li data-val="wdth" data-change="5" tabindex="-1" style="font-variation-settings: 'wdth' 150">wider</li>
+<li>Weight</li>
+<li><span id="thewght">400</span></li>
+<li data-val="wght" data-change="-50" tabindex="-1" style="font-weight: 200">thinner</li>
+<li data-val="wght" data-change="50" tabindex="-1" style="font-weight: 700">heavier</li>
+<li>Letter spacing</li>
+<li>
+<span id="thelspace">0</span><span class="byunits">/200</span>
+</li>
+<li data-val="lspace" data-change="-1" tabindex="-1">closer</li>
+<li data-val="lspace" data-change="1" tabindex="-1">f a r t h e r</li>
+<li>Word spacing</li>
+<li>
+<span id="thewspace">0</span><span class="byunits">/50</span>
+</li>
+<li data-val="wspace" data-change="-1" tabindex="-1">smaller gap </li>
+<li data-val="wspace" data-change="1" tabindex="-1">larger gap</li>
+<li>Line Spacing</li>
+<li>
+<span id="theheight">135</span><span class="byunits">/100</span>
+</li>
+<li data-val="height" data-change="-5" tabindex="-1" style="line-height: 1">closer<br>together</li>
+<li data-val="height" data-change="5" tabindex="-1" style="line-height: 1.75">further<br>apart</li>
+</ol>
+</li>
+<li data-env="atmosphere" tabindex="-1">Light/dark mode<div class="wrap_to_submenu"><span class="to_submenu">▻</span></div>
+<ol class="hidden atmosphere">
+<li data-val="default" tabindex="-1">
+<span id="thedefault" class="atmospherecheck">✔️</span>default</li>
+<li data-val="pastel" tabindex="-1">
+<span id="thepastel" class="atmospherecheck"></span>pastel</li>
+<li data-val="darktwilight" tabindex="-1">
+<span id="thedarktwilight" class="atmospherecheck"></span>twilight</li>
+<li data-val="dark" tabindex="-1">
+<span id="thedark" class="atmospherecheck"></span>dark</li>
+<li data-val="darkmidnight" tabindex="-1">
+<span id="thedarkmidnight" class="atmospherecheck"></span>midnight</li>
+</ol>
+</li>
+<li data-env="ruler" tabindex="-1">Reading ruler<div class="wrap_to_submenu"><span class="to_submenu">▻</span></div>
+<ol class="hidden ruler">
+<li data-val="none" tabindex="-1">
+<span id="thenone" class="rulercheck">✔️</span>none</li>
+<li data-val="underline" tabindex="-1">
+<span id="theunderline" class="rulercheck"></span>underline</li>
+<li data-val="lunderline" tabindex="-1">
+<span id="thelunderline" class="rulercheck"></span>L-underline</li>
+<li data-val="greybar" tabindex="-1">
+<span id="thegreybar" class="rulercheck"></span>grey bar</li>
+<li data-val="lightbox" tabindex="-1">
+<span id="thelightbox" class="rulercheck"></span>light box</li>
+<li data-val="sunrise" tabindex="-1">
+<span id="thesunrise" class="rulercheck"></span>sunrise</li>
+<li data-val="sunriseunderline" tabindex="-1">
+<span id="thesunriseunderline" class="rulercheck"></span>sunrise underline</li>
+<li class="moveQ">Motion by:</li>
+<li data-val="mouse" tabindex="-1">
+<span id="themouse" class="motioncheck">✔️</span>follow the mouse</li>
+<li data-val="arrow" tabindex="-1">
+<span id="thearrow" class="motioncheck"></span>up/down arrows - not yet</li>
+<li data-val="eye" tabindex="-1">
+<span id="theeye" class="motioncheck"></span>eye tracking - not yet</li>
+</ol>
+</li>
+</ol></div></button><span class="treebuttons"><a class="previous-button button" href="sec-syllabus.html" title="Previous"><span class="icon">&lt;</span><span class="name">Prev</span></a><a class="up-button button" href="ch-read-note-class.html" title="Up"><span class="icon">^</span><span class="name">Up</span></a><a class="next-button button" href="sec-class-engage.html" title="Next"><span class="name">Next</span><span class="icon">&gt;</span></a></span><div class="searchbox"><div class="searchwidget">
+<input id="ptxsearch" class="ptxsearch" type="text" name="terms" placeholder="Search" onchange="doSearch()"><button id="searchbutton" class="searchbutton" type="button" onclick="doSearch()">🔍</button>
+</div></div></nav><div id="latex-macros" class="hidden-content process-math" style="display:none"><span class="process-math">\(\newcommand{\R}{\mathbb R}
+\newcommand{\lt}{&lt;}
+\newcommand{\gt}{&gt;}
+\newcommand{\amp}{&amp;}
+\definecolor{fillinmathshade}{gray}{0.9}
+\newcommand{\fillinmath}[1]{\mathchoice{\colorbox{fillinmathshade}{$\displaystyle     \phantom{\,#1\,}$}}{\colorbox{fillinmathshade}{$\textstyle        \phantom{\,#1\,}$}}{\colorbox{fillinmathshade}{$\scriptstyle      \phantom{\,#1\,}$}}{\colorbox{fillinmathshade}{$\scriptscriptstyle\phantom{\,#1\,}$}}}
+\)</span></div>
+<div class="ptx-page">
+<div id="ptx-sidebar" class="ptx-sidebar"><nav id="ptx-toc" class="ptx-toc depth2"><ul class="structural">
+<li><div class="toc-item"><a href="frontmatter.html" class="internal"><span class="title">Front Matter</span></a></div></li>
+<li>
+<div class="toc-item"><a href="ch-intro-to-college.html" class="internal"><span class="codenumber">1</span> <span class="title">Introduction to College</span></a></div>
+<ul class="structural">
+<li><div class="toc-item"><a href="sec-hidden-curriculum.html" class="internal"><span class="codenumber">1.1</span> <span class="title">What you are expected to know</span></a></div></li>
+<li><div class="toc-item"><a href="sec-learning.html" class="internal"><span class="codenumber">1.2</span> <span class="title">What is Learning?</span></a></div></li>
+<li><div class="toc-item"><a href="sec-growth-mind.html" class="internal"><span class="codenumber">1.3</span> <span class="title">Developing a Growth Mindset</span></a></div></li>
+<li><div class="toc-item"><a href="sec-college-jobs.html" class="internal"><span class="codenumber">1.4</span> <span class="title">Finding and Maintaining Jobs While in College</span></a></div></li>
+</ul>
+</li>
+<li>
+<div class="toc-item"><a href="ch-read-note-class.html" class="internal"><span class="codenumber">2</span> <span class="title">Reading and Taking Notes</span></a></div>
+<ul class="structural">
+<li><div class="toc-item"><a href="sec-reading.html" class="internal"><span class="codenumber">2.1</span> <span class="title">Reading Mathematics</span></a></div></li>
+<li><div class="toc-item"><a href="sec-syllabus.html" class="internal"><span class="codenumber">2.2</span> <span class="title">Utilizing a Course Syllabus</span></a></div></li>
+<li class="active"><div class="toc-item"><a href="sec-notetaking.html" class="internal"><span class="codenumber">2.3</span> <span class="title">Notetaking</span></a></div></li>
+<li><div class="toc-item"><a href="sec-class-engage.html" class="internal"><span class="codenumber">2.4</span> <span class="title">Classroom Engagement</span></a></div></li>
+<li><div class="toc-item"><a href="sec-comm-instructors.html" class="internal"><span class="codenumber">2.5</span> <span class="title">Communicating with your Instructors</span></a></div></li>
+</ul>
+</li>
+<li>
+<div class="toc-item"><a href="ch-study-hw-test.html" class="internal"><span class="codenumber">3</span> <span class="title">Studying and Test-Taking Strategies</span></a></div>
+<ul class="structural">
+<li><div class="toc-item"><a href="sec-explain-work.html" class="internal"><span class="codenumber">3.1</span> <span class="title">Explaining Your Work</span></a></div></li>
+<li><div class="toc-item"><a href="sec-test-take.html" class="internal"><span class="codenumber">3.2</span> <span class="title">Test Taking Strategies</span></a></div></li>
+<li><div class="toc-item"><a href="sec-student-hours.html" class="internal"><span class="codenumber">3.3</span> <span class="title">Utilizing Student Hours</span></a></div></li>
+<li><div class="toc-item"><a href="sec-time-manage.html" class="internal"><span class="codenumber">3.4</span> <span class="title">Time Management</span></a></div></li>
+<li><div class="toc-item"><a href="sec-tutoring.html" class="internal"><span class="codenumber">3.5</span> <span class="title">Tutoring Services</span></a></div></li>
+<li><div class="toc-item"><a href="sec-read-feedback.html" class="internal"><span class="codenumber">3.6</span> <span class="title">Reading Feedback from Your Instructor</span></a></div></li>
+</ul>
+</li>
+<li>
+<div class="toc-item"><a href="ch-doing-math.html" class="internal"><span class="codenumber">4</span> <span class="title">Doing Mathematics</span></a></div>
+<ul class="structural">
+<li><div class="toc-item"><a href="sec-what-is-math.html" class="internal"><span class="codenumber">4.1</span> <span class="title">What is Mathematics?</span></a></div></li>
+<li><div class="toc-item"><a href="sec-trans-to-high-level.html" class="internal"><span class="codenumber">4.2</span> <span class="title">Transitioning to Higher Level Mathematics</span></a></div></li>
+<li><div class="toc-item"><a href="sec-prob-solve.html" class="internal"><span class="codenumber">4.3</span> <span class="title">Problem Solving Skills</span></a></div></li>
+<li><div class="toc-item"><a href="sec-math-in-community.html" class="internal"><span class="codenumber">4.4</span> <span class="title">Doing Mathematics in Community</span></a></div></li>
+</ul>
+</li>
+<li>
+<div class="toc-item"><a href="ch-health.html" class="internal"><span class="codenumber">5</span> <span class="title">Taking Care of Mental and Physical Health</span></a></div>
+<ul class="structural">
+<li><div class="toc-item"><a href="sec-deal-with-fail.html" class="internal"><span class="codenumber">5.1</span> <span class="title">Dealing with Failure</span></a></div></li>
+<li><div class="toc-item"><a href="sec-perfectionism.html" class="internal"><span class="codenumber">5.2</span> <span class="title">Perfectionism in Mathematics</span></a></div></li>
+<li><div class="toc-item"><a href="sec-imp-syndrome.html" class="internal"><span class="codenumber">5.3</span> <span class="title">Imposter Syndrome</span></a></div></li>
+<li><div class="toc-item"><a href="sec-gen-health.html" class="internal"><span class="codenumber">5.4</span> <span class="title">General Health Maintenance</span></a></div></li>
+</ul>
+</li>
+<li>
+<div class="toc-item"><a href="ch-nav-academic-plan.html" class="internal"><span class="codenumber">6</span> <span class="title">Navigating Academic Planning</span></a></div>
+<ul class="structural">
+<li><div class="toc-item"><a href="sec-degree-planning.html" class="internal"><span class="codenumber">6.1</span> <span class="title">Planning for Your Degree</span></a></div></li>
+<li><div class="toc-item"><a href="sec-course-scheduling.html" class="internal"><span class="codenumber">6.2</span> <span class="title">Course Scheduling</span></a></div></li>
+<li><div class="toc-item"><a href="sec-self-advocacy.html" class="internal"><span class="codenumber">6.3</span> <span class="title">Advocating for Yourself</span></a></div></li>
+</ul>
+</li>
+<li>
+<div class="toc-item"><a href="ch-math-ethics-div.html" class="internal"><span class="codenumber">7</span> <span class="title">Ethics and Diversity in Mathematics</span></a></div>
+<ul class="structural">
+<li><div class="toc-item"><a href="sec-who-math-is-for.html" class="internal"><span class="codenumber">7.1</span> <span class="title">Who is Mathematics for?</span></a></div></li>
+<li><div class="toc-item"><a href="sec-what-math-is-used-for.html" class="internal"><span class="codenumber">7.2</span> <span class="title">What is Mathematics Used for?</span></a></div></li>
+<li><div class="toc-item"><a href="sec-hist-div-math.html" class="internal"><span class="codenumber">7.3</span> <span class="title">History of Mathematics and Diversity</span></a></div></li>
+<li><div class="toc-item"><a href="sec-academic-integrity.html" class="internal"><span class="codenumber">7.4</span> <span class="title">Academic Integrity in Mathematics</span></a></div></li>
+<li><div class="toc-item"><a href="sec-stat-data-misuse.html" class="internal"><span class="codenumber">7.5</span> <span class="title">Statistics - How Data is Used and Misused</span></a></div></li>
+<li><div class="toc-item"><a href="sec-internal-bias.html" class="internal"><span class="codenumber">7.6</span> <span class="title">Internal Biases</span></a></div></li>
+</ul>
+</li>
+<li>
+<div class="toc-item"><a href="ch-resources.html" class="internal"><span class="codenumber">8</span> <span class="title">Resources</span></a></div>
+<ul class="structural">
+<li><div class="toc-item"><a href="sec-latex.html" class="internal"><span class="codenumber">8.1</span> <span class="title">Latex - Typing Mathematics</span></a></div></li>
+<li><div class="toc-item"><a href="sec-python.html" class="internal"><span class="codenumber">8.2</span> <span class="title">Python - Coding</span></a></div></li>
+<li><div class="toc-item"><a href="sec-gen-online-math-resource.html" class="internal"><span class="codenumber">8.3</span> <span class="title">Online Math Resources</span></a></div></li>
+<li><div class="toc-item"><a href="sec-calculators.html" class="internal"><span class="codenumber">8.4</span> <span class="title">Calculators</span></a></div></li>
+</ul>
+</li>
+<li>
+<div class="toc-item"><a href="chapter-title.html" class="internal"><span class="codenumber">9</span> <span class="title">Chapter title</span></a></div>
+<ul class="structural"><li><div class="toc-item"><a href="section-title.html" class="internal"><span class="codenumber">9.1</span> <span class="title">Section title</span></a></div></li></ul>
+</li>
+<li>
+<div class="toc-item"><a href="ch-technical-tools.html" class="internal"><span class="codenumber">10</span> <span class="title">Technical Tools</span></a></div>
+<ul class="structural"><li><div class="toc-item"><a href="using-latex.html" class="internal"><span class="codenumber">10.1</span> <span class="title">Using LaTeX</span></a></div></li></ul>
+</li>
+<li><div class="toc-item"><a href="backmatter.html" class="internal"><span class="title">Backmatter</span></a></div></li>
+</ul></nav></div>
+<main class="ptx-main"><div id="ptx-content" class="ptx-content">
+<section class="section" id="sec-notetaking"><h2 class="heading hide-type">
+<span class="type">Section</span><span class="space"> </span><span class="codenumber">2.3</span><span class="space"> </span><span class="title">Notetaking</span>
+</h2>
+<section class="introduction" id="introduction-6"><div class="para" id="p-196"><em class="emphasis">Questions to Consider:</em></div> <article class="objectives goal-like" id="objectives-4"><h3 class="heading"><span class="type">Objectives</span></h3>
+<ul class="disc">
+<li id="li-46"><div class="para" id="p-197">How can you prepare to take notes to maximize the effectiveness of the experience?</div></li>
+<li id="li-47"><div class="para" id="p-198">What are some specific strategies you can employ for better note-taking?</div></li>
+<li id="li-48"><div class="para" id="p-199">Why is annotating your notes after the note-taking session a critical step to follow?</div></li>
+</ul></article> <div class="para" id="p-200">Beyond providing a record of the information you are reading or hearing, notes help you organize the ideas and help you make meaning out of something about which you may not be familiar, so note-taking and reading are two compatible skill sets. Taking notes also helps you stay focused on the question at hand. Taking notes during presentations or class lectures may allow you to follow the speaker’s main points and condense the material into a more readily usable format. Strong notes build on your prior knowledge of a subject, help you discuss trends or patterns present in the information, and direct you toward areas needing further research or reading.</div>       <div class="para" id="p-201">It is not a good habit to transcribe every single word a speaker utters—even if you have an amazing ability to do that. Most of us don’t have that court-reporter-esque skill level anyway, and if we try, we would end up missing valuable information. Learn to listen for main ideas and distinguish between these main ideas and details that typically support the ideas. Include examples that explain the main ideas, but do so using understandable abbreviations.</div> <div class="para" id="p-202">Think of all notes as potential study guides. In fact, if you only take notes without actively working on them after the initial note-taking session, the likelihood of the notes helping you is slim. Research on this topic concludes that without active engagement after taking notes, most students forget 60–75 percent of material over which they took the notes—within two days! That sort of defeats the purpose, don’t you think? This information about memory loss was first brought to light by 19th-century German psychologist Hermann Ebbinghaus. Fortunately, you do have the power to thwart what is sometimes called the Ebbinghaus Forgetting Curve by reinforcing what you learned through review at intervals shortly after you take in the material and frequently thereafter.</div> <div class="para" id="p-203">If you are a musician, you’ll understand this phenomenon well. When you first attempt a difficult piece of music, you may not remember the chords and notes well at all, but after frequent practice and review, you generate a certain muscle memory and cognitive recall that allows you to play the music more easily.</div> <div class="para" id="p-204">Note-taking may not be the most glamorous aspect of your higher-education journey, but it is a study practice you will carry throughout college and into your professional life. Setting yourself up for successful note-taking is almost as important as the actual taking of notes, and what you do after your note-taking session is equally significant. Well-written notes help you organize your thoughts, enhance your memory, and participate in class discussion, and they prepare you to respond successfully on exams. With all that riding on your notes, it would behoove you to learn how to take notes properly and continue to improve your note-taking skills.</div> </section><section class="paragraphs" id="paragraphs-11"><h3 class="heading"><span class="title">Preparing to Take Notes.</span></h3> <div class="para" id="p-205">Preparing to take notes means more than just getting out your laptop or making sure you bring pen and paper to class. You’ll do a much better job with your notes if you understand why we take notes, have a strong grasp on your preferred note-taking system, determine your specific priorities depending on your situation, and engage in some version of efficient shorthand.</div> <div class="para" id="p-206">Like handwriting and fingerprints, we all have unique and fiercely independent note-taking habits. These understandably and reasonably vary from one situation to the next, but you can only improve your skills by learning more about ways to take effective notes and trying different methods to find a good fit.</div> <div class="para" id="p-207">The very best notes are the ones you take in an organized manner that encourages frequent review and use as you progress through a topic or course of study. For this reason, you need to develop a way to organize all your notes for each class so they remain together and organized. As old-fashioned as it sounds, a clunky three-ring binder is an excellent organizational container for class notes. You can easily add to previous notes, insert handouts you may receive in class, and maintain a running collection of materials for each separate course. If the idea of carrying around a heavy binder has you rolling your eyes, then transfer that same structure into your computer files. If you don’t organize your many documents into some semblance of order on your computer, you will waste significant time searching for improperly named or saved files.</div> <div class="para" id="p-208">You may be interested in relatively new research on what is the more effective note-taking strategy: handwriting versus typing directly into a computer. While individuals have strong personal opinions on this subject, most researchers agree that the format of student notes is less important than what students do with the notes they take afterwards. Both handwriting notes and using a computer for note-taking have pros and cons.</div>       <section class="paragraphs" id="paragraphs-12"><h4 class="heading"><span class="title">Managing Note-Taking Systems.</span></h4> <div class="para" id="p-209">Whichever of the many note-taking systems you choose (and new ones seem to come out almost daily), the very best one is the one that you will use consistently. The skill and art of note-taking is not automatic for anyone; it takes a great deal of practice, patience, and continuous attention to detail. Add to that the fact that you may need to master multiple note-taking techniques for different classes, and you have some work to do. Unless you are specifically directed by your instructor, you are free to combine the best parts of different systems if you are most comfortable with that hybrid system.</div> <div class="para" id="p-210">Just to keep yourself organized, all your notes should start off with an identifier, including at the very least the date, the course name, the topic of the lecture/presentation, and any other information you think will help you when you return to use the notes for further study, test preparation, or assignment completion. Additional, optional information may be the number of note-taking sessions about this topic or reminders to cross-reference class handouts, textbook pages, or other course materials. It’s also always a good idea to leave some blank space in your notes so you can insert additions and questions you may have as you review the material later.</div> </section></section><section class="paragraphs" id="paragraphs-13"><h3 class="heading"><span class="title">Note-Taking Strategies.</span></h3> <div class="para" id="p-211">You may have a standard way you take all your notes for all your classes. When you were in high school, this one-size-fits-all approach may have worked. Now that you’re in college, reading and studying more advanced topics, your general method may still work some of the time, but you should have some different strategies in place if you find that your method isn’t working as well with college content. You probably will need to adopt different note-taking strategies for different subjects. The strategies in this section represent various ways to take notes in such a way that you are able to study after the initial note-taking session.</div> <section class="paragraphs" id="paragraphs-14"><h4 class="heading"><span class="title">Cornell Method.</span></h4> <div class="para" id="p-212">One of the most recognizable note-taking systems is called the <em class="emphasis">Cornell Method</em>, a relatively simple way to take effective notes devised by Cornell University education professor Dr. Walter Pauk in the 1940s. In this system, you take a standard piece of note paper and divide it into three sections by drawing a horizontal line across your paper about one to two inches from the bottom of the page (the summary area) and then drawing a vertical line to separate the rest of the page above this bottom area, making the left side about two inches (the recall column) and leaving the biggest area to the right of your vertical line (the notes column). You may want to make one page and then copy as many pages as you think you’ll need for any particular class, but one advantage of this system is that you can generate the sections quickly. Because you have divided up your page, you may end up using more paper than you would if you were writing on the entire page, but the point is not to keep your notes to as few pages as possible. The Cornell Method provides you with a well-organized set of notes that will help you study and review your notes as you move through the course. If you are taking notes on your computer, you can still use the Cornell Method in Word or Excel on your own or by using a template someone else created.</div>       <div class="para" id="p-213">Now that you have the note-taking format generated, the beauty of the Cornell Method is its organized simplicity. Just write on one side of the page (the right-hand notes column)—this will help later when you are reviewing and revising your notes. During your note-taking session, use the notes column to record information over the main points and concepts of the lecture; try to put the ideas into your own words, which will help you to not transcribe the speaker’s words verbatim. Skip lines between each idea in this column.</div> <div class="para" id="p-214">Practice the shortcut abbreviations covered in the next section and avoid writing in complete sentences. Don’t make your notes too cryptic, but you can use bullet points or phrases equally well to convey meaning—we do it all the time in conversation. If you know you will need to expand the notes you are taking in class but don’t have time, you can put reminders directly in the notes by adding and underlining the word <em class="emphasis">expand</em> by the ideas you need to develop more fully.</div> <div class="para" id="p-215">As soon as possible after your note-taking session, preferably within eight hours but no more than twenty-four hours, read over your notes column and fill in any details you missed in class, including the places where you indicated you wanted to expand your notes. Then in the recall column, write any key ideas from the corresponding notes column—you can’t stuff this smaller recall column as if you’re explaining or defining key ideas. Just add the one- or two-word main ideas; these words in the recall column serve as cues to help you remember the detailed information you recorded in the notes column.</div> <div class="para" id="p-216">Once you are satisfied with your notes and recall columns, summarize this page of notes in two or three sentences using the summary area at the bottom of the sheet. This is an excellent time to get with another classmate or a group of students who all heard the same lecture to make sure you all understood the key points. Now, before you move onto something else, cover the large notes column, and quiz yourself over the key ideas you recorded in the recall column. Repeat this step often as you go along, not just immediately before an exam, and you will help your memory make the connections between your notes, your textbook reading, your in-class work, and assignments that you need to succeed on any quizzes and exams.</div>       <div class="para" id="p-217">The main advantage of the Cornell Method is that you are setting yourself up to have organized, workable notes. The neat format helps you move into study-mode without needing to re-copy less organized notes or making sense of a large mass of information you aren’t sure how to process because you can’t remember key ideas or what you meant. If you write notes in your classes without any sort of system and later come across something like “Napoleon—short” in the middle of a glob of notes, what can you do at this point? Is that important? Did it connect with something relevant from the lecture? How would you possibly know? You are your best advocate for setting yourself up for success in college.</div></section> <section class="paragraphs" id="paragraphs-15"><h4 class="heading"><span class="title">Outlining.</span></h4> <div class="para" id="p-218">Other note organizing systems may help you in different disciplines. You can take notes in a formal outline if you prefer, using Roman numerals for each new topic, moving down a line to capital letters indented a few spaces to the right for concepts related to the previous topic, then adding details to support the concepts indented a few more spaces over and denoted by an Arabic numeral. You can continue to add to a formal outline by following these rules.</div> <div class="para" id="p-219">You don’t absolutely have to use the formal numerals and letter, but you have to then be careful to indent so you can tell when you move from a higher level topic to the related concepts and then to the supporting information. The main benefit of an outline is how organized it is. You have to be on your toes when you are taking notes in class to ensure you keep up the organizational format of the outline, which can be tricky if the lecture or presentation is moving quickly or covering many diverse topics.</div> <div class="para" id="p-220">The following formal outline example shows the basic pattern:</div> <div class="para logical" id="p-221"><ol class="decimal">
+<li id="li-49"><div class="para" id="p-222">Dogs <em class="emphasis">(main topic–usually general)</em> <div class="para logical" id="p-223"><ol class="lower-alpha">
+<li id="li-50"><div class="para" id="p-224">German Shepherd <em class="emphasis">(concept related to main topic)</em> <div class="para logical" id="p-225"><ol class="lower-roman">
+<li id="li-51"><div class="para" id="p-226">Protection <em class="emphasis">(supporting info about the concept)</em>
+</div></li>
+<li id="li-52"><div class="para" id="p-227">Assertive</div></li>
+<li id="li-53"><div class="para" id="p-228">Loyal</div></li>
+</ol></div>
+</div></li>
+<li id="li-54"><div class="para" id="p-229">Weimaraner <em class="emphasis">(concept related to main topic)</em> <div class="para logical" id="p-230"><ol class="lower-roman">
+<li id="li-55"><div class="para" id="p-231">Family-friendly <em class="emphasis">(supporting info about the concept)</em>
+</div></li>
+<li id="li-56"><div class="para" id="p-232">Active</div></li>
+<li id="li-57"><div class="para" id="p-233">Healthy</div></li>
+</ol></div>
+</div></li>
+</ol></div>
+</div></li>
+<li id="li-58"><div class="para" id="p-234">Cats <em class="emphasis">(main topic)</em> <div class="para" id="p-235">Siamese</div>
+</div></li>
+</ol></div> <div class="para" id="p-236">You would just continue on with this sort of numbering and indenting format to show the connections between main ideas, concepts, and supporting details. Whatever details you do not capture in your note-taking session, you can add after the lecture as you review your outline.</div></section> <section class="paragraphs" id="paragraphs-16"><h4 class="heading"><span class="title">Chart or Table.</span></h4> <div class="para" id="p-237">Similar to creating an outline, you can develop a chart to compare and contrast main ideas in a note-taking session. Divide your paper into four or five columns with headings that include either the main topics covered in the lecture or categories such as How?, What?, When used?, Advantages/Pros, Disadvantages/Cons, or other divisions of the information. You write your notes into the appropriate columns as that information comes to light in the presentation. The table below provides an example of a table that can help you organize topics in a science course.</div> <figure class="table table-like" id="m00016-table-00003"><figcaption><span class="type">Table</span><span class="space"> </span><span class="codenumber">2.3.1<span class="period">.</span></span><span class="space"> </span></figcaption><div class="tabular-box natural-width"><table class="tabular">
+<tr>
+<td class="l m b3 r0 l0 t0 lines"> </td>
+<td class="l m b3 r0 l0 t0 lines">Structure</td>
+<td class="l m b3 r0 l0 t0 lines">Types</td>
+<td class="l m b3 r0 l0 t0 lines">Functions in Body</td>
+<td class="l m b3 r0 l0 t0 lines">Additional Notes</td>
+</tr>
+<tr>
+<td class="l m b0 r0 l0 t0 lines">Carbohydrates</td>
+<td class="l m b0 r0 l0 t0 lines"> </td>
+<td class="l m b0 r0 l0 t0 lines"> </td>
+<td class="l m b0 r0 l0 t0 lines"> </td>
+<td class="l m b0 r0 l0 t0 lines"> </td>
+</tr>
+<tr>
+<td class="l m b0 r0 l0 t0 lines">Lipids</td>
+<td class="l m b0 r0 l0 t0 lines"> </td>
+<td class="l m b0 r0 l0 t0 lines"> </td>
+<td class="l m b0 r0 l0 t0 lines"> </td>
+<td class="l m b0 r0 l0 t0 lines"> </td>
+</tr>
+<tr>
+<td class="l m b0 r0 l0 t0 lines">Proteins</td>
+<td class="l m b0 r0 l0 t0 lines"> </td>
+<td class="l m b0 r0 l0 t0 lines"> </td>
+<td class="l m b0 r0 l0 t0 lines"> </td>
+<td class="l m b0 r0 l0 t0 lines"> </td>
+</tr>
+<tr>
+<td class="l m b0 r0 l0 t0 lines">Nucleic Acid</td>
+<td class="l m b0 r0 l0 t0 lines"> </td>
+<td class="l m b0 r0 l0 t0 lines"> </td>
+<td class="l m b0 r0 l0 t0 lines"> </td>
+<td class="l m b0 r0 l0 t0 lines"> </td>
+</tr>
+</table></div></figure> <div class="para" id="p-238">This format helps you pull out the salient ideas and establishes an organized set of notes to study later. (If you haven’t noticed that this <em class="emphasis">reviewing later</em> idea is a constant across all note-taking systems, you should take note of that.) Notes by themselves that you never reference again are little more than scribblings. That would be a bit like compiling an extensive grocery list so you stay on budget when you shop, work all week on it, and then just throw it away before you get to the store. You may be able to recall a few items, but likely won’t be as efficient as you could be if you had the notes to reference. Just as you cannot read all the many books, articles, and documents you need to peruse for your college classes, you cannot remember the most important ideas of all the notes you will take as part of your courses, so you must review.</div></section> <section class="paragraphs" id="paragraphs-17"><h4 class="heading"><span class="title">Concept Mapping and Visual Note-Taking.</span></h4> <div class="para" id="p-239">One final note-taking method that appeals to learners who prefer a visual representation of notes is called <em class="emphasis">mapping</em> or sometimes <em class="emphasis">mind mapping</em> or <em class="emphasis">concept mapping,</em> although each of these names can have slightly different uses. Variations of this method abound, so you may want to look for more versions online, but the basic principles are that you are making connections between main ideas through a graphic depiction; some can get rather elaborate with colors and shapes, but a simple version may be more useful at least to begin. Main ideas can be circled or placed in a box with supporting concepts radiating off these ideas shown with a connecting line and possibly details of the support further radiating off the concepts. You can present your main ideas vertically or horizontally, but turning your paper long-ways, or in landscape mode, may prove helpful as you add more main ideas.</div> <figure class="figure figure-like" id="fig-00006"><div class="image-box" style="width: 100%; margin-left: 0%; margin-right: 0%;"><img src="external/../m00016/../../media/CS_Figure_03_04_012.jpg" class="contained" alt="A concept map shows a glob of student’s notes using connectors, bubbles, lists, symbols, and different colors."></div>
+<figcaption><span class="type">Figure</span><span class="space"> </span><span class="codenumber">2.3.2<span class="period">.</span></span><span class="space"> </span>Concept mapping, sometimes referred to as mind mapping, can be an effective and very personalized approach to capturing information. (Credit: ArtistIvanChew / Flickr / Attribution 2.0 Generic (CC-BY 2.0))</figcaption></figure> <div class="para" id="p-240">You may be interested in trying visual note-taking or adding pictures to your notes for clarity. Sometimes when you can’t come up with the exact wording to explain something or you’re trying to add information for complex ideas in your notes, sketching a rough image of the idea can help you remember. According to educator Sherrill Knezel in an article entitled “The Power of Visual Note-taking,” this strategy is effective because “When students use images and text in note-taking, it gives them two different ways to pull up the information, doubling their chances of recall.” Don’t shy away from this creative approach to note-taking just because you believe you aren’t an artist; the images don’t need to be perfect. You may want to watch <a class="external" href="https://openstax.org/l/drawinginclass" target="_blank">Rachel Smith’s TEDx Talk called “Drawing in Class”</a><a href="" data-knowl="" class="id-ref fn-knowl original" data-refid="hk-fn-4" id="fn-4"><sup> 1 </sup></a> to learn more about visual note-taking.</div> <div class="para" id="p-241">You can play with different types of note-taking suggestions and find the method(s) you like best, but once you find what works for you, stick with it. You will become more efficient with the method the more you use it, and your note-taking, review, and test prep will become, if not easier, certainly more organized, which can decrease your anxiety.</div></section> <section class="paragraphs" id="paragraphs-18"><h4 class="heading"><span class="title">Practicing Decipherable Shorthand.</span></h4> <div class="para" id="p-242">Most college students don’t take a class in shorthand, once the domain of secretaries and executive assistants, but maybe they should. That almost-lost art in the age of computers could come in very handy during intense note-taking sessions. Elaborate shorthand systems do exist, but you would be better served in your college note-taking adventures to hone a more familiar, personalized form of shorthand to help you write more in a shorter amount of time. Seemingly insignificant shortcuts can add up to ease the stress note-taking can induce—especially if you ever encounter an “I’m not going to repeat this” kind of presenter! Become familiar with these useful abbreviations:</div> <figure class="table table-like" id="m00016-table-00002"><figcaption><span class="type">Table</span><span class="space"> </span><span class="codenumber">2.3.3<span class="period">.</span></span><span class="space"> </span></figcaption><div class="tabular-box natural-width"><table class="tabular">
+<tr>
+<td class="l m b3 r0 l0 t0 lines">Shortcut symbol</td>
+<td class="l m b3 r0 l0 t0 lines">Meaning</td>
+</tr>
+<tr>
+<td class="l m b0 r0 l0 t0 lines">w/, w/o, w/in</td>
+<td class="l m b0 r0 l0 t0 lines">with, without, within</td>
+</tr>
+<tr>
+<td class="l m b0 r0 l0 t0 lines">&amp;</td>
+<td class="l m b0 r0 l0 t0 lines">and</td>
+</tr>
+<tr>
+<td class="l m b0 r0 l0 t0 lines">#</td>
+<td class="l m b0 r0 l0 t0 lines">number</td>
+</tr>
+<tr>
+<td class="l m b0 r0 l0 t0 lines">b/c</td>
+<td class="l m b0 r0 l0 t0 lines">because</td>
+</tr>
+<tr>
+<td class="l m b0 r0 l0 t0 lines">X, √</td>
+<td class="l m b0 r0 l0 t0 lines">incorrect, correct</td>
+</tr>
+<tr>
+<td class="l m b0 r0 l0 t0 lines">Diff</td>
+<td class="l m b0 r0 l0 t0 lines">different, difference</td>
+</tr>
+<tr>
+<td class="l m b0 r0 l0 t0 lines">etc.</td>
+<td class="l m b0 r0 l0 t0 lines">and so on</td>
+</tr>
+<tr>
+<td class="l m b0 r0 l0 t0 lines">ASAP</td>
+<td class="l m b0 r0 l0 t0 lines">as soon as possible</td>
+</tr>
+<tr>
+<td class="l m b0 r0 l0 t0 lines">US, UK</td>
+<td class="l m b0 r0 l0 t0 lines">United States, United Kingdom</td>
+</tr>
+<tr>
+<td class="l m b0 r0 l0 t0 lines">info</td>
+<td class="l m b0 r0 l0 t0 lines">information</td>
+</tr>
+<tr>
+<td class="l m b0 r0 l0 t0 lines">Measurements: ft, in, k, m</td>
+<td class="l m b0 r0 l0 t0 lines">foot, inch, thousand, million</td>
+</tr>
+<tr>
+<td class="l m b0 r0 l0 t0 lines">¶</td>
+<td class="l m b0 r0 l0 t0 lines">paragraph or new paragraph</td>
+</tr>
+<tr>
+<td class="l m b0 r0 l0 t0 lines">Math symbols: =, +, &gt;, &lt;, ÷</td>
+<td class="l m b0 r0 l0 t0 lines">equal, plus, greater, less, divided by</td>
+</tr>
+<tr>
+<td class="l m b0 r0 l0 t0 lines">WWI, WWII</td>
+<td class="l m b0 r0 l0 t0 lines">World Wars I and II</td>
+</tr>
+<tr>
+<td class="l m b0 r0 l0 t0 lines">impt</td>
+<td class="l m b0 r0 l0 t0 lines">important</td>
+</tr>
+<tr>
+<td class="l m b0 r0 l0 t0 lines">?, !, **</td>
+<td class="l m b0 r0 l0 t0 lines">denote something is very significant; don’t over use</td>
+</tr>
+</table></div></figure> <div class="para" id="p-243">See the table above for examples of common shorthand symbols and abbreviations. Do you have any other shortcuts or symbols that you use in your notes? Ask your parents if they remember any that you may be able to learn.</div></section></section><section class="paragraphs" id="paragraphs-19"><h3 class="heading"><span class="title">Annotating Notes After the Initial Note-Taking Session.</span></h3> <div class="para" id="p-244">Annotating notes after the initial note-taking session may be one of the most valuable study skills you can master. Whether you are highlighting, underlining, or adding additional notes, you are reinforcing the material in your mind and memory.</div> <div class="para" id="p-245">Admit it—who can resist highlighting markers? Gone are the days when yellow was the star of the show, and you had to be very careful not to press too firmly for fear of obliterating the words you were attempting to emphasize. Students now have a veritable rainbow of highlighting options and can color-code notes and text passages to their hearts’ content.</div> <div class="para" id="p-246">The only reason to highlight anything is to draw attention to it, so you can easily pick out that ever-so-important information later for further study or reflection. One problem many students have is not knowing when to stop. If what you need to recall from the passage is a particularly apt and succinct definition of the term important to your discipline, highlighting the entire paragraph is less effective than highlighting just the actual term. And if you don’t rein in this tendency to color long passages (possibly in multiple colors) you can end up with a whole page of highlighted text. Ironically, that is no different from a page that is not highlighted at all, so you have wasted your time. Your mantra for highlighting text should be <em class="emphasis">less is more</em>. Always read your text selection first before you start highlighting anything. You need to know what the overall message is before you start placing emphasis in the text with highlighting.</div> <div class="para" id="p-247">Another way to annotate notes after initial note-taking is underlining significant words or passages. Albeit not quite as much fun as its colorful cousin highlighting, underlining provides precision to your emphasis.</div> <div class="para" id="p-248">Some people think of annotations as only using a colored highlighter to mark certain words or phrases for emphasis. Actually, annotations can refer to anything you do with a text to enhance it for your particular use (either a printed text, handwritten notes, or other sort of document you are using to learn concepts). The annotations may include highlighting passages or vocabulary, defining those unfamiliar terms once you look them up, writing questions in the margin of a book, underlining or circling key terms, or otherwise marking a text for future reference. You can also annotate some electronic texts.</div> <div class="para" id="p-249">Realistically, you may end up doing all of these types of annotations at different times. We know that repetition in studying and reviewing is critical to learning, so you may come back to the same passage and annotate it separately. These various markings can be invaluable to you as a study guide and as a way to see the evolution of your learning about a topic. If you regularly begin a reading session writing down any questions you may have about the topic of that chapter or section and also write out answers to those questions at the end of the reading selection, you will have a good start to what that chapter covered when you eventually need to study for an exam. At that point, you likely will not have time to reread the entire selection especially if it is a long reading selection, but with strong annotations in conjunction with your class notes, you won’t need to do that. With experience in reading discipline-specific texts and writing essays or taking exams in that field, you will know better what sort of questions to ask in your annotations.</div> <div class="para" id="p-250">What you have to keep in the front of your mind while you are annotating, especially if you are going to conduct multiple annotation sessions, is to not overdo whatever method you use. Be judicious about what you annotate and how you do it on the page, which means you must be neat about it. Otherwise, you end up with a mess of either color or symbols combined with some cryptic notes that probably took you quite a long time to create, but won’t be worth as much to you as a study aid as they could be. This is simply a waste of time and effort.</div> <div class="para" id="p-251">You cannot eat up every smidgen of white space on the page writing out questions or summaries and still have a way to read the original text. If you are lucky enough to have a blank page next to the beginning of the chapter or section you are annotating, use this, but keep in mind that when you start writing notes, you aren’t exactly sure how much space you’ll need. Use a decipherable shorthand and write only what you need to convey the meaning in very small print. If you are annotating your own notes, you can make a habit of using only one side of the paper in class, so that if you need to add more notes later, you could use the other side. You can also add a blank page to your notes before beginning the next class date in your notebook so you’ll end up with extra paper for annotations when you study.</div> <div class="para" id="p-252">Professional resources may come with annotations that can be helpful to you as you work through the various documentation requirements you’ll encounter in college as well. Purdue University’s Online Writing Lab (<a class="external" href="https://openstax.org/l/mlaformatting" target="_blank">OWL</a><a href="" data-knowl="" class="id-ref fn-knowl original" data-refid="hk-fn-5" id="fn-5"><sup> 2 </sup></a>) provides an annotated sample for how to format a college paper according to guidelines in the Modern Language Association (MLA) manual that you can see, along with other annotations.</div> <section class="paragraphs" id="paragraphs-20"><h4 class="heading"><span class="title">Providing Needed Additional Explanations to Notes.</span></h4> <div class="para" id="p-253">Consider this scenario: Marlon was totally organized and ready to take notes in a designated course notebook at the beginning of every philosophy class session. He always dated his page and indicated what the topic of discussion was. He had various colored highlighters ready to denote the different note purposes he had defined: vocabulary in pink, confusing concepts in green, and note sections that would need additional explanations later in yellow. He also used his own shorthand and an impressive array of symbols to indicate questions (red question mark), highly probable test material (he used a tiny bomb exploding here), additional reading suggestions, and specific topics he would ask his instructor before the next class. Doing everything so precisely, Marlon’s methods seemed like a perfect example of how to take notes for success. Inevitably though, by the end of the hour-and-a-half class session, Marlon was frantically switching between writing tools, near to tears, and scouring his notes as waves of yellow teased him with uncertainty. What went wrong?</div> <div class="para" id="p-254">As with many of us who try diligently to do everything we know how to do for success or what we think we know because we read books and articles on success in between our course work, Marlon is suffering from trying to do too much simultaneously. It’s an honest mistake we can make when we are trying to save a little time or think we can multitask and kill two birds with one stone.</div> <div class="para" id="p-255">Unfortunately, this particular error in judgment can add to your stress level exponentially if you don’t step back and see it for what it is. Marlon attempted to take notes in class as well as annotate his notes to get them ready for his test preparation. It was too much to do at one time, but even if he could have done all those things during class, he’s missing one critical point about note-taking.</div> <div class="para" id="p-256">As much as we may want to hurry and get it over with, note-taking in class is just the beginning. Your instructor likely gave you a pre-class assignment to read or complete before coming to that session. The intention of that preparatory lesson is for you to come in with some level of familiarity for the topic under consideration and questions of your own. Once you’re in class, you may also need to participate in a group discussion, work with your classmates, or perform some other sort of lesson-directed activity that would necessarily take you away from taking notes. Does that mean you should ignore taking notes for that day? Most likely not. You may just need to indicate in your notes that you worked on a project or whatever other in-class event you experienced that date.</div> <div class="para" id="p-257">Very rarely in a college classroom will you engage in an activity that is not directly related to what you are studying in that course. Even if you enjoyed every minute of the class session and it was an unusual format for that course, you still need to take some notes. Maybe your first note could be to ask yourself why you think the instructor used that unique teaching strategy for the class that day. Was it effective? Was it worth using the whole class time? How will that experience enhance what you are learning in that course?</div> <div class="para" id="p-258">If you use an ereader or ebooks to read texts for class or read articles from the Internet on your laptop or tablet, you can still take effective notes. Depending on the features of your device, you have many choices. Almost all electronic reading platforms allow readers to highlight and underline text. Some devices allow you to add a written text in addition to marking a word or passage that you can collect at the end of your note-taking session. Look into the specific tools for your device and learn how to use the features that allow you to take notes electronically. You can also find apps on devices to help with taking notes, some of which you may automatically have installed when you buy the product. Microsoft’s OneNote, Google Keep, and the Notes feature on phones are relatively easy to use, and you may already have free access to those.</div></section> <section class="paragraphs" id="paragraphs-21"><h4 class="heading"><span class="title">Returning to Your Notes.</span></h4> <div class="para" id="p-259">Later, as soon as possible after the class, you can go back to your notes and add in missing parts. Just as you may generate questions as you’re reading new material, you may leave a class session or lecture or activities with many questions. Write those down in a place where they won’t get lost in all your other notes.</div> <div class="para" id="p-260">The exact timing of when you get back to the notes you take in class or while you are reading an assignment will vary depending on how many other classes you have or what other obligations you have in your daily schedule. A good starting place that is also easy to remember is to make every effort to review your notes within 24 hours of first taking them. Longer than that and you are likely to have forgotten some key features you need to include; must less time than that, and you may not think you need to review the information you so recently wrote down, and you may postpone the task too long.</div> <div class="para" id="p-261">Use your phone or computer to set reminders for all your note review sessions so that it becomes a habit and you keep on top of the schedule.</div> <div class="para" id="p-262">Your personal notes play a significant role in your test preparation. They should enhance how you understand the lessons, textbooks, lab sessions, and assignments. All the time and effort you put into first taking the notes and then annotating and organizing the notes will be for naught if you do not formulate an effective and efficient way to use them before sectional exams or comprehensive tests.</div> <div class="para" id="p-263">The whole cycle of reading, note-taking in class, reviewing and enhancing your notes, and preparing for exams is part of a continuum you ideally will carry into your professional life. Don’t try to take short cuts; recognize each step in the cycle as a building block. Learning doesn’t end, which shouldn’t fill you with dread; it should help you recognize that all this work you’re doing in the classroom and during your own study and review sessions is ongoing and cumulative. Practicing effective strategies now will help you be a stronger professional.</div> </section></section><section class="paragraphs" id="paragraphs-22"><h3 class="heading"><span class="title">Friends &amp; Family Matter.</span></h3> <div class="para" id="p-264">After a challenging start to her first semester, Ana has made a few good friends and is feeling more like she belongs in college. She has been hanging out with people who are committed to their education and who study all the time. Ana has benefited from these regular study sessions and her grades have reflected the work that she has done. Her study group creates handwritten notes, flashcards, and elaborate mind maps that they use each time they meet.</div> <div class="para" id="p-265">Ana’s roommate, Jasmine, a member of the rugby team, has not been as focused on her studies and is at risk of failing a few classes, especially the one that both of them have—General Psychology. She has shared with Ana that she is afraid she will fail, which will jeopardize her athletic scholarship. In an effort to help her, Ana has invited Jasmine to meet with her study group, but because Jasmine is a student athlete, she has little time to do more than go to practice, attend classes, and travel for games. Jasmine has not attended any of the sessions.</div> <div class="para" id="p-266">While Ana is eating lunch with Jasmine one day, she asks Ana if she could have her notes and all the study materials Ana created with her study group, including the notes cards and elaborate mind maps that the group drew out. Jasmine has a big game over the weekend and wants to take the materials with her as she doesn’t have time to copy all of them. Jasmine is feeling desperate as she needs to make a high grade on the next test, or she will definitely fail the course. Ana is torn—she wants to help her roommate, but she also needs the materials to study herself, and she feels as if telling her “No” would not be good for their long-term relationship.</div> <section class="paragraphs" id="paragraphs-23"><h4 class="heading"><span class="title">Let’s Think About It.</span></h4> <div class="para" id="p-267">Ana has several options. Think through the consequences of each one, and choose the best option or create your own option.</div> <div class="para logical" id="p-268"><ul class="disc">
+<li id="li-59"><div class="para" id="p-269">Ana gives her roommate the notes and materials for the weekend, and hopes that she has studied enough to do well herself.</div></li>
+<li id="li-60"><div class="para" id="p-270">Ana gives some of the materials that she knows the best (and doesn’t need to study) for the weekend, and keeps the rest for herself to study more.</div></li>
+<li id="li-61"><div class="para" id="p-271">Ana keeps the materials for herself, but offers to teach the material to her in person before she leaves and over a video conferencing service the evenings she is on the road.</div></li>
+</ul></div></section> <section class="paragraphs" id="paragraphs-24"><h4 class="heading"><span class="title">Let’s Talk About It.</span></h4> <div class="para" id="p-272">Ana could have told Jasmine “No” and dealt with the consequences of the decision for the rest of the semester. However, as you read above, Ana did want to find a way to help her roommate. Here are some suggestions for communicating with others about the dilemma that Ana is facing:</div> <div class="para logical" id="p-273"><ul class="disc">
+<li id="li-62"><div class="para" id="p-274">“I would like to help you as I know you have struggled in this course, but because these study materials are part of my study group’s sessions and we are not finished studying, I don’t feel right giving them all to you. Is there another option that we can both feel good about?”</div></li>
+<li id="li-63"><div class="para" id="p-275">“I have invited you to study sessions before, but you have not had time because of your schedule. I have time to get you up to speed on some of the material before you leave, but if you can start to join us after you get back, you may find that it is much more effective than trying to learn the content in a short period of time.”</div></li>
+<li id="li-64"><div class="para" id="p-276">“Teaching you what I have learned so far will benefit us both–and I have time to do some of that over the next few days. Would that help you feel more comfortable when you study over the weekend?”</div></li>
+</ul></div></section> <div class="para" id="p-277">Whatever choice you would make in this situation, it is always best to communicate clearly your needs, your concerns, and even your uncertainties.</div></section><section class="paragraphs" id="paragraphs-25"><h3 class="heading"><span class="title">Summary and Next Steps for College Success.</span></h3> <div class="para" id="p-278">Reading and note-taking are part of the foundation of college studying and learning. The expectation in college is that you read considerable amounts of text for each subject with the goal of learning more about the subjects. You may encounter reading situations, such as professional journal articles and long textbook chapters, that are more difficult to understand than texts you have read previously. As you progress through your college courses, you can employ reading strategies to help you complete your college reading assignments. Likewise, you will take notes in college that need to be complete so you can study and recall the information you learn in lectures and lab sessions. With so much significant information that you need to collect, study, and recall for your college courses, you need to be deliberate in your reading and note-taking.</div> <div class="para" id="p-279">Honing these fundamental skills can only help you succeed in college and beyond because you will need to be able to take in and recall a vast amount of information. To that end, consider what else about reading and note-taking you would like to learn or practice. Choose one of the following to explore further this term:</div> <div class="para logical" id="p-280"><ul class="disc">
+<li id="li-65"><div class="para" id="p-281">Develop more curiosity about what you are reading by creating questions about what you will learn or how you will use the information. Look for articles, blog posts, podcasts, books, and films about what you are learning to help you develop more knowledge.</div></li>
+<li id="li-66"><div class="para" id="p-282">Explore the best reading strategy for your most challenging courses. Choose one of them, use it, and determine how well it worked.</div></li>
+<li id="li-67"><div class="para" id="p-283">Practice revising reading and lecture notes as part of organizing your study materials and developing a deeper understanding of the content. Check the results of this reorganization the next time you take a quiz or test.</div></li>
+</ul></div></section></section><div class="hidden-content tex2jax_ignore" id="hk-fn-4"><div class="fn"><code class="code-inline tex2jax_ignore">openstax.org/l/drawinginclass</code></div></div>
+<div class="hidden-content tex2jax_ignore" id="hk-fn-5"><div class="fn"><code class="code-inline tex2jax_ignore">openstax.org/l/mlaformatting</code></div></div>
+</div>
+<div class="ptx-content-footer">
+<a class="previous-button button" href="sec-syllabus.html" title="Previous"><span class="icon">&lt;</span><span class="name">Prev</span></a><a class="top-button button" href="#" title="Top"><span class="icon">^</span><span class="name">Top</span></a><a class="next-button button" href="sec-class-engage.html" title="Next"><span class="name">Next</span><span class="icon">&gt;</span></a>
+</div></main>
+</div>
+<div id="ptx-page-footer" class="ptx-page-footer">
+<a class="pretext-link" href="https://pretextbook.org" title="PreTeXt"><div class="logo"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="338 3000 8772 6866"><g style="stroke-width:.025in; stroke:black; fill:none"><polyline points="472,3590 472,9732 " style="stroke:#000000;stroke-width:174; stroke-linejoin:miter; stroke-linecap:round; "></polyline><path style="stroke:#000000;stroke-width:126;stroke-linecap:butt;" d="M 4724,9448 A 4660 4660  0  0  1  8598  9259"></path><path style="stroke:#000000;stroke-width:174;stroke-linecap:butt;" d="M 4488,9685 A 4228 4228  0  0  0   472  9732"></path><path style="stroke:#000000;stroke-width:126;stroke-linecap:butt;" d="M 4724,3590 A 4241 4241  0  0  1  8598  3496"></path><path style="stroke:#000000;stroke-width:126;stroke-linecap:round;" d="M 850,3496  A 4241 4241  0  0  1  4724  3590"></path><path style="stroke:#000000;stroke-width:126;stroke-linecap:round;" d="M 850,9259  A 4507 4507  0  0  1  4724  9448"></path><polyline points="5385,4299 4062,8125" style="stroke:#000000;stroke-width:300; stroke-linejoin:miter; stroke-linecap:round;"></polyline><polyline points="8598,3496 8598,9259" style="stroke:#000000;stroke-width:126; stroke-linejoin:miter; stroke-linecap:round;"></polyline><polyline points="850,3496 850,9259" style="stroke:#000000;stroke-width:126; stroke-linejoin:miter; stroke-linecap:round;"></polyline><polyline points="4960,9685 4488,9685" style="stroke:#000000;stroke-width:174; stroke-linejoin:miter; stroke-linecap:round;"></polyline><polyline points="3070,4582 1889,6141 3070,7700" style="stroke:#000000;stroke-width:300; stroke-linejoin:miter; stroke-linecap:round;"></polyline><polyline points="6418,4582 7600,6141 6418,7700" style="stroke:#000000;stroke-width:300; stroke-linejoin:miter; stroke-linecap:round;"></polyline><polyline points="8976,3590 8976,9732" style="stroke:#000000;stroke-width:174; stroke-linejoin:miter; stroke-linecap:round;"></polyline><path style="stroke:#000000;stroke-width:174;stroke-linecap:butt;" d="M 4960,9685 A 4228 4228  0  0  1  8976  9732"></path></g></svg></div></a><a class="runestone-link" href="https://runestone.academy" title="Runestone Academy"><img class="logo" src="https://runestone.academy/runestone/static/images/RAIcon_cropped.png"></a><a class="mathjax-link" href="https://www.mathjax.org" title="MathJax"><img class="logo" src="https://www.mathjax.org/badge/badge-square-2.png"></a>
+</div>
+</body>
+</html>

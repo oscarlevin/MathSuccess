@@ -5,7 +5,7 @@
 <!--*         https://pretextbook.org          *-->
 <!--*                                          *-->
 <!--********************************************-->
-<html lang="en-US">
+<html lang="en-US" dir="ltr">
 <head xmlns:og="http://ogp.me/ns#" xmlns:book="https://ogp.me/ns/book#">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>What you are expected to know</title>
@@ -15,35 +15,60 @@
 <meta property="book:title" content="The Mathematical Success Guide">
 <meta property="book:author" content="Oscar Levin, Editor">
 <meta property="book:author" content="Sarah Sparks, Editor">
-<script>var runestoneMathReady = new Promise((resolve) => window.rsMathReady = resolve);
+<script>
+var runestoneMathReady = new Promise((resolve) => window.rsMathReady = resolve);
 window.MathJax = {
-  tex: {
-    inlineMath: [['\\(','\\)']],
-    tags: "none",
-    tagSide: "right",
-    tagIndent: ".8em",
-    packages: {'[+]': ['base', 'extpfeil', 'ams', 'amscd', 'color', 'newcommand', 'knowl']}
+  "tex": {
+    "inlineMath": [
+      [
+        "\\(",
+        "\\)"
+      ]
+    ],
+    "tags": "none",
+    "tagSide": "right",
+    "tagIndent": ".8em",
+    "packages": {
+      "[+]": [
+        "base",
+        "extpfeil",
+        "ams",
+        "amscd",
+        "color",
+        "newcommand",
+        "knowl"
+      ]
+    }
   },
-  options: {
-    ignoreHtmlClass: "tex2jax_ignore|ignore-math",
-    processHtmlClass: "process-math",
+  "options": {
+    "ignoreHtmlClass": "tex2jax_ignore|ignore-math",
+    "processHtmlClass": "process-math"
   },
-  chtml: {
-    scale: 0.98,
-    mtextInheritFont: true
+  "chtml": {
+    "scale": 0.98,
+    "mtextInheritFont": true
   },
-  loader: {
-    load: ['input/asciimath', '[tex]/extpfeil', '[tex]/amscd', '[tex]/color', '[tex]/newcommand', '[pretext]/mathjaxknowl3.js'],
-    paths: {pretext: "https://pretextbook.org/js/lib"},
+  "loader": {
+    "load": [
+      "input/asciimath",
+      "[tex]/extpfeil",
+      "[tex]/amscd",
+      "[tex]/color",
+      "[tex]/newcommand",
+      "[pretext]/mathjaxknowl3.js"
+    ],
+    "paths": {
+      "pretext": "https://pretextbook.org/js/lib"
+    }
   },
-  startup: {
+  "startup": {
     pageReady() {
       return MathJax.startup.defaultPageReady().then(function () {
       console.log("in ready function");
       rsMathReady();
       }
     )}
-  },
+  }
 };
 </script><script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.3.9/lunr.min.js" integrity="sha512-4xUl/d6D6THrAnXAwGajXkoWaeMNwEKK4iNfq5DotEbLPAfk6FSxSP3ydNxqDgCw1c/0Z1Jg6L8h2j+++9BZmg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script><script src="lunr-pretext-search-index.js" async=""></script><script src="https://pretextbook.org/js/0.3/pretext_search.js"></script><link href="https://pretextbook.org/css/0.7/pretext_search.css" rel="stylesheet" type="text/css">
 <script>js_version = 0.3</script><script src="https://pretextbook.org/js/lib/jquery.min.js"></script><script src="https://pretextbook.org/js/lib/jquery.sticky.js"></script><script src="https://pretextbook.org/js/lib/jquery.espy.min.js"></script><script src="https://pretextbook.org/js/0.3/pretext.js"></script><script>miniversion=0.1</script><script src="https://pretextbook.org/js/0.3/pretext_add_on.js?x=1"></script><script src="https://pretextbook.org/js/0.3/user_preferences.js"></script><script src="https://pretextbook.org/js/lib/knowl.js"></script><!--knowl.js code controls Sage Cells within knowls--><script>sagecellEvalName='Evaluate (Sage)';
@@ -178,7 +203,7 @@ window.MathJax = {
 <span id="theeye" class="motioncheck"></span>eye tracking - not yet</li>
 </ol>
 </li>
-</ol></div></button><span class="treebuttons"><a class="previous-button button" href="ch-intro-to-college.html" title="Previous"><span class="icon">&lt;</span><span class="name">Prev</span></a><a class="up-button button" href="ch-intro-to-college.html" title="Up"><span class="icon">^</span><span class="name">Up</span></a><a class="next-button button" href="chapter-title.html" title="Next"><span class="name">Next</span><span class="icon">&gt;</span></a></span><div class="searchbox"><div class="searchwidget">
+</ol></div></button><span class="treebuttons"><a class="previous-button button" href="ch-intro-to-college.html" title="Previous"><span class="icon">&lt;</span><span class="name">Prev</span></a><a class="up-button button" href="ch-intro-to-college.html" title="Up"><span class="icon">^</span><span class="name">Up</span></a><a class="next-button button" href="sec-learning.html" title="Next"><span class="name">Next</span><span class="icon">&gt;</span></a></span><div class="searchbox"><div class="searchwidget">
 <input id="ptxsearch" class="ptxsearch" type="text" name="terms" placeholder="Search" onchange="doSearch()"><button id="searchbutton" class="searchbutton" type="button" onclick="doSearch()">🔍</button>
 </div></div></nav><div id="latex-macros" class="hidden-content process-math" style="display:none"><span class="process-math">\(\newcommand{\R}{\mathbb R}
 \newcommand{\lt}{&lt;}
@@ -192,24 +217,293 @@ window.MathJax = {
 <li><div class="toc-item"><a href="frontmatter.html" class="internal"><span class="title">Front Matter</span></a></div></li>
 <li>
 <div class="toc-item"><a href="ch-intro-to-college.html" class="internal"><span class="codenumber">1</span> <span class="title">Introduction to College</span></a></div>
-<ul class="structural"><li class="active"><div class="toc-item"><a href="sec-hidden-curriculum.html" class="internal"><span class="codenumber">1.1</span> <span class="title">What you are expected to know</span></a></div></li></ul>
+<ul class="structural">
+<li class="active"><div class="toc-item"><a href="sec-hidden-curriculum.html" class="internal"><span class="codenumber">1.1</span> <span class="title">What you are expected to know</span></a></div></li>
+<li><div class="toc-item"><a href="sec-learning.html" class="internal"><span class="codenumber">1.2</span> <span class="title">What is Learning?</span></a></div></li>
+<li><div class="toc-item"><a href="sec-growth-mind.html" class="internal"><span class="codenumber">1.3</span> <span class="title">Developing a Growth Mindset</span></a></div></li>
+<li><div class="toc-item"><a href="sec-college-jobs.html" class="internal"><span class="codenumber">1.4</span> <span class="title">Finding and Maintaining Jobs While in College</span></a></div></li>
+</ul>
 </li>
 <li>
-<div class="toc-item"><a href="chapter-title.html" class="internal"><span class="codenumber">2</span> <span class="title">Chapter title</span></a></div>
-<ul class="structural"><li><div class="toc-item"><a href="section-title.html" class="internal"><span class="codenumber">2.1</span> <span class="title">Section title</span></a></div></li></ul>
+<div class="toc-item"><a href="ch-read-note-class.html" class="internal"><span class="codenumber">2</span> <span class="title">Reading and Taking Notes</span></a></div>
+<ul class="structural">
+<li><div class="toc-item"><a href="sec-reading.html" class="internal"><span class="codenumber">2.1</span> <span class="title">Reading Mathematics</span></a></div></li>
+<li><div class="toc-item"><a href="sec-syllabus.html" class="internal"><span class="codenumber">2.2</span> <span class="title">Utilizing a Course Syllabus</span></a></div></li>
+<li><div class="toc-item"><a href="sec-notetaking.html" class="internal"><span class="codenumber">2.3</span> <span class="title">Notetaking</span></a></div></li>
+<li><div class="toc-item"><a href="sec-class-engage.html" class="internal"><span class="codenumber">2.4</span> <span class="title">Classroom Engagement</span></a></div></li>
+<li><div class="toc-item"><a href="sec-comm-instructors.html" class="internal"><span class="codenumber">2.5</span> <span class="title">Communicating with your Instructors</span></a></div></li>
+</ul>
 </li>
 <li>
-<div class="toc-item"><a href="ch-technical-tools.html" class="internal"><span class="codenumber">3</span> <span class="title">Technical Tools</span></a></div>
-<ul class="structural"><li><div class="toc-item"><a href="using-latex.html" class="internal"><span class="codenumber">3.1</span> <span class="title">Using LaTeX</span></a></div></li></ul>
+<div class="toc-item"><a href="ch-study-hw-test.html" class="internal"><span class="codenumber">3</span> <span class="title">Studying and Test-Taking Strategies</span></a></div>
+<ul class="structural">
+<li><div class="toc-item"><a href="sec-explain-work.html" class="internal"><span class="codenumber">3.1</span> <span class="title">Explaining Your Work</span></a></div></li>
+<li><div class="toc-item"><a href="sec-test-take.html" class="internal"><span class="codenumber">3.2</span> <span class="title">Test Taking Strategies</span></a></div></li>
+<li><div class="toc-item"><a href="sec-student-hours.html" class="internal"><span class="codenumber">3.3</span> <span class="title">Utilizing Student Hours</span></a></div></li>
+<li><div class="toc-item"><a href="sec-time-manage.html" class="internal"><span class="codenumber">3.4</span> <span class="title">Time Management</span></a></div></li>
+<li><div class="toc-item"><a href="sec-tutoring.html" class="internal"><span class="codenumber">3.5</span> <span class="title">Tutoring Services</span></a></div></li>
+<li><div class="toc-item"><a href="sec-read-feedback.html" class="internal"><span class="codenumber">3.6</span> <span class="title">Reading Feedback from Your Instructor</span></a></div></li>
+</ul>
+</li>
+<li>
+<div class="toc-item"><a href="ch-doing-math.html" class="internal"><span class="codenumber">4</span> <span class="title">Doing Mathematics</span></a></div>
+<ul class="structural">
+<li><div class="toc-item"><a href="sec-what-is-math.html" class="internal"><span class="codenumber">4.1</span> <span class="title">What is Mathematics?</span></a></div></li>
+<li><div class="toc-item"><a href="sec-trans-to-high-level.html" class="internal"><span class="codenumber">4.2</span> <span class="title">Transitioning to Higher Level Mathematics</span></a></div></li>
+<li><div class="toc-item"><a href="sec-prob-solve.html" class="internal"><span class="codenumber">4.3</span> <span class="title">Problem Solving Skills</span></a></div></li>
+<li><div class="toc-item"><a href="sec-math-in-community.html" class="internal"><span class="codenumber">4.4</span> <span class="title">Doing Mathematics in Community</span></a></div></li>
+</ul>
+</li>
+<li>
+<div class="toc-item"><a href="ch-health.html" class="internal"><span class="codenumber">5</span> <span class="title">Taking Care of Mental and Physical Health</span></a></div>
+<ul class="structural">
+<li><div class="toc-item"><a href="sec-deal-with-fail.html" class="internal"><span class="codenumber">5.1</span> <span class="title">Dealing with Failure</span></a></div></li>
+<li><div class="toc-item"><a href="sec-perfectionism.html" class="internal"><span class="codenumber">5.2</span> <span class="title">Perfectionism in Mathematics</span></a></div></li>
+<li><div class="toc-item"><a href="sec-imp-syndrome.html" class="internal"><span class="codenumber">5.3</span> <span class="title">Imposter Syndrome</span></a></div></li>
+<li><div class="toc-item"><a href="sec-gen-health.html" class="internal"><span class="codenumber">5.4</span> <span class="title">General Health Maintenance</span></a></div></li>
+</ul>
+</li>
+<li>
+<div class="toc-item"><a href="ch-nav-academic-plan.html" class="internal"><span class="codenumber">6</span> <span class="title">Navigating Academic Planning</span></a></div>
+<ul class="structural">
+<li><div class="toc-item"><a href="sec-degree-planning.html" class="internal"><span class="codenumber">6.1</span> <span class="title">Planning for Your Degree</span></a></div></li>
+<li><div class="toc-item"><a href="sec-course-scheduling.html" class="internal"><span class="codenumber">6.2</span> <span class="title">Course Scheduling</span></a></div></li>
+<li><div class="toc-item"><a href="sec-self-advocacy.html" class="internal"><span class="codenumber">6.3</span> <span class="title">Advocating for Yourself</span></a></div></li>
+</ul>
+</li>
+<li>
+<div class="toc-item"><a href="ch-math-ethics-div.html" class="internal"><span class="codenumber">7</span> <span class="title">Ethics and Diversity in Mathematics</span></a></div>
+<ul class="structural">
+<li><div class="toc-item"><a href="sec-who-math-is-for.html" class="internal"><span class="codenumber">7.1</span> <span class="title">Who is Mathematics for?</span></a></div></li>
+<li><div class="toc-item"><a href="sec-what-math-is-used-for.html" class="internal"><span class="codenumber">7.2</span> <span class="title">What is Mathematics Used for?</span></a></div></li>
+<li><div class="toc-item"><a href="sec-hist-div-math.html" class="internal"><span class="codenumber">7.3</span> <span class="title">History of Mathematics and Diversity</span></a></div></li>
+<li><div class="toc-item"><a href="sec-academic-integrity.html" class="internal"><span class="codenumber">7.4</span> <span class="title">Academic Integrity in Mathematics</span></a></div></li>
+<li><div class="toc-item"><a href="sec-stat-data-misuse.html" class="internal"><span class="codenumber">7.5</span> <span class="title">Statistics - How Data is Used and Misused</span></a></div></li>
+<li><div class="toc-item"><a href="sec-internal-bias.html" class="internal"><span class="codenumber">7.6</span> <span class="title">Internal Biases</span></a></div></li>
+</ul>
+</li>
+<li>
+<div class="toc-item"><a href="ch-resources.html" class="internal"><span class="codenumber">8</span> <span class="title">Resources</span></a></div>
+<ul class="structural">
+<li><div class="toc-item"><a href="sec-latex.html" class="internal"><span class="codenumber">8.1</span> <span class="title">Latex - Typing Mathematics</span></a></div></li>
+<li><div class="toc-item"><a href="sec-python.html" class="internal"><span class="codenumber">8.2</span> <span class="title">Python - Coding</span></a></div></li>
+<li><div class="toc-item"><a href="sec-gen-online-math-resource.html" class="internal"><span class="codenumber">8.3</span> <span class="title">Online Math Resources</span></a></div></li>
+<li><div class="toc-item"><a href="sec-calculators.html" class="internal"><span class="codenumber">8.4</span> <span class="title">Calculators</span></a></div></li>
+</ul>
+</li>
+<li>
+<div class="toc-item"><a href="chapter-title.html" class="internal"><span class="codenumber">9</span> <span class="title">Chapter title</span></a></div>
+<ul class="structural"><li><div class="toc-item"><a href="section-title.html" class="internal"><span class="codenumber">9.1</span> <span class="title">Section title</span></a></div></li></ul>
+</li>
+<li>
+<div class="toc-item"><a href="ch-technical-tools.html" class="internal"><span class="codenumber">10</span> <span class="title">Technical Tools</span></a></div>
+<ul class="structural"><li><div class="toc-item"><a href="using-latex.html" class="internal"><span class="codenumber">10.1</span> <span class="title">Using LaTeX</span></a></div></li></ul>
 </li>
 <li><div class="toc-item"><a href="backmatter.html" class="internal"><span class="title">Backmatter</span></a></div></li>
 </ul></nav></div>
 <main class="ptx-main"><div id="ptx-content" class="ptx-content"><section class="section" id="sec-hidden-curriculum"><h2 class="heading hide-type">
-<span class="type">Section</span> <span class="codenumber">1.1</span> <span class="title">What you are expected to know</span>
+<span class="type">Section</span><span class="space"> </span><span class="codenumber">1.1</span><span class="space"> </span><span class="title">What you are expected to know</span>
 </h2>
-<div class="para" id="p-2">This is the first paragraph. <span class="process-math">\(\sin(x)\)</span> is a math expression.</div></section></div>
+<section class="introduction" id="introduction-2"><article class="objectives goal-like" id="objectives-1"><h3 class="heading"><span class="type">Objectives</span></h3>
+<ul class="disc">
+<li id="li-27"><div class="para" id="p-35">What language and customs do you need to know to succeed in college?</div></li>
+<li id="li-28"><div class="para" id="p-36">What is the hidden curriculum?</div></li>
+<li id="li-29"><div class="para" id="p-37">What is your responsibility for learning in college?</div></li>
+<li id="li-30"><div class="para" id="p-38">What resources will you use to meet these expectations?</div></li>
+<li id="li-31"><div class="para" id="p-39">What are the common challenges in the first year?</div></li>
+</ul></article></section><section class="paragraphs" id="paragraphs-1"><h3 class="heading"><span class="title">College Has Its Own Language and Customs.</span></h3> <div class="para" id="p-40">Going to college—even if you are not far from home—is a cultural experience. It comes with its own language and customs, some of which can be confusing or confounding at first. Just like traveling to a foreign country, it is best if you prepare by learning what words mean and what you are expected to say and do in certain situations.</div> <div class="para" id="p-41">Let’s first start with the language you may encounter. In most cases, there will be words that you have heard before, but they may have different meanings in a college setting. Take, for instance, “student hours” which are also commonly called “office hours”. If you are not in college, you might think that “office hours” means the hours of a day that an office is open. If it is your dentist’s office, it may mean Monday through Friday from 8 a.m. to 5 p.m. In college, “student/office hours” can refer to the specific hours a professor is in her office to meet with students, and those hours may be only a few each day: for example, Mondays and Wednesdays from 1 p.m. until 3 p.m.</div> <div class="para" id="p-42">“Syllabus” is another word that you may not have encountered, but it is one you will soon know very well. A syllabus is often called the “contract of the course” because it contains information about what to expect—from the professor and the student. It is meant to be a roadmap for succeeding in the class. Understanding that student/office hours are for you to ask your professor questions and the syllabus is the guide for what you will be doing in the class can make a big difference in your transition to college. The table on Common <dfn class="terminology">College Terms</dfn>, below, has a brief list of other words that you will want to know when you hear them on campus (see <a href="" class="xref" data-knowl="./knowl/m00004-ch01tab07.html" title="Table 1.1.1: Common College Terms, What They Mean, and Why You Need to Know">Table 1.1.1</a>).</div> <figure class="table table-like" id="m00004-ch01tab07"><figcaption><span class="type">Table</span><span class="space"> </span><span class="codenumber">1.1.1<span class="period">.</span></span><span class="space"> </span>Common College Terms, What They Mean, and Why You Need to Know</figcaption><div class="tabular-box natural-width"><table class="tabular">
+<tr>
+<td class="l m b3 r0 l0 t0 lines"><em class="emphasis">Term</em></td>
+<td class="l m b3 r0 l0 t0 lines"><em class="emphasis">What It Means</em></td>
+<td class="l m b3 r0 l0 t0 lines"><em class="emphasis">Why You Need to Know</em></td>
+</tr>
+<tr>
+<td class="l m b0 r0 l0 t0" style="max-width:120px;"><div class="para" id="p-43">Attendance policy</div></td>
+<td class="l m b0 r0 l0 t0" style="max-width:240px;"><div class="para" id="p-44">A policy that describes the attendance and absence expectations for a class</div></td>
+<td class="l m b0 r0 l0 t0" style="max-width:240px;"><div class="para" id="p-45">Professors will have different attendance expectations. Read your syllabus to determine which ones penalize you if you miss too many classes.</div></td>
+</tr>
+<tr>
+<td class="l m b0 r0 l0 t0" style="max-width:120px;"><div class="para" id="p-46">Final exam</div></td>
+<td class="l m b0 r0 l0 t0" style="max-width:240px;"><div class="para" id="p-47">A comprehensive assessment that is given at the end of a term</div></td>
+<td class="l m b0 r0 l0 t0" style="max-width:240px;"><div class="para" id="p-48">If your class has a final exam, you will want to prepare for it well in advance by reading assigned material, taking good notes, reviewing previous tests and assignments, and studying.</div></td>
+</tr>
+<tr>
+<td class="l m b0 r0 l0 t0" style="max-width:120px;"><div class="para" id="p-49">Learning</div></td>
+<td class="l m b0 r0 l0 t0" style="max-width:240px;"><div class="para" id="p-50">The process of acquiring knowledge</div></td>
+<td class="l m b0 r0 l0 t0" style="max-width:240px;"><div class="para" id="p-51">In college, most learning happens <em class="emphasis">outside</em> the classroom. Your professor will only cover the main ideas or the most challenging material in class. The rest of the learning will happen on your own.</div></td>
+</tr>
+<tr>
+<td class="l m b0 r0 l0 t0" style="max-width:120px;"><div class="para" id="p-52">Office hours</div></td>
+<td class="l m b0 r0 l0 t0" style="max-width:240px;"><div class="para" id="p-53">Specific hours the professor is in the office to meet with students</div></td>
+<td class="l m b0 r0 l0 t0" style="max-width:240px;"><div class="para" id="p-54">Visiting your professor during office hours is a good way to get questions answered and to build rapport.</div></td>
+</tr>
+<tr>
+<td class="l m b0 r0 l0 t0" style="max-width:120px;"><div class="para" id="p-55">Plagiarism</div></td>
+<td class="l m b0 r0 l0 t0" style="max-width:240px;"><div class="para" id="p-56">Using someone’s words, images, or ideas as your own, without proper attribution</div></td>
+<td class="l m b0 r0 l0 t0" style="max-width:240px;"><div class="para" id="p-57">Plagiarism carries much more serious consequences in college, so it is best to speak to your professor about how to avoid it and review your student handbook’s policy.</div></td>
+</tr>
+<tr>
+<td class="l m b0 r0 l0 t0" style="max-width:120px;"><div class="para" id="p-58">Study</div></td>
+<td class="l m b0 r0 l0 t0" style="max-width:240px;"><div class="para" id="p-59">The process of using learning strategies to understand and recall information</div></td>
+<td class="l m b0 r0 l0 t0" style="max-width:240px;"><div class="para" id="p-60">Studying in college may look different than studying in high school in that it may take more effort and more time to learn more complex material.</div></td>
+</tr>
+<tr>
+<td class="l m b0 r0 l0 t0" style="max-width:120px;"><div class="para" id="p-61">Syllabus</div></td>
+<td class="l m b0 r0 l0 t0" style="max-width:240px;"><div class="para" id="p-62">The contract of a course that provides information about course expectations and policies</div></td>
+<td class="l m b0 r0 l0 t0" style="max-width:240px;"><div class="para" id="p-63">The syllabus will provide valuable information that your professor will assume you have read and understood. Refer to it first when you have a question about the course.</div></td>
+</tr>
+</table></div></figure> <div class="para" id="p-64">In addition to its own language, higher education has its own way of doing things. For example, you may be familiar with what a high school teacher does, but do you know what a professor does? It certainly seems like they fulfill a very similar role as teachers in high school, but in college, professors’ roles are often much more diverse. In addition to teaching, they may also conduct research, mentor graduate students, write and review research articles, serve on and lead campus committees, serve in regional and national organizations in their disciplines, apply for and administer grants, advise students in their major, and serve as sponsors for student organizations. You can be assured that their days are far from routine. See the table below for just a few differences between high school teachers and college professors.</div> <figure class="table table-like" id="m00004-ch01tab08"><figcaption><span class="type">Table</span><span class="space"> </span><span class="codenumber">1.1.2<span class="period">.</span></span><span class="space"> </span></figcaption><div class="tabular-box natural-width"><table class="tabular">
+<tr>
+<td class="l t b3 r0 l0 t0" style="max-width:120"><div class="para" id="p-65">High School Faculty</div></td>
+<td class="l t b3 r0 l0 t0" style="max-width:120"><div class="para" id="p-66">College Faculty</div></td>
+</tr>
+<tr>
+<td class="l t b0 r0 l0 t0" style="max-width:120"><div class="para" id="p-67">Often have degrees or certifications in teaching in addition to degrees in subject matter</div></td>
+<td class="l t b0 r0 l0 t0" style="max-width:120"><div class="para" id="p-68">Some may not have even taken a course in teaching as part of their graduate program</div></td>
+</tr>
+<tr>
+<td class="l t b0 r0 l0 t0" style="max-width:120"><div class="para" id="p-69">Responsibilities include maximizing student learning and progress in a wide array of areas</div></td>
+<td class="l t b0 r0 l0 t0" style="max-width:120"><div class="para" id="p-70">Responsibilities include providing students with content and an assessment of their mastery of the content</div></td>
+</tr>
+<tr>
+<td class="l t b0 r0 l0 t0" style="max-width:120"><div class="para" id="p-71">Are available before or after school or during class if a student has a question</div></td>
+<td class="l t b0 r0 l0 t0" style="max-width:120"><div class="para" id="p-72">Are available during office hours [student hours] or by appointment if a student needs additional instruction or advice</div></td>
+</tr>
+<tr>
+<td class="l t b0 r0 l0 t0" style="max-width:120"><div class="para" id="p-73">Communicate regularly and welcome questions from parents and families about a student’s progress</div></td>
+<td class="l t b0 r0 l0 t0" style="max-width:120"><div class="para" id="p-74">Cannot communicate with parents and families of students without permission because of the Federal Educational Rights and Privacy Act (FERPA)</div></td>
+</tr>
+</table></div></figure> <div class="para" id="p-75">
+<em class="emphasis">The relationships you build with your professors will be some of the most important ones you create during your college career</em>. You will rely on them to help you find internships, write letters of recommendation, nominate you for honors or awards, and serve as references for jobs. You can develop those relationships by participating in class, visiting during office hours, asking for assistance with coursework, requesting recommendations for courses and majors, and getting to know the professor’s own academic interests.</div> <div class="para" id="p-76">In college, your networks are going to expand in ways that will help you develop other aspects of yourself. Your relationships will expand to peer networks—not friends, but near-age peers or situational peers (e.g., a first-year college student who is going back to school after being out for 20 years)—and to faculty and staff who may work alongside you, mentor you, or supervise your studies. These relationships are important because they will allow you to expand your network, especially as it relates to your career. As stated earlier, developing relationships with faculty can provide you with more than just the benefits of a mentor. Faculty often review applications for on-campus jobs or university scholarships and awards; they also have connections with graduate programs, companies, and organizations. They may recommend you to colleagues or former classmates for internships and even jobs.</div> <div class="para" id="p-77">Other differences between high school and college are included below. Because it is not an exhaustive list of the differences, be mindful of other differences you may notice. Also, if your most recent experience has been the world of work or the military, you may find that there are more noticeable differences between those experiences and college.</div> <figure class="table table-like" id="m00004-ch01tab09"><figcaption><span class="type">Table</span><span class="space"> </span><span class="codenumber">1.1.3<span class="period">.</span></span><span class="space"> </span>Differences Between High School and College</figcaption><div class="tabular-box natural-width"><table class="tabular">
+<tr class="header-horizontal">
+<th scope="col" class="l t b3 r0 l0 t0 lines"></th>
+<th scope="col" class="l t b3 r0 l0 t0 lines">High School</th>
+<th scope="col" class="l t b3 r0 l0 t0 lines">College</th>
+<th scope="col" class="l t b3 r0 l0 t0" style="max-width:210px;"><div class="para" id="p-78">Why You Need to Know the Difference</div></th>
+</tr>
+<tr>
+<td class="l t b0 r0 l0 t0" style="max-width:90px;"><div class="para" id="p-79">Grades</div></td>
+<td class="l t b0 r0 l0 t0" style="max-width:150px;"><div class="para" id="p-80">Grades are made up of frequent tests and homework, and you may be able to bring up a low initial grade by completing smaller assignments and bonuses.</div></td>
+<td class="l t b0 r0 l0 t0" style="max-width:150px;"><div class="para" id="p-81">Grades are often made up of fewer assignments, and initial low grades may keep you from earning high course grades at the end of the semester.</div></td>
+<td class="l t b0 r0 l0 t0" style="max-width:210px;"><div class="para" id="p-82">You will need to be prepared to earn high grades on all assignments because you may not have the opportunity to make up for lost ground.</div></td>
+</tr>
+<tr>
+<td class="l t b0 r0 l0 t0" style="max-width:90px;"><div class="para" id="p-83">Learning</div></td>
+<td class="l t b0 r0 l0 t0" style="max-width:150px;"><div class="para" id="p-84">Learning is often done in class with the teacher guiding the process, offering multiple ways to learn material and frequent quizzes to ensure that learning is occurring.</div></td>
+<td class="l t b0 r0 l0 t0" style="max-width:150px;"><div class="para" id="p-85">Learning happens mostly outside of class and on your own. Faculty are responsible for assigning material and covering the most essential ideas; you are responsible for tracking and monitoring your learning progress.</div></td>
+<td class="l t b0 r0 l0 t0" style="max-width:210px;"><div class="para" id="p-86">You will need to practice effective learning strategies on your own to ensure that you are mastering material at the appropriate pace.</div></td>
+</tr>
+<tr>
+<td class="l t b0 r0 l0 t0" style="max-width:90px;"><div class="para" id="p-87">Getting Help</div></td>
+<td class="l t b0 r0 l0 t0" style="max-width:150px;"><div class="para" id="p-88">Your teachers, parents, and a counselor are responsible for identifying your need for help and for creating a plan for you to get help with coursework if you need it. Extra assistance is usually reserved for students who have an official diagnosis or need.</div></td>
+<td class="l t b0 r0 l0 t0" style="max-width:150px;"><div class="para" id="p-89">You will most likely need help to complete all your courses successfully even if you did not need extra help in high school. You will be responsible for identifying that you need it, accessing the resources, and using them.</div></td>
+<td class="l t b0 r0 l0 t0" style="max-width:210px;"><div class="para" id="p-90">Because the responsibility is on you, not parents or teachers, to get the help you need, you will want to be aware of when you may be struggling to learn material. You then will need to know <em class="emphasis">where</em> the support can be accessed on campus or where you can access support online.</div></td>
+</tr>
+<tr>
+<td class="l t b0 r0 l0 t0" style="max-width:90px;"><div class="para" id="p-91">Tests and Exams</div></td>
+<td class="l t b0 r0 l0 t0" style="max-width:150px;"><div class="para" id="p-92">Tests cover small amounts of material and study days or study guides are common to help you focus on what you need to study. If you pay attention in class, you should be able to answer all the questions.</div></td>
+<td class="l t b0 r0 l0 t0" style="max-width:150px;"><div class="para" id="p-93">Tests are fewer and cover more material than in high school. If you read all the assigned material, take good notes in class, and spend time practicing effective study techniques, you should be able to answer all the questions.</div></td>
+<td class="l t b0 r0 l0 t0" style="max-width:210px;"><div class="para" id="p-94">This change in how much material and the depth of which you need to know the material is a shock for some students. This may mean you need to change your strategies dramatically to get the same results.</div></td>
+</tr>
+</table></div></figure></section><section class="paragraphs" id="paragraphs-2"><h3 class="heading"><span class="title">Some of What You Will Learn Is “Hidden”.</span></h3> <div class="para" id="p-95">Many of the college expectations that have been outlined so far may not be considered common knowledge, which is one reason that so many colleges and universities have classes that help students learn what they need to know to succeed. The term <em class="emphasis">hidden curriculum</em>, which was coined by sociologists,P.P. Bilbao, P. I. Lucido, T. C. Iringan and R. B. Javier. (2008). <em class="emphasis">Curriculum Development</em>. describes unspoken, unwritten, or unacknowledged (hence, <em class="emphasis">hidden</em>) rules that students are expected to follow that can affect their learning.</div> <div class="para" id="p-96">
+<em class="emphasis">Situation:</em> According to your syllabus, your history professor is lecturing on the chapter that covers the stock market crash of 1929 on Tuesday of next week.</div> <div class="para" id="p-97">Sounds pretty straightforward. Your professor lectures on a topic and you will be there to hear it. However, there are some unwritten rules, or <dfn class="terminology">hidden curriculum</dfn>, that are not likely to be communicated. Can you guess what they may be?</div> <div class="para logical" id="p-98"><ul class="disc">
+<li id="li-32"><div class="para" id="p-99">What is an unwritten rule about what you should be doing before attending class?</div></li>
+<li id="li-33"><div class="para" id="p-100">What is an unwritten rule about what you should be doing in class?</div></li>
+<li id="li-34"><div class="para" id="p-101">What is an unwritten rule about what you should be doing after class?</div></li>
+<li id="li-35"><div class="para" id="p-102">What is an unwritten rule if you are not able to attend that class?</div></li>
+</ul></div> <div class="para" id="p-103">Some of your answers could have included the following:</div> <figure class="table table-like" id="m00004-ch01tab10"><figcaption><span class="type">Table</span><span class="space"> </span><span class="codenumber">1.1.4<span class="period">.</span></span><span class="space"> </span></figcaption><div class="tabular-box natural-width"><table class="tabular">
+<tr>
+<td class="l t b0 r0 l0 t0" style="max-width:120"><div class="para" id="p-104">Before class:</div></td>
+<td class="l t b0 r0 l0 t0" style="max-width:120"><div class="para" id="p-105">Review your course syllabus or planner to determine what is being covered, read the assigned chapter, take notes, record any questions you have about the reading</div></td>
+</tr>
+<tr>
+<td class="l t b0 r0 l0 t0" style="max-width:120"><div class="para" id="p-106">During class:</div></td>
+<td class="l t b0 r0 l0 t0" style="max-width:120"><div class="para" id="p-107">Focus your attention on the lecture, discussion, or activity and put away any distractions, take detailed notes, ask critical thinking or clarifying questions, avoid distractions, bring your book and your reading notes</div></td>
+</tr>
+<tr>
+<td class="l t b0 r0 l0 t0" style="max-width:120"><div class="para" id="p-108">After class:</div></td>
+<td class="l t b0 r0 l0 t0" style="max-width:120"><div class="para" id="p-109">Review what you learned in that class and connect it to other class lectures or discussions, organize<span class="process-math">\(\)</span> your notes in relation to your other notes, start the studying process by testing yourself on the material, make an appointment with your professor if you are not clear on a concept</div></td>
+</tr>
+<tr>
+<td class="l t b0 r0 l0 t0" style="max-width:120"><div class="para" id="p-110">Absent:</div></td>
+<td class="l t b0 r0 l0 t0" style="max-width:120"><div class="para" id="p-111">Avoid asking your professor “Did I miss anything important?”, communicate with the professor, get notes from a classmate, make sure you did not miss anything important in your notes</div></td>
+</tr>
+</table></div></figure> <div class="para" id="p-112">The expectations before, during, and after class, as well as what you should do if you miss class, are often unspoken because many professors assume you already know and do these things or because they feel you should figure them out on your own. Nonetheless, some students struggle at first because they don’t know about these habits, behaviors, and strategies. But once they learn them, they are able to meet them with ease.</div> </section><section class="paragraphs" id="paragraphs-3"><h3 class="heading"><span class="title">Working Within the Hidden Curriculum.</span></h3> <div class="para" id="p-113">The first step in dealing with the hidden curriculum is to recognize it and understand how it can influence your learning. After any specific situation has been identified, the next step is to figure out how to work around the circumstances to either take advantage of any benefits or to remove any roadblocks. Let’s review some other ways that you may encounter the hidden curriculum.</div> <div class="para" id="p-114">
+<em class="emphasis">Prevailing Opinions</em>. Simply put, you are going to encounter instructors and learning activities that you sometimes agree with and sometimes do not. The key is to learn from them regardless. In either case, take ownership of your learning and even make an effort to learn about other perspectives, even if it is only for your own education on the matter. There is no better time to expose yourself to other opinions and philosophies than in college. In fact, many would say that this is a significant part of the college experience. With the right mindset, it is easy to view everything as a learning opportunity.</div> <div class="para" id="p-115">
+<em class="emphasis">Classroom Circumstances.</em> These kinds of circumstances often require a more structured approach to turn the situation to your advantage, but they also usually have the most obvious solutions. In a large class, you might find yourself limited in the ability to participate in classroom discussions because of so many other students. The way around that would be to speak to several classmates and create your own discussion group. You could set up a time to meet, or you could take a different route by using technology such as an online discussion board, a Zoom session, or even a group text. Several of the technologically-based solutions might even be better than an in-class discussion since you do not all have to be present at the same time. The discussion can be something that occurs all week long, giving everyone the time to think through their ideas and responses.</div> <div class="para" id="p-116">Again, the main point is to first spot those things in the hidden curriculum that might put your learning at a disadvantage and devise a solution that either reduces the negative impact or even becomes a learning advantage.</div> </section><section class="paragraphs" id="paragraphs-4"><h3 class="heading"><span class="title">What to Expect During the First Year.</span></h3> <div class="para" id="p-117">While you may not experience every transition within your first year, there are rhythms to each semester of the first year and each year you are in college. Knowing what to expect each month or week can better prepare you to take advantage of the times that you have more confidence and weather through the times that seem challenging. Review the table on First-Year College Student Milestones. There will be milestones each semester you are in college, but these will serve as an introduction to what you should expect in terms of the rhythms of the semester.</div> <figure class="table table-like" id="m00004-ch01tab12"><figcaption><span class="type">Table</span><span class="space"> </span><span class="codenumber">1.1.5<span class="period">.</span></span><span class="space"> </span>First-Year College Student Milestones for the First Semeste</figcaption><div class="tabular-box natural-width"><table class="tabular">
+<tr class="header-horizontal">
+<th scope="col" class="l m b3 r0 l0 t0 lines">August</th>
+<th scope="col" class="l m b3 r0 l0 t0 lines">September</th>
+<th scope="col" class="l m b3 r0 l0 t0 lines">October</th>
+<th scope="col" class="l m b3 r0 l0 t0 lines">November</th>
+<th scope="col" class="l m b3 r0 l0 t0 lines">December</th>
+</tr>
+<tr>
+<td class="l m b0 r0 l0 t0" style="max-width:120"><div class="para" id="p-118">Expanding social circles</div></td>
+<td class="l m b0 r0 l0 t0" style="max-width:120"><div class="para" id="p-119">Completing first test and projects</div></td>
+<td class="l m b0 r0 l0 t0" style="max-width:120"><div class="para" id="p-120">Feeling more confident about abilities</div></td>
+<td class="l m b0 r0 l0 t0" style="max-width:120"><div class="para" id="p-121">Balancing college with other obligations</div></td>
+<td class="l m b0 r0 l0 t0" style="max-width:120"><div class="para" id="p-122">Focusing on finishing strong</div></td>
+</tr>
+<tr>
+<td class="l m b0 r0 l0 t0" style="max-width:120"><div class="para" id="p-123">Experiencing homesickness or imposter syndrome</div></td>
+<td class="l m b0 r0 l0 t0" style="max-width:120"><div class="para" id="p-124">Earning “lower-than-usual” grades or not meeting personal expectations</div></td>
+<td class="l m b0 r0 l0 t0" style="max-width:120"><div class="para" id="p-125">Dealing with relationship issues</div></td>
+<td class="l m b0 r0 l0 t0" style="max-width:120"><div class="para" id="p-126">Staying healthy and reducing stress</div></td>
+<td class="l m b0 r0 l0 t0" style="max-width:120"><div class="para" id="p-127">Handling additional stress of the end of the semester</div></td>
+</tr>
+<tr>
+<td class="l m b0 r0 l0 t0" style="max-width:120"><div class="para" id="p-128">Adjusting to the pace of college</div></td>
+<td class="l m b0 r0 l0 t0" style="max-width:120"><div class="para" id="p-129">Learning to access resources for support</div></td>
+<td class="l m b0 r0 l0 t0" style="max-width:120"><div class="para" id="p-130">Planning for next semester and beyond</div></td>
+<td class="l m b0 r0 l0 t0" style="max-width:120"><div class="para" id="p-131">Thinking about majors and degrees</div></td>
+<td class="l m b0 r0 l0 t0" style="max-width:120"><div class="para" id="p-132">Thinking about the break and how to manage changes</div></td>
+</tr>
+</table></div></figure> <div class="para" id="p-133">The first few weeks will be pretty exhilarating. You will meet new people, including classmates, college staff, and professors. You may also be living in a different environment, which may mean that a roommate is another new person to get to know. Overall, you will most likely feel both excited and nervous. You can be assured that even if the beginning of the semester goes smoothly, your classes will get more challenging each week. You will be making friends, learning who in your classes seem to know what is going on, and figuring your way around campus. You may even walk into the wrong building, go to the wrong class, or have trouble finding what you need during this time. But those first-week jitters will end soon. Students who are living away from home for the first time can feel homesick in the first few weeks, and others can feel what is called “imposter syndrome,” which is a fear some students have that they don’t belong in college because they don’t have the necessary skills for success. Those first few weeks sound pretty stressful, but the stress is temporary.</div> <div class="para" id="p-134">After the newness of college wears off, reality will set in. You may find that the courses and assignments do not seem much different than they did in high school (more on that later), but you may be in for a shock when you get your graded tests and papers. Many new college students find that their first grades are lower than they expected. For some students, this may mean they have earned a B when they are used to earning As, but for many students, it means they may experience their first <em class="emphasis">failing or almost-failing grades</em> in college because they have not used active, effective study strategies; instead, they studied how they did in high school, which is often insufficient. This can be a shock if you are not prepared, but it doesn’t have to devastate you if you are willing to use it as a wake-up call to do something different.</div> <div class="para" id="p-135">By the middle of the semester, you’ll likely feel much more confident and a little more relaxed. Your grades are improving because you started tutoring and using better study strategies. You are looking ahead, even beyond the first semester, to start planning your courses for the next term. If you are working while in college, you may also find that you have a rhythm down for balancing it all; additionally, your time management skills have likely improved.</div> <div class="para" id="p-136">By the last few weeks of the semester, you will be focused on the increasing importance of your assignments and upcoming finals and trying to figure out how to juggle that with the family obligations of the impending holidays. You may feel a little more pressure to prepare for finals, as this time is often viewed as the most stressful period of the semester. All of this additional workload and need to plan for the next semester can seem overwhelming, but if you plan ahead and use what you learn from this chapter and the rest of the course, you will be able to get through it more easily.</div> </section><section class="paragraphs" id="paragraphs-5"><h3 class="heading"><span class="title">Don’t Do It Alone.</span></h3> <div class="para" id="p-137">Think about our earlier descriptions of two students, Reginald and Madison. What if they found that the first few weeks were a little harder than they had anticipated? Should they have given up and dropped out? Or should they have talked to someone about their struggles? Here is a secret about college success that not many people know: successful students seek help. They use resources. And they do that as often as necessary to get what they need. Your professors and advisors will expect the same from you, and your college will have all kinds of offices, staff, and programs that are designed to help. This bears calling out again: <em class="emphasis">you need to use those resources</em>. These are called “help-seeking behaviors,” and along with self-advocacy, which is speaking up for your needs, they are essential to your success. As you get more comfortable adjusting to life in college, you will find that asking for help is easier. In fact, you may become really good at it by the time you graduate, just in time for you to ask for help finding a job! Review the table on Issues, Campus Resources, and Potential Outcomes for a few examples of times you may need to ask for help. See if you can identify where on campus you can find the same or a similar resource.</div> <figure class="table table-like" id="m00004-ch01tab13"><figcaption><span class="type">Table</span><span class="space"> </span><span class="codenumber">1.1.6<span class="period">.</span></span><span class="space"> </span>Issues, Campus Resources, and Potential Outcomes</figcaption><div class="tabular-box natural-width"><table class="tabular">
+<tr class="header-horizontal">
+<th scope="col" class="l m b3 r0 l0 t0" style="max-width:120"><div class="para" id="p-138">Type</div></th>
+<th scope="col" class="l m b3 r0 l0 t0" style="max-width:120"><div class="para" id="p-139">Issue</div></th>
+<th scope="col" class="l m b3 r0 l0 t0" style="max-width:120"><div class="para" id="p-140">Campus Resource</div></th>
+<th scope="col" class="l m b3 r0 l0 t0" style="max-width:120"><div class="para" id="p-141">Potential Outcome</div></th>
+</tr>
+<tr>
+<td class="l m b0 r0 l0 t0" style="max-width:120"><div class="para" id="p-142">Academic</div></td>
+<td class="l m b0 r0 l0 t0" style="max-width:120"><div class="para" id="p-143">You are struggling to master the homework in your math class.</div></td>
+<td class="l m b0 r0 l0 t0" style="max-width:120"><div class="para" id="p-144">The campus tutoring center</div></td>
+<td class="l m b0 r0 l0 t0" style="max-width:120"><div class="para" id="p-145">A peer or professional tutor can walk you through the steps until you can do them on your own.</div></td>
+</tr>
+<tr>
+<td class="l m b0 r0 l0 t0" style="max-width:120"><div class="para" id="p-146">Health</div></td>
+<td class="l m b0 r0 l0 t0" style="max-width:120"><div class="para" id="p-147">You have felt extremely tired over the past two days and now you have a cough.</div></td>
+<td class="l m b0 r0 l0 t0" style="max-width:120"><div class="para" id="p-148">The campus health center</div></td>
+<td class="l m b0 r0 l0 t0" style="max-width:120"><div class="para" id="p-149">A licensed professional can examine you and provide care.</div></td>
+</tr>
+<tr>
+<td class="l m b0 r0 l0 t0" style="max-width:120"><div class="para" id="p-150">Social</div></td>
+<td class="l m b0 r0 l0 t0" style="max-width:120"><div class="para" id="p-151">You haven’t found a group to belong to. Your classmates seem to be going in different directions and your roommate has different interests.</div></td>
+<td class="l m b0 r0 l0 t0" style="max-width:120"><div class="para" id="p-152">Student organizations and interest groups</div></td>
+<td class="l m b0 r0 l0 t0" style="max-width:120"><div class="para" id="p-153">Becoming a member of a group on campus can help you make new friends.</div></td>
+</tr>
+<tr>
+<td class="l m b0 r0 l0 t0" style="max-width:120"><div class="para" id="p-154">Financial</div></td>
+<td class="l m b0 r0 l0 t0" style="max-width:120"><div class="para" id="p-155">Your scholarship and student loan no longer cover your college expenses. You are not sure how to afford next semester.</div></td>
+<td class="l m b0 r0 l0 t0" style="max-width:120"><div class="para" id="p-156">Financial aid office</div></td>
+<td class="l m b0 r0 l0 t0" style="max-width:120"><div class="para" id="p-157">A financial aid counselor can provide you with information about your options for meeting your college expenses.</div></td>
+</tr>
+</table></div></figure>  </section><section class="paragraphs" id="paragraphs-6"><h3 class="heading"><span class="title">Common Challenges in the First Year.</span></h3> <div class="para" id="p-158">It seems fitting to follow up the expectations for the first year with a list of common challenges that college students encounter along the way to a degree. If you experience any—or even all—of these, the important point here is that you are not alone and that you can overcome them by using your resources. Many college students have felt like this before, and they have survived—even thrived—despite them because they were able to identify a strategy or resource that they could use to help themselves. At some point in your academic career, you may do one or more of the following:</div> <div class="para logical" id="p-159"><ol class="decimal">
+<li id="li-36"><div class="para" id="p-160">
+<em class="emphasis">Feel like an imposter.</em> There is actually a name for this condition: <dfn class="terminology">imposter syndrome</dfn>. Students who feel like an imposter are worried that they don’t belong, that someone will “expose them for being a fake.” This feeling is pretty common for anyone who finds themselves in a new environment and is not sure if they have what it takes to succeed. Trust the professionals who work with first-year college students: you <span class="process-math">\(do\)</span> have what it takes, and you <em class="emphasis">will</em> succeed. Just give yourself time to get adjusted to everything.</div></li>
+<li id="li-37"><div class="para" id="p-161">
+<em class="emphasis">Worry about making a mistake.</em> This concern often goes with imposter syndrome. Students who worry about making a mistake don’t like to answer questions in class, volunteer for a challenging assignment, and even ask for help from others. Instead of avoiding situations where you may fail, embrace the process of learning, which includes—is even dependent on—making mistakes. The more you practice courage in these situations and focus on what you are going to learn from failing, the more confident you become about your abilities.</div></li>
+<li id="li-38"><div class="para" id="p-162">
+<em class="emphasis">Try to manage everything yourself.</em> Even superheroes need help from sidekicks and mere mortals. Trying to handle everything on your own every time an issue arises is a recipe for getting stressed out. There will be times when you are overwhelmed by all you have to do. This is when you will need to ask for and allow others to help you.</div></li>
+<li id="li-39"><div class="para" id="p-163">
+<em class="emphasis">Ignore your mental and physical health needs.</em> If you feel you are on an emotional rollercoaster and you cannot find time to take care of yourself, then you have most likely ignored some part of your mental and physical well-being. What you need to do to stay healthy should be non-negotiable. In other words, your sleep, eating habits, exercise, and stress-reducing activities should be your highest priorities.</div></li>
+<li id="li-40"><div class="para" id="p-164">
+<em class="emphasis">Forget to enjoy the experience.</em> Whether you are 18 years old and living on campus or 48 years old starting back to college after taking a break to work and raise a family, be sure to take the time to remind yourself of the joy that learning can bring.</div></li>
+</ol></div>  </section></section></div>
 <div class="ptx-content-footer">
-<a class="previous-button button" href="ch-intro-to-college.html" title="Previous"><span class="icon">&lt;</span><span class="name">Prev</span></a><a class="top-button button" href="#" title="Top"><span class="icon">^</span><span class="name">Top</span></a><a class="next-button button" href="chapter-title.html" title="Next"><span class="name">Next</span><span class="icon">&gt;</span></a>
+<a class="previous-button button" href="ch-intro-to-college.html" title="Previous"><span class="icon">&lt;</span><span class="name">Prev</span></a><a class="top-button button" href="#" title="Top"><span class="icon">^</span><span class="name">Top</span></a><a class="next-button button" href="sec-learning.html" title="Next"><span class="name">Next</span><span class="icon">&gt;</span></a>
 </div></main>
 </div>
 <div id="ptx-page-footer" class="ptx-page-footer">

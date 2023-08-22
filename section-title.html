@@ -5,7 +5,7 @@
 <!--*         https://pretextbook.org          *-->
 <!--*                                          *-->
 <!--********************************************-->
-<html lang="en-US">
+<html lang="en-US" dir="ltr">
 <head xmlns:og="http://ogp.me/ns#" xmlns:book="https://ogp.me/ns/book#">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Section title</title>
@@ -15,35 +15,60 @@
 <meta property="book:title" content="The Mathematical Success Guide">
 <meta property="book:author" content="Oscar Levin, Editor">
 <meta property="book:author" content="Sarah Sparks, Editor">
-<script>var runestoneMathReady = new Promise((resolve) => window.rsMathReady = resolve);
+<script>
+var runestoneMathReady = new Promise((resolve) => window.rsMathReady = resolve);
 window.MathJax = {
-  tex: {
-    inlineMath: [['\\(','\\)']],
-    tags: "none",
-    tagSide: "right",
-    tagIndent: ".8em",
-    packages: {'[+]': ['base', 'extpfeil', 'ams', 'amscd', 'color', 'newcommand', 'knowl']}
+  "tex": {
+    "inlineMath": [
+      [
+        "\\(",
+        "\\)"
+      ]
+    ],
+    "tags": "none",
+    "tagSide": "right",
+    "tagIndent": ".8em",
+    "packages": {
+      "[+]": [
+        "base",
+        "extpfeil",
+        "ams",
+        "amscd",
+        "color",
+        "newcommand",
+        "knowl"
+      ]
+    }
   },
-  options: {
-    ignoreHtmlClass: "tex2jax_ignore|ignore-math",
-    processHtmlClass: "process-math",
+  "options": {
+    "ignoreHtmlClass": "tex2jax_ignore|ignore-math",
+    "processHtmlClass": "process-math"
   },
-  chtml: {
-    scale: 0.98,
-    mtextInheritFont: true
+  "chtml": {
+    "scale": 0.98,
+    "mtextInheritFont": true
   },
-  loader: {
-    load: ['input/asciimath', '[tex]/extpfeil', '[tex]/amscd', '[tex]/color', '[tex]/newcommand', '[pretext]/mathjaxknowl3.js'],
-    paths: {pretext: "https://pretextbook.org/js/lib"},
+  "loader": {
+    "load": [
+      "input/asciimath",
+      "[tex]/extpfeil",
+      "[tex]/amscd",
+      "[tex]/color",
+      "[tex]/newcommand",
+      "[pretext]/mathjaxknowl3.js"
+    ],
+    "paths": {
+      "pretext": "https://pretextbook.org/js/lib"
+    }
   },
-  startup: {
+  "startup": {
     pageReady() {
       return MathJax.startup.defaultPageReady().then(function () {
       console.log("in ready function");
       rsMathReady();
       }
     )}
-  },
+  }
 };
 </script><script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.3.9/lunr.min.js" integrity="sha512-4xUl/d6D6THrAnXAwGajXkoWaeMNwEKK4iNfq5DotEbLPAfk6FSxSP3ydNxqDgCw1c/0Z1Jg6L8h2j+++9BZmg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script><script src="lunr-pretext-search-index.js" async=""></script><script src="https://pretextbook.org/js/0.3/pretext_search.js"></script><link href="https://pretextbook.org/css/0.7/pretext_search.css" rel="stylesheet" type="text/css">
 <script>js_version = 0.3</script><script src="https://pretextbook.org/js/lib/jquery.min.js"></script><script src="https://pretextbook.org/js/lib/jquery.sticky.js"></script><script src="https://pretextbook.org/js/lib/jquery.espy.min.js"></script><script src="https://pretextbook.org/js/0.3/pretext.js"></script><script>miniversion=0.1</script><script src="https://pretextbook.org/js/0.3/pretext_add_on.js?x=1"></script><script src="https://pretextbook.org/js/0.3/user_preferences.js"></script><script src="https://pretextbook.org/js/lib/knowl.js"></script><!--knowl.js code controls Sage Cells within knowls--><script>sagecellEvalName='Evaluate (Sage)';
@@ -192,22 +217,94 @@ window.MathJax = {
 <li><div class="toc-item"><a href="frontmatter.html" class="internal"><span class="title">Front Matter</span></a></div></li>
 <li>
 <div class="toc-item"><a href="ch-intro-to-college.html" class="internal"><span class="codenumber">1</span> <span class="title">Introduction to College</span></a></div>
-<ul class="structural"><li><div class="toc-item"><a href="sec-hidden-curriculum.html" class="internal"><span class="codenumber">1.1</span> <span class="title">What you are expected to know</span></a></div></li></ul>
+<ul class="structural">
+<li><div class="toc-item"><a href="sec-hidden-curriculum.html" class="internal"><span class="codenumber">1.1</span> <span class="title">What you are expected to know</span></a></div></li>
+<li><div class="toc-item"><a href="sec-learning.html" class="internal"><span class="codenumber">1.2</span> <span class="title">What is Learning?</span></a></div></li>
+<li><div class="toc-item"><a href="sec-growth-mind.html" class="internal"><span class="codenumber">1.3</span> <span class="title">Developing a Growth Mindset</span></a></div></li>
+<li><div class="toc-item"><a href="sec-college-jobs.html" class="internal"><span class="codenumber">1.4</span> <span class="title">Finding and Maintaining Jobs While in College</span></a></div></li>
+</ul>
 </li>
 <li>
-<div class="toc-item"><a href="chapter-title.html" class="internal"><span class="codenumber">2</span> <span class="title">Chapter title</span></a></div>
-<ul class="structural"><li class="active"><div class="toc-item"><a href="section-title.html" class="internal"><span class="codenumber">2.1</span> <span class="title">Section title</span></a></div></li></ul>
+<div class="toc-item"><a href="ch-read-note-class.html" class="internal"><span class="codenumber">2</span> <span class="title">Reading and Taking Notes</span></a></div>
+<ul class="structural">
+<li><div class="toc-item"><a href="sec-reading.html" class="internal"><span class="codenumber">2.1</span> <span class="title">Reading Mathematics</span></a></div></li>
+<li><div class="toc-item"><a href="sec-syllabus.html" class="internal"><span class="codenumber">2.2</span> <span class="title">Utilizing a Course Syllabus</span></a></div></li>
+<li><div class="toc-item"><a href="sec-notetaking.html" class="internal"><span class="codenumber">2.3</span> <span class="title">Notetaking</span></a></div></li>
+<li><div class="toc-item"><a href="sec-class-engage.html" class="internal"><span class="codenumber">2.4</span> <span class="title">Classroom Engagement</span></a></div></li>
+<li><div class="toc-item"><a href="sec-comm-instructors.html" class="internal"><span class="codenumber">2.5</span> <span class="title">Communicating with your Instructors</span></a></div></li>
+</ul>
 </li>
 <li>
-<div class="toc-item"><a href="ch-technical-tools.html" class="internal"><span class="codenumber">3</span> <span class="title">Technical Tools</span></a></div>
-<ul class="structural"><li><div class="toc-item"><a href="using-latex.html" class="internal"><span class="codenumber">3.1</span> <span class="title">Using LaTeX</span></a></div></li></ul>
+<div class="toc-item"><a href="ch-study-hw-test.html" class="internal"><span class="codenumber">3</span> <span class="title">Studying and Test-Taking Strategies</span></a></div>
+<ul class="structural">
+<li><div class="toc-item"><a href="sec-explain-work.html" class="internal"><span class="codenumber">3.1</span> <span class="title">Explaining Your Work</span></a></div></li>
+<li><div class="toc-item"><a href="sec-test-take.html" class="internal"><span class="codenumber">3.2</span> <span class="title">Test Taking Strategies</span></a></div></li>
+<li><div class="toc-item"><a href="sec-student-hours.html" class="internal"><span class="codenumber">3.3</span> <span class="title">Utilizing Student Hours</span></a></div></li>
+<li><div class="toc-item"><a href="sec-time-manage.html" class="internal"><span class="codenumber">3.4</span> <span class="title">Time Management</span></a></div></li>
+<li><div class="toc-item"><a href="sec-tutoring.html" class="internal"><span class="codenumber">3.5</span> <span class="title">Tutoring Services</span></a></div></li>
+<li><div class="toc-item"><a href="sec-read-feedback.html" class="internal"><span class="codenumber">3.6</span> <span class="title">Reading Feedback from Your Instructor</span></a></div></li>
+</ul>
+</li>
+<li>
+<div class="toc-item"><a href="ch-doing-math.html" class="internal"><span class="codenumber">4</span> <span class="title">Doing Mathematics</span></a></div>
+<ul class="structural">
+<li><div class="toc-item"><a href="sec-what-is-math.html" class="internal"><span class="codenumber">4.1</span> <span class="title">What is Mathematics?</span></a></div></li>
+<li><div class="toc-item"><a href="sec-trans-to-high-level.html" class="internal"><span class="codenumber">4.2</span> <span class="title">Transitioning to Higher Level Mathematics</span></a></div></li>
+<li><div class="toc-item"><a href="sec-prob-solve.html" class="internal"><span class="codenumber">4.3</span> <span class="title">Problem Solving Skills</span></a></div></li>
+<li><div class="toc-item"><a href="sec-math-in-community.html" class="internal"><span class="codenumber">4.4</span> <span class="title">Doing Mathematics in Community</span></a></div></li>
+</ul>
+</li>
+<li>
+<div class="toc-item"><a href="ch-health.html" class="internal"><span class="codenumber">5</span> <span class="title">Taking Care of Mental and Physical Health</span></a></div>
+<ul class="structural">
+<li><div class="toc-item"><a href="sec-deal-with-fail.html" class="internal"><span class="codenumber">5.1</span> <span class="title">Dealing with Failure</span></a></div></li>
+<li><div class="toc-item"><a href="sec-perfectionism.html" class="internal"><span class="codenumber">5.2</span> <span class="title">Perfectionism in Mathematics</span></a></div></li>
+<li><div class="toc-item"><a href="sec-imp-syndrome.html" class="internal"><span class="codenumber">5.3</span> <span class="title">Imposter Syndrome</span></a></div></li>
+<li><div class="toc-item"><a href="sec-gen-health.html" class="internal"><span class="codenumber">5.4</span> <span class="title">General Health Maintenance</span></a></div></li>
+</ul>
+</li>
+<li>
+<div class="toc-item"><a href="ch-nav-academic-plan.html" class="internal"><span class="codenumber">6</span> <span class="title">Navigating Academic Planning</span></a></div>
+<ul class="structural">
+<li><div class="toc-item"><a href="sec-degree-planning.html" class="internal"><span class="codenumber">6.1</span> <span class="title">Planning for Your Degree</span></a></div></li>
+<li><div class="toc-item"><a href="sec-course-scheduling.html" class="internal"><span class="codenumber">6.2</span> <span class="title">Course Scheduling</span></a></div></li>
+<li><div class="toc-item"><a href="sec-self-advocacy.html" class="internal"><span class="codenumber">6.3</span> <span class="title">Advocating for Yourself</span></a></div></li>
+</ul>
+</li>
+<li>
+<div class="toc-item"><a href="ch-math-ethics-div.html" class="internal"><span class="codenumber">7</span> <span class="title">Ethics and Diversity in Mathematics</span></a></div>
+<ul class="structural">
+<li><div class="toc-item"><a href="sec-who-math-is-for.html" class="internal"><span class="codenumber">7.1</span> <span class="title">Who is Mathematics for?</span></a></div></li>
+<li><div class="toc-item"><a href="sec-what-math-is-used-for.html" class="internal"><span class="codenumber">7.2</span> <span class="title">What is Mathematics Used for?</span></a></div></li>
+<li><div class="toc-item"><a href="sec-hist-div-math.html" class="internal"><span class="codenumber">7.3</span> <span class="title">History of Mathematics and Diversity</span></a></div></li>
+<li><div class="toc-item"><a href="sec-academic-integrity.html" class="internal"><span class="codenumber">7.4</span> <span class="title">Academic Integrity in Mathematics</span></a></div></li>
+<li><div class="toc-item"><a href="sec-stat-data-misuse.html" class="internal"><span class="codenumber">7.5</span> <span class="title">Statistics - How Data is Used and Misused</span></a></div></li>
+<li><div class="toc-item"><a href="sec-internal-bias.html" class="internal"><span class="codenumber">7.6</span> <span class="title">Internal Biases</span></a></div></li>
+</ul>
+</li>
+<li>
+<div class="toc-item"><a href="ch-resources.html" class="internal"><span class="codenumber">8</span> <span class="title">Resources</span></a></div>
+<ul class="structural">
+<li><div class="toc-item"><a href="sec-latex.html" class="internal"><span class="codenumber">8.1</span> <span class="title">Latex - Typing Mathematics</span></a></div></li>
+<li><div class="toc-item"><a href="sec-python.html" class="internal"><span class="codenumber">8.2</span> <span class="title">Python - Coding</span></a></div></li>
+<li><div class="toc-item"><a href="sec-gen-online-math-resource.html" class="internal"><span class="codenumber">8.3</span> <span class="title">Online Math Resources</span></a></div></li>
+<li><div class="toc-item"><a href="sec-calculators.html" class="internal"><span class="codenumber">8.4</span> <span class="title">Calculators</span></a></div></li>
+</ul>
+</li>
+<li>
+<div class="toc-item"><a href="chapter-title.html" class="internal"><span class="codenumber">9</span> <span class="title">Chapter title</span></a></div>
+<ul class="structural"><li class="active"><div class="toc-item"><a href="section-title.html" class="internal"><span class="codenumber">9.1</span> <span class="title">Section title</span></a></div></li></ul>
+</li>
+<li>
+<div class="toc-item"><a href="ch-technical-tools.html" class="internal"><span class="codenumber">10</span> <span class="title">Technical Tools</span></a></div>
+<ul class="structural"><li><div class="toc-item"><a href="using-latex.html" class="internal"><span class="codenumber">10.1</span> <span class="title">Using LaTeX</span></a></div></li></ul>
 </li>
 <li><div class="toc-item"><a href="backmatter.html" class="internal"><span class="title">Backmatter</span></a></div></li>
 </ul></nav></div>
 <main class="ptx-main"><div id="ptx-content" class="ptx-content"><section class="section" id="section-title"><h2 class="heading hide-type">
-<span class="type">Section</span> <span class="codenumber">2.1</span> <span class="title">Section title</span>
+<span class="type">Section</span><span class="space"> </span><span class="codenumber">9.1</span><span class="space"> </span><span class="title">Section title</span>
 </h2>
-<div class="para" id="p-3">Hello</div></section></div>
+<div class="para" id="p-700">Hello</div></section></div>
 <div class="ptx-content-footer">
 <a class="previous-button button" href="chapter-title.html" title="Previous"><span class="icon">&lt;</span><span class="name">Prev</span></a><a class="top-button button" href="#" title="Top"><span class="icon">^</span><span class="name">Top</span></a><a class="next-button button" href="ch-technical-tools.html" title="Next"><span class="name">Next</span><span class="icon">&gt;</span></a>
 </div></main>
