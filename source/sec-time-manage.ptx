@@ -2,80 +2,10 @@
 
 <section xml:id="sec-time-manage" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Time Management</title>
-
-
-
-  <p>
-    This is the first paragraph. <m>\sin(x)</m> is a math expression.
-  </p>
-
-  <introduction xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:cnx="http://cnx.rice.edu/cnxml" xmlns:col="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:m="http://www.w3.org/1998/Math/MathML" xml:id="m00006">
-    <introduction>
-      <figure xml:id="ch02fig01">
-        <caption>Our devices can be helpful tools for managing time, but they can also lead to distraction. (Credit: Nenad Stojkovic / Flickr Attribution 2.0 Generic (CC-BY 2.0))</caption>
-        <image width="100%" source="../m00006/../../media/CS_Figure_02_00_001_Splash.jpg">
-          <description>A person sits in a wooded area holding a mobile phone and a water bottle.</description>
-        </image>
-      </figure>
-      <p>[[NOTE]]</p>
-    </introduction>
-    <subsection xml:id="m00006-sect-00001">
-      <title>Student Survey</title>
-      <p>How do you feel about your time management abilities? Take this quick survey to figure it out, ranking questions on a scale of 1—4, 1 meaning “least like me” and 4 meaning “most like me.” These questions will help you determine how the chapter concepts relate to you right now. As you are introduced to new concepts and practices, it can be informative to reflect on how your understanding changes over time.</p>
-      <p>
-        <ol xml:id="m00006-list-00001">
-          <li>
-            <p>I regularly procrastinate completing tasks that don't interest me or seem challenging.</p>
-          </li>
-          <li>
-            <p>I use specific time management strategies to complete tasks.</p>
-          </li>
-          <li>
-            <p>I find it difficult to prioritize tasks because I am not sure what is really important.</p>
-          </li>
-          <li>
-            <p>I am pleased with my ability to manage my time.</p>
-          </li>
-        </ol>
-      </p>
-      <p>You can also take the <url href="https://openstax.org/l/collegeconcisesurvey02">Chapter 3 survey</url> anonymously online.</p>
-      <p>[[NOTE]]</p>
-    </subsection>
-    <subsection xml:id="m00006-sect-00002">
-      <title>About This Chapter</title>
-      <p>In this chapter you will learn about two of the most valuable tools used for academic success: prioritizing and time management. By the time you complete this chapter, you should be able to do the following:</p>
-      <p>
-        <ul xml:id="m00006-list-00002">
-          <li>
-            <p>Outline the reasons and effects of procrastination and provide strategies to overcome it.</p>
-          </li>
-          <li>
-            <p>Describe ways to evaluate your own time management skills.</p>
-          </li>
-          <li>
-            <p>Discuss the importance and the process of prioritization.</p>
-          </li>
-          <li>
-            <p>Detail strategies and specific tactics for managing your time.</p>
-          </li>
-        </ul>
-      </p>
-    </subsection>
-  </introduction>
   
   <introduction>
-    <table xml:id="m00007-ch02tab01">
-      <caption>[[CAPTION]]</caption>
-      <tabular>
-        <row>
-          <cell>Estimated completion time: 11 minutes.</cell>
-        </row>
-      </tabular>
-    </table>
-    <p>
-      <em>Questions to Consider:</em>
-    </p>
-    <p>
+    
+    <paragraphs>
       <ul xml:id="m00007-list-00001">
         <li>
           <p>Is time management different in college from what I am used to?</p>
@@ -83,13 +13,59 @@
         <li>
           <p>How different is college schoolwork from high school or on-the-job work?</p>
         </li>
+        <li>
+          <p>Why do we procrastinate?</p>
+        </li>
+        <li>
+          <p>What are the effects of procrastination?</p>
+        </li>
+        <li>
+          <p>How can we avoid procrastination?</p>
+        </li>
+        <li>
+          <p>How can I use time-on-task estimates to improve time management?</p>
+        </li>
+        <li>
+          <p>What behaviors can help or hinder when it comes to managing time?</p>
+        </li>
+        <li>
+          <p>Why is prioritization important?</p>
+        </li>
+        <li>
+          <p>What are the steps involved in prioritization?</p>
+        </li>
+        <li>
+          <p>How do I deal with situations where others’ priorities are not the same as my own?</p>
+        </li>
+        <li>
+          <p>What do I do when priorities conflict?</p>
+        </li>
+        <li>
+          <p>What are the best ways to make sure I complete tasks?</p>
+        </li>
+        <li>
+          <p>What strategy helps me prioritize my top tasks?</p>
+        </li>
+        <li>
+          <p>How do I make the best use of my time when prioritizing?</p>
+        </li>
+        <li>
+          <p>How do I make sure I tackle unpleasant tasks instead of putting them off?</p>
+        </li>
+        <li>
+          <p>What’s the best way to plan for long-term tasks?</p>
+        </li>
+        <li>
+          <p>How do I find time in a busy schedule?</p>
+        </li>
       </ul>
-    </p>
+    </paragraphs>
     <p>You may find that time management in college is very different from anything you have experienced previously. For high school students, almost all school time is managed by educators and parents. In many cases, even after-school time may be set by scheduled activities (such as athletics) and by nightly homework that is due the next day.</p>
     <p>In the workplace, the situation is not very different, with activities and time on task being monitored by the company and its management. An employee may also not have much say in what needs to be done and when. This is so much a part of the working environment that many companies research how much time each task should take, and they hold employees accountable for the time spent on these job functions. In fact, having good time and task management skills will help you stand out on the job and in job interviews. See the table below for a comparison of high school students and college students with regard to time and task management.</p>
     <table xml:id="m00007-ch02tab02">
       <caption>[[CAPTION]]</caption>
       <tabular>
+        <col width="20%"/><col width="40%"/><col width="40%"/>
         <row bottom="major">
           <cell>
             <em>K-12</em>
@@ -113,22 +89,22 @@
       </tabular>
     </table>
     <p>In college, there is a significant difference because a great deal of time management is left up to you. While it is true that there are assignment due dates and organized classroom activities, learning at the college level requires more than just the simple completion of work. It involves decision-making and the ability to evaluate information. This is best accomplished when you are an active partner in your own learning activities.</p>
-    <figure xml:id="ch02fig02">
-      <caption>Students may set aside specific times and specific places to study and do homework. (Credit: ThouroughlyReviewed / Flickr Attribution 2.0 Generic (CC-BY 2.0))</caption>
-      <image width="100%" source="../m00007/../../media/CS_Figure_02_01_002.jpg">
-        <description>A person holding a cup sits at a table with several laptops and works at one of them.</description>
-      </image>
-    </figure>
+    <!-- <figure xml:id="ch02fig02"> -->
+      <!-- <caption>Students may set aside specific times and specific places to study and do homework. (Credit: ThouroughlyReviewed / Flickr Attribution 2.0 Generic (CC-BY 2.0))</caption> -->
+      <!-- <image width="100%" source="../m00007/../../media/CS_Figure_02_01_002.jpg"> -->
+        <!-- <description>A person holding a cup sits at a table with several laptops and works at one of them.</description> -->
+      <!-- </image> -->
+    <!-- </figure> -->
     <p>As an example of how this works, think about an assignment that involves giving a classroom presentation. To complete the assignment, you are given time to research and reflect on the information found. As a part of the assignment, you must reach your own conclusions and determine which information that you have found is best suited for the presentation. While the date of the actual presentation and how long it will last are usually determined by the instructor, how much time you spend gathering information, the sources you use, and how you use them are left to you.</p>
   </introduction>
-  <subsection xml:id="m00007-sect-00001">
+  <paragraphs>
     <title>You Have Lots of Time to Manage</title>
     <p>For college-level learning, this approach is important enough that you can expect to spend much more time on learning activities outside the classroom than you will in the classroom. In fact, the estimated time you should spend will be at least two hours of outside learning for every one hour of lecture. Some weeks may be more intense, depending on the time of the semester and the courses you are taking. If those hours are multiplied over several courses in a given session, you can see how there is a significant amount of time to manage. Unfortunately, many students do not always take this into consideration, and they spend far less time than is needed to be successful. The results of poor time management are often a shock to them.</p>
     <p>
       <em>“In college, as an active participant in your own education, what you do and when you do it is largely determined by you.”</em>
     </p>
-  </subsection>
-  <subsection xml:id="m00007-sect-00002">
+  </paragraphs>
+  <paragraphs>
     <title>The Nature of What You Have to Do Has Changed</title>
     <p>Returning to our example of the classroom-presentation assignment, you can see that the types of learning activities in college can be very different from what you have experienced previously. While there may have been similar assignments in high school, such as presentations or written papers, the level of expectation with length and depth is significantly different in college. This point is made very clear when comparing facts about the requirements of high school work to the type of work students produce in college. A study conducted by the Pew Research Center, found that 82 percent of teens report that their typical high school writing assignments were only a single paragraph to one page in length.Pew Research Center. (2008).“Writing, Technology, and Teens. https://www.pewinternet.org/2008/04/24/writing-technology-and-teens/ This is in stark contrast to a number of sources that say that writing assignments in lower-level college courses are usually 5–7 pages in length, while writing assignments in upper-level courses increase to 15–20 pages.</p>
     <p>It is also interesting to note that the amount of writing done by a college student can differ depending on their program of study. The table below indicates the estimated average amount of writing assigned in several disciplines. To estimate the number of pages of assigned writing, the average number of writing assignments of a given page length was multiplied by an approximate number of pages for the assignment type (see <xref ref="m00007-ch02tab03"/> for time on task estimates.)</p>
@@ -186,154 +162,89 @@
     </table>
     <p>High school homework often consists of worksheets or tasks based on reading or classroom activities. In other words, all the students are doing the same tasks, at relatively the same time, as directed by their teachers.</p>
     <p>Using the earlier example of the presentation assignment, not only will what you do be larger in scale, but the depth of understanding and knowledge you will put into it will be significantly more than you may have encountered in previous assignments. This is because there are greater expectations required of college graduates in the workplace. Nearly any profession that requires a college degree has with it a level of responsibility that demands higher-level thinking and therefore higher learning. An often-cited example of this is the healthcare professional. The learning requirements for that profession are strict because we depend on those graduates for our health and, in some cases, our lives. While not every profession may require the same level of study needed for healthcare, most do require that colleges maintain a certain level of academic rigor to produce graduates who are competent in their fields.</p>
-    <p>[[NOTE]]</p>
-  </subsection>
-  <conclusion>
-    <p>Original OpenStax book is available for free at <c/>, and is distributed with a  license.</p>
-    <p/>
-  </conclusion>
+    <!-- <p>[[NOTE]]</p> -->
+  </paragraphs>
+  
 
-  <introduction>
-    <table xml:id="m00008-ch02tab04">
-      <caption>[[CAPTION]]</caption>
-      <tabular>
-        <row>
-          <cell>Estimated completion time: 13 minutes.</cell>
-        </row>
-      </tabular>
-    </table>
-    <p>
-      <em>Questions to Consider:</em>
-    </p>
-    <p>
-      <ul xml:id="m00008-list-00001">
-        <li>
-          <p>Why do we procrastinate?</p>
-        </li>
-        <li>
-          <p>What are the effects of procrastination?</p>
-        </li>
-        <li>
-          <p>How can we avoid procrastination?</p>
-        </li>
-      </ul>
-    </p>
-    <figure xml:id="ch02fig03">
-      <caption>We can think of many creative ways to procrastinate, but the outcome is often detrimental. (Credit: University of the Fraser Valley / Flickr / Attribution 2.0 Generic (CC BY 2.0))</caption>
-      <image width="100%" source="../m00008/../../media/CS_Figure_03_05_001.jpg">
-        <description>A close-up view shows the legs of a person standing in the library with a golf stick, about to hit the ball into a cup placed on the floor against a flag.</description>
-      </image>
-    </figure>
+  <paragraphs>
+    <title>Procrastination</title>
+    
     <p>We all know about procrastination, the act of delaying some task that needs to be completed, because most of us have procrastinated at some point in our lives. For most people, a little procrastination is not a cause for great concern. But there are situations where procrastination can become a serious problem with a lot of risk. These include when it becomes a chronic habit, when there are a number of tasks to complete and little time, or when the task being avoided is very important. In college, students who procrastinate often report that they feel more stress and are more likely to do poorly than those who have learned to manage their time and their projects effectively.</p>
     <p>Because we all procrastinate from time to time, we usually do not give it much thought, let alone think about its causes or effects. Ironically, many of the psychological reasons for why we avoid a given task also keep us from using critical thinking to understand why procrastination can be extremely detrimental, and in some cases difficult to overcome.</p>
     <p>To succeed at time management, you must understand some of the hurdles that may stand in your way. Procrastination is often one of the biggest. What follows is an overview of procrastination with a few suggestions on how to avoid it.</p>
-  </introduction>
-  <subsection xml:id="m00008-sect-00001">
+  </paragraphs>
+  <paragraphs>
     <title>The Reasons Behind Procrastination</title>
     <p>There are several reasons we procrastinate, and a few of them may be surprising. On the surface we often tell ourselves it is because the task is something we do not want to do, or we make excuses that there are other things more important to do first. In some cases this may be true, but there can be other contributors to procrastination that have their roots in our physical well-being or our own psychological motivations.</p>
-    <subsection xml:id="m00008-sect-00002">
+    <paragraphs>
       <title>Lack of Energy</title>
       <p>Sometimes we just do not feel up to a certain task. It might be due to discomfort, an illness, or just a lack of energy. If this is the case, it is important to identify the cause and remedy the situation. It could be something as simple as a lack of sleep or improper diet. Regardless, if a lack of energy is continually causing you to procrastinate to the point where you are beginning to feel stress over not getting things done, you should definitely assess the situation and address it.</p>
-    </subsection>
-    <subsection xml:id="m00008-sect-00003">
+    </paragraphs>
+    <paragraphs>
       <title>Lack of Focus</title>
       <p>Much like having low physical energy, a lack of mental focus can be a cause of procrastination. This can be due to mental fatigue, being disorganized, or allowing yourself to be distracted by other things. Again, like low physical energy, this is something that may have farther-reaching effects in your life that go beyond the act of simply avoiding a task. If it is something that is recurring, you should properly assess the situation.</p>
-    </subsection>
-    <subsection xml:id="m00008-sect-00004">
+    </paragraphs>
+    <paragraphs>
       <title>Fear of Failure</title>
       <p>This cause of procrastination is not one that many people are aware of, especially if they are the person avoiding tasks because of it. To put it in simple words, it is a bit of trickery we play on ourselves by avoiding a situation that makes us psychologically uncomfortable. Even though they may not be consciously aware of it, the person facing the task is afraid that they cannot do it or will not be able to do it well. If they fail at the task, it will make them appear incompetent to others or even to themselves. Where the self-trickery comes in is by avoiding the task. In the person’s mind, they can rationalize that the reason they failed at the task was because they ran out of time to complete it, not that they were incapable of doing it in the first place.</p>
       <p>It is important to note that a fear of failure may not have anything to do with the actual ability of the person suffering from it. They could be quite capable of doing the task and performing well, but it is the fear that holds them back.</p>
-      <p>[[NOTE]]</p>
-    </subsection>
-  </subsection>
-  <subsection xml:id="m00008-sect-00005">
+      <!-- <p>[[NOTE]]</p> -->
+    </paragraphs>
+  </paragraphs>
+  <paragraphs>
     <title>The Effects of Procrastination</title>
     <p>In addition to the causes of procrastination, you must also consider what effects it can have. Again, many of these effects are obvious and commonly understood, but some may not be so obvious and may cause other issues.</p>
-    <subsection xml:id="m00008-sect-00006">
+    <paragraphs>
       <title>Loss of Time</title>
       <p>The loss of time as an effect of procrastination is the easiest to identify since the act of avoiding a task comes down to not using time wisely. Procrastination can be thought of as using the time you have to complete a task in ways that do not accomplish what needs to be done.</p>
-    </subsection>
-    <subsection xml:id="m00008-sect-00007">
+    </paragraphs>
+    <paragraphs>
       <title>Loss of Goals</title>
       <p>Another of the more obvious potentially adverse effects of procrastination is the loss of goals. Completing a task leads to achieving a goal. These can be large or small (e.g., from doing well on an assignment to being hired for a good job). Without goals you might do more than delay work on a task—you may not complete it at all. The risk for the loss of goals is something that is very impactful.</p>
-    </subsection>
-    <subsection xml:id="m00008-sect-00008">
+    </paragraphs>
+    <paragraphs>
       <title>Loss of Self-Esteem</title>
       <p>Often, when we procrastinate we become frustrated and disappointed in ourselves for not getting important tasks completed. If this continues to happen, we can begin to develop a low opinion of ourselves and our own abilities. We begin to suffer from low self-esteem and might even begin to feel like there is something wrong with us. This can lead to other increasingly negative mental factors such as anger and depression. As you can see, it is important for our own well-being to avoid this kind of procrastination effect.</p>
-    </subsection>
-    <subsection xml:id="m00008-sect-00009">
+    </paragraphs>
+    <paragraphs>
       <title>Stress</title>
       <p>Procrastination causes stress and anxiety, which may seem odd since the act of procrastination is often about avoiding a task we think will be stressful in itself! Anyone who has noticed that nagging feeling when they know there is something else they should be doing is familiar with this.</p>
       <p>On the other hand, some students see that kind of stress as a boost of mental urgency. They put off a task until they feel that surge of motivation. While this may have worked in the past, they quickly learn that procrastinating when it comes to college work almost always includes an underestimation of the tasks to be completed— sometimes with disastrous results.</p>
-    </subsection>
-  </subsection>
-  <subsection xml:id="m00008-sect-00010">
+    </paragraphs>
+  </paragraphs>
+  <paragraphs>
     <title>Strategies for Psyching Ourselves Out and Managing Procrastination</title>
     <p>Now that you understand a few of the major problems procrastination can produce, let’s look at methods to manage procrastination and get you on to completing the tasks, no matter how unpleasant you think they might be.</p>
-    <subsection xml:id="m00008-sect-00011">
+    <paragraphs>
       <title>Get Organized</title>
       <p>Much of this chapter is dedicated to defining and explaining the nature of time management. The most effective way to combat procrastination is to use time and project management strategies such as schedules, goal setting, and other techniques to get tasks accomplished in a timely manner.</p>
-    </subsection>
-    <subsection xml:id="m00008-sect-00012">
+    </paragraphs>
+    <paragraphs>
       <title>Put Aside Distractions</title>
       <p>Several of the methods discussed in this chapter deal specifically with distractions. Distractions are time-killers and are the primary way people procrastinate. It is too easy to just play a video game a little while longer, check out social media, or finish watching a movie when we are avoiding a task. Putting aside distractions is one of the primary functions of setting priorities.</p>
-    </subsection>
-    <subsection xml:id="m00008-sect-00013">
+    </paragraphs>
+    <paragraphs>
       <title>Reward Yourself</title>
       <p>Rewarding yourself for the completion of tasks or meeting goals is a good way to avoid procrastination. An example of this would be rewarding yourself with the time to watch a movie you would enjoy a<em>fter</em> you have finished the things you need to do, rather than using the movie to keep yourself from getting things done.</p>
-    </subsection>
-    <subsection xml:id="m00008-sect-00014">
+    </paragraphs>
+    <paragraphs>
       <title>Be Accountable</title>
       <p>A strong motivational tool is to hold ourselves accountable by telling someone else we are going to do something and when we are going to do it. This may not seem like it would be very effective, but on a psychological level we feel more compelled to do something if we tell someone else. It may be related to our need for approval from others, or it might just serve to set a level of commitment. Either way, it can help us stay on task and avoid procrastination—especially if we take our accountability to another person seriously enough to warrant contacting that person and apologizing for not doing what we said we were going to do.</p>
-    </subsection>
-  </subsection>
-  <conclusion>
-    <p>Original OpenStax book is available for free at <c/>, and is distributed with a  license.</p>
-    <p/>
-  </conclusion>
+    </paragraphs>
+  </paragraphs>
 
-  <introduction>
-    <table xml:id="m00009-ch02tab05">
-      <caption>[[CAPTION]]</caption>
-      <tabular>
-        <row>
-          <cell>Estimated completion time: 25 minutes.</cell>
-        </row>
-      </tabular>
-    </table>
-    <p>
-      <em>Questions to Consider:</em>
-    </p>
-    <p>
-      <ul xml:id="m00009-list-00001">
-        <li>
-          <p>How can I use time-on-task estimates to improve time management?</p>
-        </li>
-        <li>
-          <p>What behaviors can help or hinder when it comes to managing time?</p>
-        </li>
-      </ul>
-    </p>
-    <p>In this next section you will learn about managing time and prioritizing tasks. This is not only a valuable skill for pursuing an education, but it can become an ability that follows you through the rest of your life, especially if your career takes you into a leadership role.</p>
-    <figure xml:id="ch02fig04">
-      <caption>An online calendar is a very useful tool for keeping track of classes, meetings, and other events. Most learning management systems contain these features, or you can use a calendar application.</caption>
-      <image width="100%" source="../m00009/../../media/CS_Figure_03_02_001.jpg">
-        <description>A student's work calendar shows to-dos on a particular week from 7 A M to 8 P M, at standard time G M T 0 4.</description>
-      </image>
-    </figure>
-    <p>[[NOTE]]</p>
-  </introduction>
-  <subsection xml:id="m00009-sect-00001">
+
+  <paragraphs>
     <title>How to Manage Time</title>
     <p>The simplest way to manage your time is to accurately plan for how much time it will take to do each task, and then set aside that amount of time. How you divide the time is up to you. If it is going to take you five hours to study for a final exam, you can plan to spread it over five days, with an hour each night, or you can plan on two hours one night and three hours the next. What you would not want to do is plan on studying only a few hours the night before the exam and find that you fell very short on the time you estimated you would need. If that were to happen, you would have run out of time before finishing, with no way to go back and change your decision. In this kind of situation, you might even be tempted to “pull an all-nighter,” which is a phrase that has been used among college students for decades. In essence it means going without sleep for the entire night and using that time to finish an assignment. While this method of trying to make up for poor planning is common enough to have a name, rarely does it produce the best work.</p>
-    <p>[[NOTE]]</p>
+    <!-- <p>[[NOTE]]</p> -->
     <p>Of all the parts of time management, accurately predicting how long a task will take is usually the most difficult—and the most elusive. Part of the problem comes from the fact that most of us are not very accurate timekeepers, especially when we are busy applying ourselves to a task. The other issue that makes it so difficult to accurately estimate time on task is that our estimations must also account for things like interruptions or unforeseen problems that cause delays.</p>
     <p>When it comes to academic activities, many tasks can be dependent upon the completion of other things first, or the time a task takes can vary from one instance to another, both of which add to the complexity and difficulty of estimating how much time and effort are required.</p>
     <p>For example, if an instructor assigned three chapters of reading, you would not really have any idea how long each chapter might take to read until you looked at them. The first chapter might be 30 pages long while the second is 45. The third chapter could be only 20 pages but made up mostly of charts and graphs for you to compare. By page count, it might seem that the third chapter would take the least amount of time, but actually studying charts and graphs to gather information can take longer than regular reading.</p>
     <p>To make matters even more difficult, when it comes to estimating time on task for something as common as reading, not all reading takes the same amount of time. Fiction, for example, is usually a faster read than a technical manual. But something like the novel <em>Finnegan’s Wake</em> by James Joyce is considered so difficult that most readers never finish it.</p>
-    <p>[[NOTE]]</p>
-  </subsection>
-  <subsection xml:id="m00009-sect-00002">
+    <!-- <p>[[NOTE]]</p> -->
+  </paragraphs>
+  <paragraphs>
     <title>Knowing Yourself</title>
     <p>While you can find all sorts of estimates online as to how long a certain task may take, it is important to know these are only averages. People read at different speeds, people write at different speeds, and those numbers even change for each individual depending on the environment.</p>
     <p>If you are trying to read in surroundings that have distractions (e.g., conversations, phone calls, etc.), reading 10 pages can take you a lot longer than if you are reading in a quiet area. By the same token, you may be reading in a quiet environment (e.g., in bed after everyone in the house has gone to sleep), but if you are tired, your attention and retention may not be what it would be if you were refreshed.</p>
@@ -410,88 +321,45 @@
     </table>
     <p>Again, these are averages, and it does not mean anything if your times are a little slower or a little faster. There is no “right amount of time,” only the time that it takes you to do something so you can accurately plan and manage your time.</p>
     <p>There is also another element to look for in the table. These are differentiations in the similar activities that will also affect the time you spend. A good example of this can be found in the first four rows. Each of these activities involves reading, but you can see that depending on the material being read and its complexity, the time spent can vary greatly. Not only do these differences in time account for the different types of materials you might read (as you found in the comparative reading exercise earlier in this chapter), but also they also take into consideration the time needed to think about what you are reading to truly understand and comprehend what it is saying.</p>
-    <p>[[NOTE]]</p>
-  </subsection>
-  <conclusion>
-    <p>Original OpenStax book is available for free at <c/>, and is distributed with a  license.</p>
-    <p/>
-  </conclusion>
+    <!-- <p>[[NOTE]]</p> -->
+  </paragraphs>
+ 
 
-  <introduction>
-    <table xml:id="m00010-ch02tab09">
-      <caption>[[CAPTION]]</caption>
-      <tabular>
-        <row>
-          <cell>Estimated completion time: 21 minutes.</cell>
-        </row>
-      </tabular>
-    </table>
-    <figure xml:id="ch02fig05">
-      <caption>Numbered lists are useful and easy tools to create.</caption>
-      <image width="100%" source="../m00010/../../media/CS_Figure_03_07_001.png">
-        <description>A sticky note shows a student’s checklist and to-dos.</description>
-      </image>
-    </figure>
-    <p>
-      <em>Questions to Consider:</em>
-    </p>
-    <p>
-      <ul xml:id="m00010-list-00001">
-        <li>
-          <p>Why is prioritization important?</p>
-        </li>
-        <li>
-          <p>What are the steps involved in prioritization?</p>
-        </li>
-        <li>
-          <p>How do I deal with situations where others’ priorities are not the same as my own?</p>
-        </li>
-        <li>
-          <p>What do I do when priorities conflict?</p>
-        </li>
-        <li>
-          <p>What are the best ways to make sure I complete tasks?</p>
-        </li>
-      </ul>
-    </p>
-    <p>Another key component in time management is that of prioritization. Prioritization can be thought of as ordering tasks and allotting time for them based on their identified needs or value.</p>
-    <p>This next section provides some insight into not only helping prioritize tasks and actions based on need and value, but also how to better understand the factors that contribute to prioritization.</p>
-  </introduction>
-  <subsection xml:id="m00010-sect-00001">
+  <paragraphs>
     <title>How to Prioritize</title>
     <p>The enemy of good prioritization is panic, or at least making decisions based on strictly emotional reactions. It can be all too easy to immediately respond to a problem as soon as it pops up without thinking of the consequences of your reaction and how it might impact other priorities. It is very natural for us to want to remove a stressful situation as soon as we can. We want the adverse emotions out of the way as quickly as possible. But when it comes to juggling multiple problems or tasks to complete, prioritizing them first may mean the difference between completing everything satisfactorily and completing nothing at all.</p>
-    <subsection xml:id="m00010-sect-00002">
+    <paragraphs>
       <title>Make Certain You Understand the Requirements of Each Task</title>
       <p>One of the best ways to make good decisions about the prioritization of tasks is to understand the requirements of each. If you have multiple assignments to complete and you assume one of those assignments will only take an hour, you may decide to put it off until the others are finished. Your assumption could be disastrous if you find, once you begin the assignment, that there are several extra components that you did not account for and the time to complete will be four times as long as you estimated. Or, one of the assignments may be dependent on the results of another—like participating in a study and then writing a report on the results. If you are not aware that one assignment depends upon the completion of the other before you begin, you could inadvertently do the assignments out of order and have to start over. Because of situations like this, it is critically important to understand exactly what needs to be done to complete a task before you determine its priority.</p>
-    </subsection>
-    <subsection xml:id="m00010-sect-00003">
+    </paragraphs>
+    <paragraphs>
       <title>Make Decisions on Importance, Impact on Other Priorities, and Urgency</title>
       <p>After you are aware of the requirements for each task, you can then decide your priorities based on the importance of the task and what things need to be finished in which order.</p>
       <p>To summarize: <em>the key components to prioritization are making certain you understand each task and making decisions based on importance, impact, and urgency.</em></p>
-      <p>[[NOTE]]</p>
-    </subsection>
-  </subsection>
-  <subsection xml:id="m00010-sect-00004">
+      <!-- <p>[[NOTE]]</p> -->
+    </paragraphs>
+  </paragraphs>
+  <paragraphs>
     <title>Who Is Driving Your Tasks?</title>
     <p>Another thing to keep in mind when approaching time management is that while you may have greater autonomy in managing your own time, many of your tasks are being driven by a number of different individuals. These individuals are not only unaware of the other things you need to do, but they often also have goals that are in conflict with your other tasks. This means that different instructors, your manager at work, or even your friends may be trying to assert their needs into your priorities. An example of this might be a boss who would like for you to work a few hours of overtime, but you were planning on using that time to do research for a paper.</p>
     <p>Just like assessing the requirements and needs for each priority, doing the same with how others may be influencing your available time can be an important part of time management. In some cases, keeping others informed about your priorities may help avert possible conflicts (e.g., letting your boss know you will need time on a certain evening to study, letting your friends know you plan to do a journal project on Saturday but can do something on Sunday, etc.).</p>
     <p>It will be important to be aware of how others can drive your priorities and for you to listen to your own good judgment. In essence, time management in college is as much about managing all the elements of your life as it is about managing time for class and to complete assignments.</p>
-  </subsection>
-  <subsection xml:id="m00010-sect-00005">
+  </paragraphs>
+  <paragraphs>
     <title>Making the Tough Decision When It Is Needed</title>
     <p>Occasionally, regardless of how much you have planned or how well you have managed your time, events arise where it becomes almost impossible to accomplish everything you need to by the time required. While this is very unfortunate, it simply cannot be helped. As the saying goes, “things happen.”</p>
     <p>Finding yourself in this kind of situation is when prioritization becomes most important. You may find yourself in the uncomfortable position of only being able to complete one task or another in the time given. When this occurs with college assignments, the dilemma can be extremely stressful, but it is important to not feel overwhelmed by the anxiety of the situation so that you can make a carefully calculated decision based on the value and impact of your choice.</p>
-    <subsection xml:id="m00010-sect-00005a">
+    <paragraphs>
       <title>What Do You Do When Faced with Priority Conflicts?</title>
       <p>As an illustration, imagine a situation where you think you can only complete one of two assignments that are both important and urgent, and you must make a choice of which one you will finish and which one you will not. This is when it becomes critical to understand all the factors involved. While it may seem that whichever assignment is worth the most points to your grade is how you make the choice, there are actually a number of other attributes that can influence your decision in order to make the most of a bad situation. For example, one of the assignments may only be worth a minimal number of points toward your total grade, but it may be foundational to the rest of the course. Not finishing it, or finishing it late, may put other future assignments in jeopardy as well. Or the instructor for one of the courses might have a “late assignment” policy that is more forgiving—something that would allow you to turn in the work a little late without too much of a penalty.</p>
       <p>If you find yourself in a similar predicament, the first step is to try to find a way to get everything finished, regardless of the challenges. If that simply cannot happen, the next immediate step would be to communicate with your instructors to let them know about the situation. They may be able to help you decide on a course of action, or they may have options you had not thought of. Only then can you make the choices about prioritizing in a tough situation.</p>
       <p>The key here is to make certain you are aware of and understand all the ramifications to help make the best decision when the situation dictates you make a hard choice among priorities.</p>
-    </subsection>
-  </subsection>
-  <subsection xml:id="m00010-sect-00006">
+    </paragraphs>
+  </paragraphs>
+  <paragraphs>
     <title>Completing the Tasks</title>
     <p>Another important part of time management is to develop approaches that will help you complete tasks in a manner that is efficient and works for you. Most of this comes down to a little planning and being as informed about the specifics of each task as you can be.</p>
-    <subsection xml:id="m00010-sect-00007">
+    <paragraphs>
       <title>Knowing What You Need to Do</title>
       <p>As discussed in previous parts of this chapter, many learning activities have multiple components, and sometimes they must occur in a specific order. Additionally, some elements may not only be dependent on the order they are completed, but can also be dependent on how they are completed. To illustrate this we will analyze a task that is usually considered to be a simple one: <em>attending a class session.</em> In this analysis we will look at not only what must be accomplished to get the most out of the experience, but also at how each element is dependent upon others and must be done in a specific order. The <xref ref="m00010-ch02fig07"/> below shows the interrelationship between the different activities, many of which might not initially seem significant enough to warrant mention, but it becomes obvious that other elements depend upon them when they are listed out this way.</p>
       <figure xml:id="ch02fig07">
@@ -502,14 +370,14 @@
       </figure>
       <p>As you can see from the graphic above, even a task as simple as “going to class” can be broken down into a number of different elements that have a good deal of dependency on other tasks. One example of this is preparing for the class lecture by reading materials ahead of time in order to make the lecture and any complex concepts easier to follow. If you did it the other way around, you might miss opportunities to ask questions or receive clarification on the information presented during the lecture.</p>
       <p>Understanding what you need to do and when you need to do it can be applied to any task, no matter how simple or how complex. Knowing what you need to do and planning for it can go a long way toward success and preventing unpleasant surprises.</p>
-    </subsection>
-    <subsection xml:id="m00010-sect-00008">
+    </paragraphs>
+    <paragraphs>
       <title>Knowing How You Will Get It Done</title>
       <p>After you have a clear understanding of what needs to be done to complete a task (or the component parts of a task), the next step is to create a plan for completing everything.</p>
       <p>This may not be as easy or as simple as declaring that you will finish part one, then move on to part two, and so on. Each component may need different resources or skills to complete, and it is in your best interest to identify those ahead of time and include them as part of your plan.</p>
       <p>A good analogy for this sort of planning is to think about it in much the same way you would preparing for a lengthy trip. With a long journey you probably would not walk out the front door and then decide how you were going to get where you were going. There are too many other decisions to be made and tasks to be completed around each choice. If you decided you were going by plane, you would need to purchase tickets, and you would have to schedule your trip around flight times. If you decided to go by car, you would need gas money and possibly a map or GPS device. What about clothes? The clothes you will need are dependent on how long you will be gone and what the climate will be like. If it is far enough away that you will need to speak another language, you may need to either acquire that skill or at least come with something or someone to help you translate.</p>
       <p>What follows is a planning list that can help you think about and prepare for the tasks you are about to begin.</p>
-      <subsection xml:id="m00010-sect-00009">
+      <paragraphs>
         <title>What Resources Will You Need?</title>
         <p>The first part of this list may appear to be so obvious that it should go without mention, but it is by far one of the most critical and one of the most overlooked. Have you ever planned a trip but forgotten your most comfortable pair of shoes or neglected to book a hotel room? If a missing resource is important, the entire project can come to a complete halt. Even if the missing resource is a minor component, it may still dramatically alter the end result.</p>
         <p>Learning activities are much the same in this way, and it is also important to keep in mind that resources may not be limited to physical objects such as paper or ink. Information can be a critical resource as well. In fact, one of the most often overlooked aspects in planning by new college students is just how much research, reading, and information they will need to complete assignments.</p>
@@ -520,28 +388,28 @@
           </image>
         </figure>
         <p>For example, if you had an assignment in which you were supposed to compare and contrast a novel with a film adapted from that novel, it would be important to have access to both the movie and the book as resources. Your plans for completing the work could quickly fall apart if you learned that on the evening you planned to watch the film, it was no longer available.</p>
-      </subsection>
-      <subsection xml:id="m00010-sect-00010">
+      </paragraphs>
+      <paragraphs>
         <title>What Skills Will You Need?</title>
         <p>Poor planning or a bad assumption in this area can be disastrous, especially if some part of the task has a steep learning curve. No matter how well you planned the other parts of the project, if there is some skill needed that you do not have and you have no idea how long it will take to learn, it can be a bad situation.</p>
         <p>Imagine a scenario where one of your class projects is to create a poster. It is your intent to use some kind of imaging software to produce professional-looking graphics and charts for the poster, but you have never used the software in that way before. It seems easy enough, but once you begin, you find the charts keep printing out in the wrong resolution. You search online for a solution, but the only thing you can find requires you to recreate them all over again in a different setting. Unfortunately, that part of the project will now take twice as long.</p>
         <p>It can be extremely difficult to recover from a situation like that, and it could have been prevented by taking the time to learn how to do it correctly before you began or by at least including in your schedule some time to learn and practice.</p>
-      </subsection>
-      <subsection xml:id="m00010-sect-00011">
+      </paragraphs>
+      <paragraphs>
         <title>What Deadlines Will You Create?</title>
         <p>Of course, the best way to approach time management is to set realistic deadlines that take into account which elements are dependent on which others and the order in which they should be completed. Giving yourself two days to write a 20- page work of fiction is not very realistic when even many professional authors average only 6 pages per day. Your intentions may be well founded, but your use of unrealistic deadlines will not be very successful.</p>
         <p>Setting appropriate deadlines and sticking to them is very important—so much so that several sections in the rest of this chapter touch on effective deadline practices.</p>
-      </subsection>
-      <subsection xml:id="m00010-sect-00012">
+      </paragraphs>
+      <paragraphs>
         <title>How Will You Be Flexible?</title>
         <p>It is ironic that the item on this list that comes just after a strong encouragement to make deadlines and stick to them is the suggestion to be flexible. The reason that <em>being flexible</em> has made this list is because even the best-laid plans and most accurate time management efforts can take an unexpected turn. The idea behind being flexible is to readjust your plans and deadlines when something does happen to throw things off. The worst thing you could do in such a situation is panic or just stop working because the next step in your careful planning has suddenly become a roadblock. The moment when you see that something in your plan may become an issue is when to begin readjusting your plan.</p>
         <p>Adjusting a plan along the way is incredibly common. In fact, many professional project managers have learned that it seems something <em>always</em> happens or there is always some delay, and they have developed an approach to deal with the inevitable need for some flexibility. In essence, you could say that they are even planning for problems, mistakes, or delays from the very beginning, and they will often add a little extra time for each task to help ensure an issue does not derail the entire project or that the completion of the project does not miss the final due date.</p>
         <p>
           <em>“As you work through tasks, make certain you are always monitoring and adapting to ensure you complete them.”</em>
         </p>
-      </subsection>
-    </subsection>
-    <subsection xml:id="m00010-sect-00013">
+      </paragraphs>
+    </paragraphs>
+    <paragraphs>
       <title>The Importance of Where You Do Your Work</title>
       <figure xml:id="ch02fig09">
         <caption>Where you do work can be as important as when. While not everyone has a study nook, it’s worth taking the time to find a place or a space where you can be comfortable and focused. (Credit: IMCBerea College r / Flickr / Attribution 2.0 Generic (CC BY 2.0))</caption>
@@ -550,70 +418,35 @@
         </image>
       </figure>
       <p>A large part of ensuring that you can complete tasks on time comes to setting up conditions that will allow you to do the work well. Much of this has to do with the environment where you will do your work. This not only includes physical space such as a work area, but other conditions like being free from distractions and your physical well-being and mental attitude.</p>
-      <subsection xml:id="m00010-sect-00014">
+      <paragraphs>
         <title>What Space Will You Use?</title>
         <p>Simple things, like where you are set up to do your work, can not only aid in your efficiency but also affect how well you can work or even if you can get the work completed at all. One example of this might be typing on a laptop. While it might seem more comfortable to lie back on a couch and type a long paper, sitting up at a desk or table actually increases your typing speed and reduces the number of mistakes. Even the kind of mouse you use can impact how you work, and using one you are comfortable with can make a big difference.</p>
         <p>There are a host of other factors that can come into play as well. Do you have enough space? Is the space cluttered, or do you have the room to keep reference materials and other things you might need within arm’s reach? Are there other ways you could work that might be even more efficient? For example, buying an inexpensive second monitor—even secondhand—might be the key to decreasing the amount of time you spend when you can have more than one document displayed at a time.</p>
         <p>The key is to find what works for you and to treat your work space as another important resource needed to get the task finished.</p>
-      </subsection>
-      <subsection xml:id="m00010-sect-00015">
+      </paragraphs>
+      <paragraphs>
         <title>How Will You Eliminate Distractions?</title>
         <p>Few things are more frustrating than trying to do work while distractions are going on around you. If other people are continually interrupting you or there are things that keep pulling your attention from the task at hand, everything takes longer and you are more prone to mistakes.https://en.calameo.com/read/00009178915b8f5b352ba</p>
         <p>Many people say they work better with distractions—they prefer to leave the television or the radio on—but the truth is that an environment with too many interruptions is rarely helpful when focus is required. Before deciding that the television or talkative roommates do not bother you when you work, take an honest accounting of the work you produce with interruptions compared to work you do without.</p>
         <p>If you find that your work is better without distractions, it is a good idea to create an environment that reduces interruptions. This may mean you have to go to a private room, use headphones, or go somewhere like a library to work. Regardless, the importance of a distraction-free environment cannot be emphasized enough.</p>
-      </subsection>
-      <subsection xml:id="m00010-sect-00016">
+      </paragraphs>
+      <paragraphs>
         <title>What Are the Best Times for You to Work?</title>
         <p>Most people are subject to their own rhythms, cycles, and preferences throughout their day. Some are alert and energetic in the mornings, while others are considered “night owls” and prefer to work after everyone else has gone to sleep. It can be important to be aware of your own cycles and to use them to your advantage. Rarely does anyone do their best work when they are exhausted, either physically or mentally. Just as it can be difficult to work when you are physically ill, it can also be a hindrance to try to learn or do mental work when you are tired or emotionally upset.</p>
         <p>Your working environment definitely includes your own state of mind and physical well-being. Both have a significant influence on your learning and production ability. Because of this, it is not only important to be aware of your own condition and work preferences, but to actually try to create conditions that help you in these areas. One approach is to set aside a specific time to do certain kinds of work. You might find that you concentrate better after you have eaten a meal. If that is the case, make it a habit of doing homework every night after dinner. Or you might enjoy reading more after you are ready for bed, so you do your reading assignments just before you go to sleep at night. Some people find that they are more creative during a certain time of the day or that they are more comfortable writing with subtle lighting. It is worth taking the time to find the conditions that work best for you so that you can take advantage of them.</p>
-      </subsection>
-    </subsection>
-  </subsection>
-  <conclusion>
-    <p>Original OpenStax book is available for free at <c/>, and is distributed with a  license.</p>
-    <p/>
-  </conclusion>
+      </paragraphs>
+    </paragraphs>
+  </paragraphs>
+ 
 
-  <introduction>
-    <table xml:id="m00011-ch02tab10">
-      <caption>[[CAPTION]]</caption>
-      <tabular>
-        <row>
-          <cell>Estimated completion time: 18 minutes.</cell>
-        </row>
-      </tabular>
-    </table>
-    <p>
-      <em>Questions to Consider:</em>
-    </p>
-    <p>
-      <ul xml:id="m00011-list-00001">
-        <li>
-          <p>What strategy helps me prioritize my top tasks?</p>
-        </li>
-        <li>
-          <p>How do I make the best use of my time when prioritizing?</p>
-        </li>
-        <li>
-          <p>How do I make sure I tackle unpleasant tasks instead of putting them off?</p>
-        </li>
-        <li>
-          <p>What’s the best way to plan for long-term tasks?</p>
-        </li>
-        <li>
-          <p>How do I find time in a busy schedule?</p>
-        </li>
-      </ul>
-    </p>
-    <p>Over the years, people have developed a number of different strategies to manage time and tasks. Some of the strategies have proven to be effective and helpful, while others have been deemed not as useful.</p>
-    <p>The good news is that the approaches that do not work very well or do not really help in managing time do not get passed along very often. But others, those which people find of value, do. What follows here are three unique strategies that have become staples of time management. While not everyone will find that all three work for them in every situation, enough people have found them beneficial to pass them along with high recommendations.</p>
-  </introduction>
-  <subsection xml:id="m00011-sect-00001">
+  
+      
+  <paragraphs>
     <title>Daily Top Three</title>
     <p>The idea behind the <em>daily top three</em> approach is that you determine which three things are the most important to finish that day, and these become the tasks that you complete. It is a very simple technique that is effective because each day you are finishing tasks and removing them from your list. Even if you took one day off a week and completed no tasks on that particular day, a <em>daily top three</em> strategy would have you finishing 18 tasks in the course of a single week. That is a good amount of things crossed off your list.</p>
     <p>[[NOTE]]</p>
-  </subsection>
-  <subsection xml:id="m00011-sect-00002">
+  </paragraphs>
+  <paragraphs>
     <title>Pomodoro Technique</title>
     <figure xml:id="ch02fig10">
       <caption>The Pomodoro Technique is named after a type of kitchen timer, but you can use any clock or countdown timer. (Marco Verch /Flickr / Attribution 2.0 Generic (CC BY 2.0))</caption>
@@ -652,15 +485,15 @@
       </image>
     </figure>
     <p>There are several reasons this technique is deemed effective for many people. One is the benefit that is derived from quick cycles of work and short breaks. This helps reduce mental fatigue and the lack of productivity caused by it. Another is that it tends to encourage practitioners to break tasks down to things that can be completed in about 25 minutes, which is something that is usually manageable from the perspective of time available. It is much easier to squeeze in three 25-minute sessions of work time during the day than it is to set aside a 75- minute block of time.</p>
-  </subsection>
-  <subsection xml:id="m00011-sect-00003">
+  </paragraphs>
+  <paragraphs>
     <title>Eat the Frog</title>
     <p>Of our three quick strategies, <em>eat the frog</em> probably has the strangest name and may not sound the most inviting. The name comes from a famous quote, attributed to Mark Twain: “Eat a live frog first thing in the morning and nothing worse will happen to you the rest of the day.” <em>Eat the Frog</em> is also the title of a best- selling book by Brian Tracy that deals with time management and avoiding procrastination.</p>
     <p>How this applies to time and task management is based on the concept that if a person takes care of the biggest or most unpleasant task first, everything else will be easier after that.</p>
     <p>Although stated in a humorous way, there is a good deal of truth in this. First, we greatly underestimate how much worry can impact our performance. If you are continually distracted by anxiety over a task you are dreading, it can affect the task you are working on at the time. Second, not only will you have a sense of accomplishment and relief when the task you are concerned with is finished and out of the way, but other tasks will seem lighter and not as difficult.</p>
-    <p>[[NOTE]]</p>
-  </subsection>
-  <subsection xml:id="m00011-sect-00004">
+    <!-- <p>[[NOTE]]</p> -->
+  </paragraphs>
+  <paragraphs>
     <title>Breaking Down the Steps and Spreading Them Over Shorter Work Periods</title>
     <p>Above, you read about several different tried-and-tested strategies for effective time management—approaches that have become staples in the professional world. In this section you will read about two more creative techniques that combine elements from these other methods to handle tasks when time is scarce and long periods of time are a luxury you just do not have.</p>
     <p>The concept behind this strategy is to break tasks into smaller, more manageable units that do not require as much time to complete. As an illustration of how this might work, imagine that you are assigned a two-page paper that is to include references. You estimate that to complete the paper—start to finish—would take you between four and a half and five hours. You look at your calendar over the next week and see that there simply are no open five-hour blocks (unless you decided to only get three hours of sleep one night). Rightly so, you decide that going without sleep is not a good option. While looking at your calendar, you do see that you can squeeze in an hour or so every night. Instead of trying to write the entire paper in one sitting, you break it up into much smaller components and schedule them over the week as shown in the two tables below:</p>
@@ -797,14 +630,14 @@
       </tabular>
     </table>
     <p>While this is a simple example, you can see how it would redistribute tasks to fit your available time in a way that would make completing the paper possible. In fact, if your time constraints were even more rigid, it would be possible to break these divided tasks down even further. You could use a variation of the Pomodoro Technique and write for three 25-minute segments each day at different times. The key is to look for ways to break down the entire task into smaller steps and spread them out to fit your schedule.</p>
-    <p>[[NOTE]]</p>
-  </subsection>
-  <subsection xml:id="m00011-sect-00006">
+    <!-- <p>[[NOTE]]</p> -->
+  </paragraphs>
+  <paragraphs>
     <title>Friends &amp; Family Matter</title>
     <p>JT has worked many different jobs over the past few years to cover his living expenses and save up for college. Because he didn’t earn a scholarship and doesn’t want to take out loans, he knows he needs to continue to work to pay for school. In fact, JT has calculated how much he needs to earn each month to graduate on time. He doesn’t have much wiggle room—a few missed hours a week, and he will struggle to pay all his bills.</p>
     <p>At the beginning of the semester, JT has picked up extra shifts. In addition to wanting to earn extra money,  he also has a hard time saying no even when he could use that time to study. His boss really values JT’s work ethic and has started expecting that JT will fill in whenever his co-workers ask for time off or, in some cases, just don’t show up. And JT feels that going the extra mile will help him get a promotion and raise, which would allow him to earn more without working more.</p>
     <p>In a few weeks, JT has several group projects and comprehensive exams coming up. This is also the busiest season at work and their boss sent a message to all the staff that they cannot ask for time off. JT is already concerned that he will be scheduled to work overtime, and won’t have much flexibility. JT is already stressed about getting all his work done and meeting his boss’s needs for covering shifts.</p>
-    <subsection xml:id="m00011-sect-00007">
+    <paragraphs>
       <title>Let’s Think About It</title>
       <p>JT has several options. Think through the consequences of each one, and choose the best option or create your own option.</p>
       <p>
@@ -820,8 +653,8 @@
           </li>
         </ul>
       </p>
-    </subsection>
-    <subsection xml:id="m00011-sect-00008">
+    </paragraphs>
+    <paragraphs>
       <title>Let’s Talk About It</title>
       <p>JT’s dilemma is common for students who must work while in college. You may also experience a situation when you have two very important responsibilities that conflict with one another. Here are some suggestions for communicating with others about the dilemma that JT is facing:</p>
       <p>
@@ -837,32 +670,9 @@
           </li>
         </ul>
       </p>
-    </subsection>
+    </paragraphs>
     <p>Whatever choice you would make in this situation, it is always best to communicate clearly your needs, your concerns, and even your uncertainties.</p>
-  </subsection>
-  <subsection xml:id="m00011-sect-00005">
-    <title>Summary and Next Steps for College Success</title>
-    <p>This chapter began by presenting why time management is important. Then, sections of the text covered how time management for college can be different from what students may have experienced before. Following this, the chapter contained several sections on how to effectively manage time (including predicting time on task), how to use technology to your advantage, and how to prioritize tasks. Other topics included specific strategies for time and task management and avoiding procrastination.</p>
-    <p>Refining your time management skills based on an honest assessment is something that should never stop. The benefits of good time management skills are something that will apply to the rest of your life, and you will no doubt be working on improving those skills for years to come. Now that you have read and reflected on the main ideas of the chapter, consider developing a plan to help you achieve college success by considering what you want to know more about that could help you. Review the list below and commit to working on one or more of the concepts this term and beyond:</p>
-    <p>
-      <ul xml:id="m00011-list-00003">
-        <li>
-          <p>Develop better self-awareness about the psychological reasons for procrastinating and create a plan to reduce your procrastination.</p>
-        </li>
-        <li>
-          <p>Learn to predict accurately the time needed to complete tasks in college.</p>
-        </li>
-        <li>
-          <p>Eliminate technology and social media as distractions by setting specific times of the day you will engage in them.</p>
-        </li>
-        <li>
-          <p>Try out additional time management strategies to supplement what you already do. Choose one to use this week and reflect on what worked or not and why.</p>
-        </li>
-      </ul>
-    </p>
-  </subsection>
-  <conclusion>
-    <p>Original OpenStax book is available for free at <c/>, and is distributed with a  license.</p>
-    <p/>
-  </conclusion>
+  </paragraphs>
+
+
 </section>
