@@ -65,7 +65,7 @@
     <table xml:id="m00007-ch02tab02">
       <caption>[[CAPTION]]</caption>
       <tabular>
-        <col width="20%"/><col width="40%"/><col width="40%"/>
+        <col width="50%"/><col width="50%"/>
         <row bottom="major">
           <cell>
             <em>K-12</em>
