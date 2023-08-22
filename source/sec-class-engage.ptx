@@ -7,18 +7,7 @@
 <paragraphs>
 
   <title>Working in Groups</title>
-    <table xml:id="m00026-table-00001">
-      <caption>[[CAPTION]]</caption>
-      <tabular>
-        <row>
-          <cell>Estimated completion time: 18 minutes.</cell>
-        </row>
-      </tabular>
-    </table>
-    <p>
-      <em>Questions to Consider:</em>
-    </p>
-    <p>
+    <objectives>
       <ul xml:id="m00026-list-00001">
         <li>
           <p>What are the benefits of working in groups?</p>
@@ -27,7 +16,7 @@
           <p>What can I do to work effectively in a group?</p>
         </li>
       </ul>
-    </p>
+    </objectives>
   </paragraphs>
   <paragraphs>
     <title>Benefits of Working in Groups</title>
