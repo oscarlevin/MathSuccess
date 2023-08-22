@@ -87,7 +87,123 @@
       <mrow>2x \amp =7-3 </mrow>
     </md>
   </p>
+  <p>
+    Note: the &amp; symbol tells latex to align the next symbol with the previous &amp; symbols. The two backslashes at the end of a line tell latex to end that line and start a new one.
+  </p>
 </paragraphs>
+<paragraphs>
+  <title>Commonly Used Symbols and Codes</title>
+    <!-- \begin{center} -->
+    <!-- \begin{tabular}{ cc|c }
+     {\bf Symbol} & {\bf Meaning} & {\bf Latex Code} \\
+     \hline
+     $\forall$ & for all & \verb!\forall! \\ 
+     $\exists$ & there exists & \verb!\exists! \\
+     $\epsilon$ & ex. lowercase greek letter & \verb!\epsilon! \\ 
+     $\Sigma$ & ex. uppercase greek letter & \verb!\Sigma! \\
+     $\ne$ & not equal & \verb!\ne! \\ 
+     $\ge$ & greater than or equal to & \verb!\ge! \\ 
+     $\le$ & less than or equal to & \verb!\le! \\ 
+     $\subset$ & proper subset & \verb!\subset! \\ 
+     $\subseteq$ & subset & \verb!\subseteq! \\
+     $\in$ & in & \verb!\in! \\
+     $\notin$ & not in & \verb!\notin! \\
+     $\cdot$ & multiplication & \verb!\cdot! \\
+     $\cdots$ & centered elipsis & \verb!\cdots! \\
+     $\vdots$ & vertical elipsis & \verb!\vdots! \\
+     $\int$ & integral & \verb!\int!\\
+     $\infty$ & infinity & \verb!\infty!\\
+     $\frac{x+7}{3}$ & fraction example & \verb!\frac{x+7}{3}!\\
+     $\mathbb{R}$ & The Real Numbers & \verb!\mathbb{R}!\\
+     $\mathbb{Q}$ & The Rational Numbers & \verb!\mathbb{Q}!\\
+     $\mathbb{Z}$ & The Integers & \verb!\mathbb{Q}!\\
+     $\mathbb{N}$ & The Natural Numbers & \verb!\mathbb{N}!\\
+     $\sum_{x=0}^{\infty}$ & Sum w/ limits inline & \verb!\Sigma_x=0^{\infty}! \\
+     $\sum\limits_{x=0}^{\infty}$ & Sum w/ limits above/below& \verb!\Sigma\limits_x=0^{\infty}! \\
+    \end{tabular}
+    \end{center} -->
+    
+</paragraphs>
+<paragraphs>
+  <title>Troubleshooting</title>
+  <p>
+    If your code won't compile:
+  </p>
+  <ul>
+    <li>
+      <p>
+        If you are using overleaf, it will help you find errors in your code
+      </p>
+      <p>
+        Make sure commands use a backslash [\] rather than a forward slash [/]
+      </p>
+      <p>
+        You may be missing a dollar sign
+      </p>
+      <p>
+        Check your spelling on commands [ie. \epslion rather than \epsilon]
+      </p>
+      <p>
+        You may be missing a starting or ending bracket <m>\{\textrm{or}\}</m>
+      </p>
+      <p>
+        If you have a \begin command, you need an \end command
+      </p>
+      <p>
+        remove spaces beween lines if you are in an itemize/list/align environment
+      </p>
+    </li>
+  </ul>
+  <p>
+    If you don't know the code for a particular symbol/object/format:
+  </p>
+    <ul>
+      <li>
+        <p>
+          If you don't know a symbol or how to format something - google it. "how to write a matrix in latex" etc.
+        </p>
+      </li>
+      <li>
+        <p>
+          You can copy/paste others code
+        </p>
+        <p>
+          If code you find online wont run - look at their preamble information to see if they used a package you have not included
+        </p>
+      </li>
+    </ul>
+    <p>
+      Ask for help if you can't figure something out!
+    </p>
+  
+</paragraphs>
+<paragraphs>
+  <title>Other Useful Stuff</title>
+  <p>
+    For finding symbol codes:
+  </p>
+  <p>
+    Detexify can help if you don't know the code for a particular symbol https://detexify.kirelabls.org/classify.html 
+  </p>
+  <p>
+    For inserting images:
+    <!-- \noindent\verb!\begin{center}!\\
+\verb!\includegraphics[width=##units]{nameofimagefile.png}!\\
+\verb!\captionof{figure}{caption}!\\
+\verb!\end{center}! -->
+  </p>
+  <p>
+    For coding matrices:
+  </p>
+  <p>
+    <!-- \noindent \verb!\begin{bmatrix}!\\
+\verb!1 & 2 & 3\\!\\
+\verb!a & b & c!\\
+\verb!\end{bmatrix}! -->
+  </p>
+  
+</paragraphs>
+
   
 
 </section>
