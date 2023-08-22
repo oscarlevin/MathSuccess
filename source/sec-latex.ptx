@@ -134,21 +134,33 @@
       <p>
         If you are using overleaf, it will help you find errors in your code
       </p>
+      <\li>
+      <li>
       <p>
         Make sure commands use a backslash [\] rather than a forward slash [/]
       </p>
+    </li>
+    <li>
       <p>
         You may be missing a dollar sign
       </p>
+    </li>
+    <li>
       <p>
         Check your spelling on commands [ie. \epslion rather than \epsilon]
       </p>
+    </li>
+    <li>
       <p>
         You may be missing a starting or ending bracket <m>\{\textrm{or}\}</m>
       </p>
+    </li>
+    <li>
       <p>
         If you have a \begin command, you need an \end command
       </p>
+    </li>
+    <li>
       <p>
         remove spaces beween lines if you are in an itemize/list/align environment
       </p>
@@ -167,6 +179,8 @@
         <p>
           You can copy/paste others code
         </p>
+      </li>
+        <li>
         <p>
           If code you find online wont run - look at their preamble information to see if they used a package you have not included
         </p>
