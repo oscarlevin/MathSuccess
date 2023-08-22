@@ -3,10 +3,49 @@
 <section xml:id="sec-latex" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Latex - Typing Mathematics</title>
 
-<!-- Should Include: I made a document for math 431 students with some latex info we could include -->
 
-  <p>
-    This is the first paragraph. <m>\sin(x)</m> is a math expression.
-  </p>
+
+<paragraphs>
+  <title>Getting Started in Overleaf</title>
+  <ol>
+    <li>
+      <p>
+        Create an account on https://www.overleaf.com
+      </p>
+    </li>
+    <li>
+      <p>
+        You can copy/paste or upload the HW template document found on canvas
+      </p>
+    </li>
+    <li>
+      <p>
+        Save a copy of this for starting a homework assignment so that the original copy remains as a template in your files
+      </p>
+    </li>
+    <li>
+      <p>
+        Edit the existing template, copy/paste or use the same text to add new sections, proofs, etc.
+      </p>
+    </li>
+    <li>
+      <p>
+        After you make changes, click "recompile" and the pdf will update and save
+      </p>
+    </li>
+    <li>
+      <p>
+        A cool thing about overleaf is that you can have different people sharing and working on a document together by sharing a document link
+      </p>
+    </li>
+  </ol>
+</paragraphs>
+
+<paragraphs>
+  <title>The Basics</title>
+  Whenever you want to write math, or use symbols, you need to start and end with a dollar sign [$]
+  <m>\$3+2x=7\$</m>
+</paragraphs>
+  
 
 </section>
