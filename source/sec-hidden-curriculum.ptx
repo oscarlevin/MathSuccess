@@ -312,7 +312,7 @@
         </row>
       </tabular>
     </table>
-    <p>[[NOTE]]</p>
+    <!-- <p>[[NOTE]]</p> -->
   <!-- </subsection> -->
   </paragraphs>
   <!-- <subsection xml:id="m00004-sect-00007"> -->
@@ -338,12 +338,12 @@
         </li>
       </ol>
     </p>
-    <p>[[NOTE]]</p>
+    <!-- <p>[[NOTE]]</p> -->
   <!-- </subsection> -->
     </paragraphs>
-  <conclusion>
-    <p>Original OpenStax book is available for free at <c/>, and is distributed with a  license.</p>
-    <p/>
-  </conclusion>
+  <!-- <conclusion> -->
+    <!-- <p>Original OpenStax book is available for free at <c/>, and is distributed with a  license.</p> -->
+    <!-- <p/> -->
+  <!-- </conclusion> -->
 
 </section>

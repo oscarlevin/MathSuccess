@@ -19,12 +19,12 @@
       </ul>
     </objectives>
     <p>In the previous sections in this chapter, you learned about the differences between high school and college and what to expect from your course work, professors, and classmates. There is one more element of the experience that will improve your ability to meet the expectations and new challenges: Your belief in your abilities to learn, grow, and change. No doubt that you have enrolled in college because you want to do those very things, but it is easy to get discouraged and revert to old ways of thinking about your abilities if you are not mindful of what kinds of thoughts you have about yourself. This section covers the concept of a fixed mindset, or the belief that you are born with certain unchangeable talents, and growth mindset, or the belief that with effort you can improve in any area. Understanding the role that your beliefs play in the eventual outcomes of your learning can help you get through those challenges that you may encounter.</p>
-    <figure xml:id="ch01fig08">
-      <caption>Many fields of study and work create intersections of growth and fixed mindset. People may feel great ability to grow and learn in some areas, like art and communication, but feel more limited in others, such as planning and financials. Recognizing these intersections will help you approach new topics and tasks, such as working with new classmates on projects in your chosen field.. (Credit: Lynccoff Games / Flickr Attribution 2.0 Generic (CC-BY 2.0))</caption>
-      <image width="100%" source="../m00005/../../media/CS_Figure_01_04_007.jpg">
-        <description>Five students gather closely around a table to review a document.</description>
-      </image>
-    </figure>
+    <!-- <figure xml:id="ch01fig08"> -->
+      <!-- <caption>Many fields of study and work create intersections of growth and fixed mindset. People may feel great ability to grow and learn in some areas, like art and communication, but feel more limited in others, such as planning and financials. Recognizing these intersections will help you approach new topics and tasks, such as working with new classmates on projects in your chosen field.. (Credit: Lynccoff Games / Flickr Attribution 2.0 Generic (CC-BY 2.0))</caption> -->
+      <!-- <image width="100%" source="../m00005/../../media/CS_Figure_01_04_007.jpg"> -->
+        <!-- <description>Five students gather closely around a table to review a document.</description> -->
+      <!-- </image> -->
+    <!-- </figure> -->
   </introduction>
   <!-- <subsection xml:id="m00005-sect-00001"> -->
     <paragraphs>
@@ -43,12 +43,12 @@
     <title>Fixed vs. Growth Mindset</title>
     <p>The research-based model of these two mindsets and their influence on learning was presented in 1988 by Carol Dweck. In Dweck’s work, she determined that a student’s perception about their own learning accompanied by a broader goal of learning had a significant influence on their ability to overcome challenges and grow in knowledge and ability. This has become known as the Fixed vs. Growth Mindset model. In this model, the <em>performance</em>-goal-oriented student is represented by the <em>fixed</em> mindset, while the <em>learning</em>-goal- oriented student is represented by the <em>growth</em> mindset.</p>
     <p>In the following graphic, based on Dr. Dweck’s research, you can see how many of the components associated with learning are impacted by these two mindsets.</p>
-    <figure xml:id="ch01fig09">
-      <caption>The differences between fixed and growth mindset are clear when aligned to key elements of learning and personality. (Credit: Based on work by Dr. Carol Dweck)</caption>
-      <image width="100%" source="../m00005/../../media/CS_Figure_02_08_001.png">
-        <description>A diagram illustrates the comparison between “Fixed Mindset” and “Growth Mindset” based on six different parameters.</description>
-      </image>
-    </figure>
+    <!-- <figure xml:id="ch01fig09"> -->
+      <!-- <caption>The differences between fixed and growth mindset are clear when aligned to key elements of learning and personality. (Credit: Based on work by Dr. Carol Dweck)</caption> -->
+      <!-- <image width="100%" source="../m00005/../../media/CS_Figure_02_08_001.png"> -->
+        <!-- <description>A diagram illustrates the comparison between “Fixed Mindset” and “Growth Mindset” based on six different parameters.</description> -->
+      <!-- </image> -->
+    <!-- </figure> -->
   </paragraphs>
   <!-- </subsection> -->
   <!-- <subsection xml:id="m00005-sect-00003"> -->
@@ -62,7 +62,7 @@
     <paragraphs>
     <title>Improving Your Ability to Learn</title>
     <p>As strange as it may seem, research into fixed vs. growth mindset has shown that if you believe you can learn something new, you greatly improve your ability to learn. At first, this may seem like the sort of feel-good advice we often encounter in social media posts or quotes that are intended to inspire or motivate us (e.g., <em>believe in yourself!</em>), but in looking at the differences outlined between a fixed and a growth mindset, you can see how each part of the growth mindset path can increase your probability of success when it comes to learning.</p>
-    <p>[[NOTE]]</p>
+    <!-- <p>[[NOTE]]</p> -->
     </paragraphs>
   <!-- </subsection> -->
  
