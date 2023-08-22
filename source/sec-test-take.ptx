@@ -31,12 +31,12 @@
   <paragraphs>
     <title>Leveraging Study Habits for Test Prep</title>
     <p>In your mind, you probably know what you need to do to be prepared for tests. Occasionally, something may surprise you—emphasis on a concept you considered unimportant or a different presentation of a familiar problem. But those should be exceptions. You can take all your well-honed study habits to get ready for exams. Here’s a checklist for study and test success for your consideration:</p>
-    <figure xml:id="ch06fig06">
+    <!-- <figure xml:id="ch06fig06">
       <caption/>
       <image width="100%" source="../m79873/../../media/CS_Figure_06_11_001.png">
         <description>An illustration shows a checklist for study and test success of students.</description>
       </image>
-    </figure>
+    </figure> -->
     <p>Read this list with each separate class in mind, and check off the items you already do. Give yourself one point for every item you checked. If you always take the success steps—congratulations! They are not a guarantee, but doing the steps mindfully will give you a nice head start. If you do fewer than five of the steps—you have some work to do. But recognition is a good place to start, and you can incorporate these steps starting now.</p>
     <p>As strange as this may sound, you can find some interesting research articles online about using the taste or smell of peppermint to increase memory, recall, and focus. Read more at: http://naturalsociety.com/mint-scent-improve-brain-cognition-memory. While sucking on a peppermint disk won’t replace studying, why not experiment with this relatively easy idea that seems to be gaining some scientific traction?</p>
   </paragraphs>
@@ -59,7 +59,7 @@
     <title>Prioritizing Time Surrounding Test Situations</title>
     <p>Keep in mind that you don’t have any more or less time than anyone else, so you can’t <em>make time</em> for an activity. You can only use the time everyone gets wisely and realistically. Exams in college classes are important, but they are not the only significant events you have in your classes. In fact, everything leading up to the exam, the exam itself, and the post-exam activities are all one large continuum. Think of the exam as an event with multiple phases, more like a long-distance run instead of a 50-yard dash. Step back and look at the big picture of this timeline. Draw it out on paper. What needs to happen between now and the exam so you feel comfortable, confident, and ready?</p>
     <p>If your instructor conducts some sort of pre-exam summary or prep session, make sure to attend. These can be invaluable. If this instructor does not provide that sort of formal exam prep, create your own with a group of classmates or on your own. Consider everything you know about the exam, from written instructions to notes you took in class, including any experiential notes you may have from previous exams, such as the possibility of bonus points for answering an extra question that requires some time management on your part. You can read more about time management in Chapter 3.</p>
-    <p>[[NOTE]]</p>
+    <!-- <p>[[NOTE]]</p> -->
   </paragraphs>
 </paragraphs>
 <paragraphs>
@@ -148,27 +148,7 @@
   <p>Studies have shown that parents contribute to test anxiety in children by drawing students’ attention to the test day and increasing pressure to perform well. Do you think that worrying about an upcoming test is as harmful as anxiety while taking the test? What do you think can be done to minimize worry?</p>
   <p>This <url href="https://openstax.org/l/testanxiety">article</url> discusses how to help with test anxiety.</p>
 </paragraphs>
-<paragraphs>
-  <title>Rethinking Student Survey</title>
-  <p>Revisit the questions you answered at the beginning of the chapter, and consider one option you learned in this chapter that might change your answer to one of them.</p>
-  <p>How confident are you in your skills at preparing for and taking tests? Take this quick survey to figure it out, ranking questions on a scale of 1–4, 1 meaning “least like me” and 4 meaning “most like me.”</p>
-  <p>
-    <ol xml:id="m79873-fs-idm211651584">
-      <li>
-        <p>I believe I set aside enough time to prepare for tests.</p>
-      </li>
-      <li>
-        <p>If I don’t set aside enough time, or if life gets in the way, I can usually cram and get similar results.</p>
-      </li>
-      <li>
-        <p>I prefer to pull all-nighters. The adrenaline and urgency help me remember what I need come test time.</p>
-      </li>
-      <li>
-        <p>I study my notes, highlight book passages, and use flash cards, but I still don’t feel like I’m as successful as I should be on tests.</p>
-      </li>
-    </ol>
-  </p>
-</paragraphs>
+
 
 
 
