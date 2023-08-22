@@ -4,9 +4,277 @@
   <title>Classroom Engagement</title>
 
 
+<paragraphs>
 
-  <p>
-    This is the first paragraph. <m>\sin(x)</m> is a math expression.
-  </p>
+  <title>Working in Groups</title>
+    <table xml:id="m00026-table-00001">
+      <caption>[[CAPTION]]</caption>
+      <tabular>
+        <row>
+          <cell>Estimated completion time: 18 minutes.</cell>
+        </row>
+      </tabular>
+    </table>
+    <p>
+      <em>Questions to Consider:</em>
+    </p>
+    <p>
+      <ul xml:id="m00026-list-00001">
+        <li>
+          <p>What are the benefits of working in groups?</p>
+        </li>
+        <li>
+          <p>What can I do to work effectively in a group?</p>
+        </li>
+      </ul>
+    </p>
+  </paragraphs>
+  <paragraphs>
+    <title>Benefits of Working in Groups</title>
+    <p>When a professor assigns group work, most students initially cringe because they have had poor experiences collaborating on a project. Many of them have tales of group members who didn’t contribute equally or who disappeared altogether. It is no wonder that a popular meme includes a photo of a casket being lowered into the ground with the words “When I die, I want my group members to lower me into my grave so they can let me down one last time.” We can laugh at this extreme reaction, but there is some truth in feeling apprehension about being disappointed by others. This section makes the case that if you know more about how group dynamics can and should work and how to communicate effectively during the process of completing a group project, you are more likely to have a positive – or successful – experience.</p>
+    <!-- <figure xml:id="fig-00001">
+      <caption>Group work will be an important and sometimes high-stakes aspect of many classes and perhaps entire programs. Understanding group work requirements and dynamics, particularly in different learning environments, is important for success. (Credit: Residorm Mugla Attribution 2.0 Generic (CC-BY 2.0))</caption>
+      <image width="100%" source="../m00026/../../media/CS_Figure_05_03_006.jpg">
+        <description>A group of people sits at a table in a work or common area.</description>
+      </image>
+    </figure> -->
+    <p>Why do professors assign group projects if they are often fraught with challenges? Perhaps it is because group projects are probably the most “real world” experience you will do in college. Very rarely will you be asked to create a report, present to a client, develop a new product or treatment, or fix a problem without working with others and depending on them to do their parts in a timely and professional manner. The more practice you have developing your own skills as a group member and troubleshooting when things don’t go smoothly, the more nimble you will be when you have to collaborate in your job.</p>
+    <p>If you approach working in groups by anticipating the challenges and developing strategies to minimize their negative impact, you will be able to weather the stresses more successfully. <xref ref="table-00002"/> provides some common challenges that you may experience working in a group and reviews the strategies you can use to minimize or eliminate the challenges.</p>
+    <table xml:id="m00026-table-00002">
+      <caption>[[CAPTION]]</caption>
+      <tabular>
+        <row bottom="major">
+          <cell>
+            <em>Challenges of Group Work</em>
+          </cell>
+          <cell>
+            <em>Strategies for Improving Group Work</em>
+          </cell>
+        </row>
+        <row>
+          <cell>Your grade may be dependent on the quality of others’ work.</cell>
+          <cell>Divide the assignment into parts, assign everyone a role that plays upon their strengths, and communicate expectations on quality.</cell>
+        </row>
+        <row>
+          <cell>You have to wait for others to complete their work before you can finish the assignment.</cell>
+          <cell>Create clear due dates for your group and monitor everyone’s progress on the project components.</cell>
+        </row>
+        <row>
+          <cell>You have to trust that others will fulfill their commitment to do their part of the assignment.</cell>
+          <cell>Create a group Code of Ethics or Shared Expectations document that outlines what each group member agrees to do.</cell>
+        </row>
+        <row>
+          <cell>Group members don’t show up or do not respond to communication.</cell>
+          <cell>Develop guidelines regarding missed meetings or lack of communication and implement consequences.</cell>
+        </row>
+      </tabular>
+    </table>
+  </paragraphs>
+  <paragraphs>
+    <title>Understanding Group Dynamics</title>
+    <p>One way to improve your work in groups is to learn more about group dynamics and stages. Bruce TuckmanTuckman, Bruce W (1965). “Developmental sequence in small groups”. Psychological Bulletin. <em>63</em> (6): 384–399. doi:10.1037/h0022100. PMID 14314073. (1965) developed a model of group development. His initial four phases are forming, storming, norming and performing. In the <em>forming</em> phase, group members learn more about the task they must complete as well as getting to know each other. For the most part, members act and think individually and may be polite or quiet when trying to make decisions about what needs to be done. Group conflict arises in the <em>storming</em> phase when roles are assigned and a leader emerges. Some members may not voice their concerns and suffer from internal (and unexpressed) conflict while others may openly argue about what needs to be done. Groups may skip this phase altogether if communication is clear and roles are assigned to interest and strengths. The next phase is <em>norming</em>, or when group members work collectively to help each other achieve their goal. Members are aware of how their part fits into the whole and are mindful of supporting each other. The last phase is <em>performing</em> and is marked by members’ competence and confidence to complete goals.</p>
+    <p>Some groups revert to previous phases when there is unresolved conflict or when communication breaks down. The goal of group work is not to have a conflict-free experience, but to learn how to negotiate challenges, concerns, and changes during the process. When group members set common goals, create clear expectations, and communicate regularly, they are less likely to experience insurmountable obstacles.</p>
+    <figure xml:id="fig-00002">
+      <caption>Tuckman’s (1965) Model of Group Development</caption>
+      <image width="100%" source="../m00026/../../media/CS_Figure_05_03_007.png">
+        <description>A cycle of four ideas is presented in the shape of a circle with arrows between all four ideas. Performing leads to forming leads to storming leads to norming, and norming leads back to performing.</description>
+      </image>
+    </figure>
+  </paragraphs>
+  <paragraphs>
+    <title>Setting Up Your Group for Success</title>
+    <paragraphs>
+      <title>Review Assignment</title>
+      <p>If we use the Tuckman (1965) model, we can anticipate the steps for creating a successful group. First, review the assignment and ensure that everyone understands the scope of the work, especially the expectations of the final product. Take some time to discuss what the parts of the assignment are and what the expected outcome should be. Will you be writing a paper? Will you be presenting original research? Will you need special equipment, technology, or software to complete the project? Get clarity on the assignment before you get too far into the work.</p>
+    </paragraphs>
+    <paragraphs>
+      <title>Choose Roles</title>
+      <p>Next, your group should determine roles. You may want to first determine the leader, or you may decide to share leadership between two members or choose a “second in command” should the leader not be able to fulfill the duties. Then, you will need to set roles and responsibilities for everyone else in the group. Be sure to discuss each other’s strengths, weaknesses, and interests. Different types of group projects call for different roles, so you may need to pick and choose what is appropriate for your project. <xref ref="table-00003"/> provides examples of roles and responsibilities that you may consider when assigning roles.</p>
+      <table xml:id="m00026-table-00003">
+        <caption>[[CAPTION]]</caption>
+        <tabular>
+          <row bottom="major">
+            <cell>
+              <em>Role</em>
+            </cell>
+            <cell>
+              <em>Responsibilities</em>
+            </cell>
+          </row>
+          <row>
+            <cell>Leader</cell>
+            <cell>Ensures that everyone in the group works towards the objectives of the assignment and stays on task.</cell>
+          </row>
+          <row>
+            <cell>Recorder/Secretary</cell>
+            <cell>Takes notes and shares them with the group. Keeps track of the work that is completed.</cell>
+          </row>
+          <row>
+            <cell>Critic/Evaluator</cell>
+            <cell>Provides feedback and evaluation on work. May also play “devil’s advocate” when discussing ideas.</cell>
+          </row>
+          <row>
+            <cell>Specialist</cell>
+            <cell>Uses strengths to take charge of one aspect of the project. Is responsible for coordinating with other specialists or the leader to meet group goals.</cell>
+          </row>
+          <row>
+            <cell>Task Leader/Timekeeper</cell>
+            <cell>Ensures that deadlines are met. Reorganizes work or renegotiates timelines if needed.</cell>
+          </row>
+          <row>
+            <cell>Energizer</cell>
+            <cell>Keeps the group’s energy high to complete the work.</cell>
+          </row>
+          <row>
+            <cell>Completer/Finisher</cell>
+            <cell>Checks the work against the assignment or evaluation rubric to make sure all parts are completed correctly. May also serve as a proofreader/editor.</cell>
+          </row>
+        </tabular>
+      </table>
+    </paragraphs>
+    <paragraphs>
+      <title>Create a Communication Plan</title>
+      <p>When you have assigned roles and responsibilities, your group should create a communication plan. Because college students have different schedules and obligations, you will find that a strong communication plan can make working together easier. You may find that you need to work asynchronously, or not at the same time, and clear communication expectations will help your group both in person and online run smoothly. Here are some questions to guide your communication plan:</p>
+      <p>
+        <ul xml:id="m00026-list-00002">
+          <li>
+            <p>How will the group communicate primarily?</p>
+          </li>
+          <li>
+            <p>What will be the back-up communication strategy?</p>
+          </li>
+          <li>
+            <p>What will you do if a group member doesn’t respond to or acknowledge messages?</p>
+          </li>
+        </ul>
+      </p>
+      <p>If group members do not want to share personal phone numbers, then consider using email or a shared drive folder to message each other.</p>
+    </paragraphs>
+    <paragraphs>
+      <title>Write a Group Contract</title>
+      <p>To ensure that all members uphold their responsibilities, create a contract that lists all the expectations for the group. You can use a template or create your own based on the group members’ roles, dynamics, and assignment requirements. A group contract can be helpful in managing conflict and directing group members should someone not do their part. Here are the components you will want to consider and an example below of a contract:</p>
+      <p>
+        <ol xml:id="m00026-list-00003">
+          <li>
+            <p><em>Assignment reminders.</em> Include a description of the goal or project and the final deadline.</p>
+          </li>
+          <li>
+            <p><em>General expectations or guiding principles.</em> Provide a list of general expectations or principles that will guide a successful group. For example, you may determine that acting respectfully, communicating honestly, and giving full effort are important group principles.</p>
+          </li>
+          <li>
+            <p><em>Specific expectations or tasks.</em> List expectations about communicating, delegating, meeting, completing tasks, and managing conflict.</p>
+          </li>
+          <li>
+            <p><em>Group members’ signatures.</em> Include signatures or initials of the group members to underscore the importance of the contract.</p>
+          </li>
+        </ol>
+      </p>
+      <figure xml:id="fig-00003">
+        <caption>Sample Group Work Contract</caption>
+        <image width="100%" source="../m00026/../../media/CS_Figure_05_03_008.png">
+          <description>Group Work Contract; Assignment: Information literacy source evaluations and slide presentation on the following topic: For-Profit Prisons; Due date: Friday, April 12; Guiding Principles: The group members commit to the following principles:; Each member will participate fully in each meeting; Each member will do their best work; Each member will ask for help if they are unable to complete their task on time; Each member will seek to resolve conflicts as soon as they arise; Each member will communicate promptly and honestly and professionally; Each member will adhere to academic integrity principles; Each member will initial each statement below as an indication that they understand and will abide by these commitments.; 1. Each member agrees to attend all meetings in person or online on time and for the duration of the meeting.; 2. If a member is late or misses part of the meeting, they will [insert consequence].; 3. If a member cheats or plagiarizes, they will be reported to the professor.; 4. Each member agrees to complete all work on time and to the best of their ability.; 5. If a member does not complete work or submits work late, they will [insert consequence].; 6. Each member agrees to listen actively and communicate clearly and professionally.; 7. If a member acts unprofessionally or contributes to a conflict, they will [insert consequence].</description>
+        </image>
+      </figure>
+      <p>[[NOTE]]</p>
+    </paragraphs>
+  </paragraphs>
+  <paragraphs>
+    <title>Managing Conflict in Groups</title>
+    <p>Conflict during group work does not have to be inevitable. With proper planning, clear roles and responsibilities, and a communication plan, your group can minimize a majority of issues that can arise. However, it is important to recognize what kinds of conflict can derail group work and review what steps you can take to get back on course. Here are a few examples of common conflicts:</p>
+    <p>
+      <ul xml:id="m00026-list-00004">
+        <li>
+          <p><em>No leader.</em> When no leader emerges, it may be difficult to move forward. If this happens, each member may need to take a specific task and assume responsibility for that task. Group members who are not comfortable being the leader may also feel more comfortable with co-leaders.</p>
+        </li>
+        <li>
+          <p><em>Too many leaders.</em> Many people with good ideas can derail a group project. If there are too many people vying to influence the group’s direction, ask all group members to speak openly about the conflict. The group may want to vote on who should assume the leadership positions or what direction the group should take if there are more than one good option.</p>
+        </li>
+        <li>
+          <p><em>Aggressiveness or hostility.</em> A group member who tries to take over the project or is openly hostile during the process can make the experience miserable for everyone involved. The leader should take action immediately when the issue arises by clearly naming the behavior, avoiding emotional language, asking the reasons behind the anger, and communicating a plan to move forward with the project. This may mean assigning the member to a specific and limited role, or, in extreme situations, removing (or asking to remove) the member from the group.</p>
+        </li>
+        <li>
+          <p><em>Lack of communication.</em> A group member who never responds to messages or who communicates inconsistently can make completing a group project very difficult. The leader should go back to the group contract and reach out to the member, preferably in writing, and describe the missing communication, the tasks that have not been completed, and what the group will be doing to move forward without the group member. Even if the group member never reads or responds to the message, the group will have evidence that they attempted to reach out.</p>
+        </li>
+        <li>
+          <p><em>Overpromising and underperforming.</em> A group member that takes on tasks, promises to do them well and on time, and consistently misses the mark should be talked with about the lack of work. A group member may need to take on their responsibilities to meet the deadline.</p>
+        </li>
+        <li>
+          <p><em>Low work quality.</em> If a member is not completing quality work, the group leader should step in to work with the other members to revise or edit the work, but the group should communicate with the member as to what has changed and why.</p>
+        </li>
+      </ul>
+    </p>
+    <p>Most conflict occurs when there is a lack of communication about what is expected. Providing your group members with examples of how to deliver bad or difficult news (e.g., “I am not able to meet my deadline” or “I think I need help with my tasks”) can help your members feel more comfortable when it does occur. Be sure to treat others respectfully and with kindness even if you are justifiably frustrated by your group members’ actions or inactions.</p>
+    <!-- <p>[[NOTE]]</p> -->
+  </paragraphs>
+  <paragraphs>
+    <title>Completing the Project</title>
+    <p>The project is complete when all the steps have been taken to submit or present it successfully, but that is not the end of the group work. You will want to also debrief on what worked and what could have been improved. Consider calling a brief meeting to review the process of completing the project or to review your graded work. Ask your group members what they felt were the group’s strengths and weaknesses. Use the debriefing to think about how to make changes to the process the next time you work in a group. Spend some time reflecting on what skills you still need to improve and how you can make the most of future group work.</p>
+  </paragraphs>
+  <paragraphs>
+    <title>Friends &amp; Family Matter</title>
+    <p>Michael’s group project seems to be destined to fail. The group members have been sporadic in attending meetings, communicating in the group text, and completing their work. If the project was not worth a third of their overall grade, Michael would have given up weeks ago. However, he really wants to do a good job, because he knows he needs to develop better communication skills and because his professor is part of the graduate admissions committee for physical therapy and her recommendation would be important.</p>
+    <p>The professor has communicated how she expects the groups to handle the workload and conflict. She wants them to resolve any issues that arise, and she does not want to be consulted on disputes that can be easily remedied by the group. She believes that these real-world experiences of working with others will help them develop project-planning and communication skills that are far more valuable than the grade they may earn.</p>
+    <p>The presentation and final paper are due in a week, and Michael is the only one who has kept to the agreed-upon schedule. He has heard nothing from his classmates about where they are in the process and when they will be able to hand over their parts. Unfortunately, Michael cannot finish his parts—writing the conclusion and finalizing the slides—without knowing what they found in their research. He is not sure what to do.</p>
+    <paragraphs>
+      <title>Let’s Think About It</title>
+      <p>Michael has several options. Think through the consequences of each one, and choose the best option or create your own option.</p>
+      <p>
+        <ul xml:id="m00026-list-00006">
+          <li>
+            <p>Michael does all the work himself and tells his professor in a private message that none of his group members contributed and do not deserve a grade for the project.</p>
+          </li>
+          <li>
+            <p>Michael sends a message to all his group members telling them that he will be doing all the work himself as an individual project and if they want to continue as a group, they can fill in his part themselves.</p>
+          </li>
+          <li>
+            <p>Michael offers to help fill in parts that need to be completed, waits patiently until a few days before the assignment is due, and completes as much as he can—his parts and others’ parts—without sharing with his professor the reality of the situation.</p>
+          </li>
+        </ul>
+      </p>
+    </paragraphs>
+    <paragraphs>
+      <title>Let’s Talk About It</title>
+      <p>Michael has a few communication challenges: his professor wants the groups to work out any conflict and his group is not communicating with him. While Michael may be limited in his ability to affect the outcome of the group presentation, he can communicate clearly with his group members. Here are some suggestions for communicating with others about the dilemma that Michael is facing:</p>
+      <p>
+        <ul xml:id="m00026-list-00007">
+          <li>
+            <p>“I realize that we are all really busy, but I want to reiterate what we agreed to do. At the very least, please communicate what you have done and what you need help with, so that we all can do our parts to complete this project.”</p>
+          </li>
+          <li>
+            <p>“I am feeling stressed about the lack of communication, and am concerned it will keep us from working effectively. Because I am leading our group work, I am proposing that those who do not meet the deadlines for having their part completed will be replaced by someone who can get the part done.”</p>
+          </li>
+          <li>
+            <p>“By next Thursday, if the group members who have not completed their parts do not update or share their work, I will be filling in those parts myself so that we can submit this work on time.”</p>
+          </li>
+        </ul>
+      </p>
+    </paragraphs>
+    <p>Whatever choice you would make in this situation, it is always best to communicate clearly your needs, your concerns, and even your uncertainties.</p>
+  </paragraphs>
+  <paragraphs>
+    <title>Summary and Next Steps for College Success</title>
+    <p>Developing healthy relationships and expanding your network of support are both important tasks for you to do in college. Without these relationships, your experience may be lackluster at best and lonely and difficult at worst. The first step to creating meaningful connections is to be healthy yourself and acknowledging the importance of community. There are also some ways you can jumpstart a relationship by improving your “small talk” skills. You will develop many relationships with different people while you are in college, but one of the most important is with your professors. Be sure to find ways to connect with them in and out of class. You will also want to be mindful of connecting with classmates, peers, mentors, and advisors as they will all be important to your network for success and support. Finally, there is no better way to really get to know others than when you work with them to complete a goal or a project. While group work strikes fear in some students, it doesn’t have to be a conflict-ridden endeavor. Consider what you can do to anticipate challenges and make the process as smooth as possible.</p>
+    <p>To make the most of the relationships that you will develop or strengthen, consider what else about relationships and working with others that you would like to improve. Choose one of the following to explore further this term:</p>
+    <p>
+      <ul xml:id="m00026-list-00005">
+        <li>
+          <p>Create a self-care routine that you incorporate into your weekly tasks. Read, watch, or listen to articles, books, videos, and podcasts about self-awareness, self-reflection, mindfulness, and stress reduction. These resources can help you build your self-care toolkit.</p>
+        </li>
+        <li>
+          <p>Find ways to connect to your community through organizations, clubs, events, and volunteer opportunities. Work on developing a solid sense of belonging academically, socially, and campuswide.</p>
+        </li>
+        <li>
+          <p>Get to know at least one professor this term and begin to build your support network of classmates, peers, mentors, and advisors. Commit to reaching out to people to begin developing relationships.</p>
+        </li>
+        <li>
+          <p>Talk with your family and friends about what kinds of support you would like from them while you are in college. Be clear about your needs.</p>
+        </li>
+        <li>
+          <p>Create a system for managing group work that includes assigning roles, setting goals, and developing communication expectations.</p>
+        </li>
+      </ul>
+    </p>
+  </paragraphs>
+  
 
 </section>
